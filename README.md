@@ -34,6 +34,9 @@ A list of tools, frameworks and plugins. Mostly Javascript stuff.
 - [talkie](https://github.com/kiln/talkie) - combines audio and animations
 - [Videojs](http://www.videojs.com/) - open source HTML5 video player
 
+### Social
+- [socialcount](https://github.com/filamentgroup/SocialCount/) - custom sharing buttons with share count
+
 ### Scraper & Crawler
 - [noodlejs](http://noodlejs.com/) - Node.js server and module for querying and scraping data from web documents
 - [crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider for Node.js + server-side jQuery
