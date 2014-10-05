@@ -51,5 +51,5 @@ A list of tools, frameworks and plugins. Mostly Javascript stuff.
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - custom sharing buttons with share count
 
 ### General
-- [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (for tooltips,dropdowns,etc)
+- [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown,tooltips,guide,selects)  
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - list of CSS button variations 
