@@ -26,6 +26,8 @@ A list of tools, frameworks and plugins. Mostly Javascript stuff.
 ### Text
 - [flowtype](http://simplefocus.com/flowtype/) - responsive typography
 - [dropcaps](https://github.com/adobe-webplatform/dropcap.js) - CSS dropcaps
+- [grandjs](http://mattduvall.com/grande.js/) - Javascript library that implements features from Medium's editing experience
+- [pen](http://sofish.github.io/pen) - editor with markdown support
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - video and audio handling
