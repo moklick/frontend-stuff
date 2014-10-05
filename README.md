@@ -1,13 +1,17 @@
-tools-frameworks-plugins
+frontend-stuff
 ========================
 
-A list of tools, frameworks and plugins. Mostly Javascript stuff.
+A list of frameworks and plugins I used when building things on the web. Mostly Javascript stuff.
 
-<!-- - [UI Frameworks](#ui-frameworks)
-- [Text](#text)
+- [UI Frameworks](#ui-frameworks)
 - [Charts](#charts)
+- [Text](#text)
 - [Video](#video)
-- [Scraper & Crawler](#scraper-&-crawler) -->
+- [Lazy Loading](#lazy-loading)
+- [Scrolling](#scrolling)
+- [Animations](#animations)
+- [Social](#social)
+- [General](#general)
 
 ### UI Frameworks
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
@@ -15,7 +19,6 @@ A list of tools, frameworks and plugins. Mostly Javascript stuff.
 - [pure](http://purecss.io/extend/) - A set of small, responsive CSS modules 
 - [bootflat](http://bootflat.github.io/index.html) - bootstrap with a flat design theme
 - [base](http://matthewhartman.github.io/base/) - responsive ss framework
-
 
 ### Charts
 - [nvd3](http://nvd3.org/) - Library based on d3
