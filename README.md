@@ -42,6 +42,9 @@ A list of tools, frameworks and plugins. Mostly Javascript stuff.
 - [echo](https://github.com/toddmotto/echo) - standalone JavaScript lazy-loading image micro-library
 - [Unveil](http://luis-almeida.github.io/unveil/) - lightweight plugin to lazy load images for jQuery or Zepto.js
 
+### Scrolling
+- [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
+
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - custom sharing buttons with share count
 
