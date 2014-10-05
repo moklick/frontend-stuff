@@ -36,10 +36,10 @@ A list of tools, frameworks and plugins. Mostly Javascript stuff.
 - [Videojs](http://www.videojs.com/) - open source HTML5 video player
 
 ### Lazy-Loading
-[Aload](http://pazguille.github.io/aload/) - Loads asynchronously images, scripts, styles and more!
-[loadXT](https://github.com/ressio/lazy-load-xt) - lazy loading for any elements
-[echo](https://github.com/toddmotto/echo) - standalone JavaScript lazy-loading image micro-library
-[Unveil](http://luis-almeida.github.io/unveil/) - lightweight plugin to lazy load images for jQuery or Zepto.js
+- [Aload](http://pazguille.github.io/aload/) - Loads asynchronously images, scripts, styles and more!
+- [loadXT](https://github.com/ressio/lazy-load-xt) - lazy loading for any elements
+- [echo](https://github.com/toddmotto/echo) - standalone JavaScript lazy-loading image micro-library
+- [Unveil](http://luis-almeida.github.io/unveil/) - lightweight plugin to lazy load images for jQuery or Zepto.js
 
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - custom sharing buttons with share count
