@@ -50,8 +50,3 @@ A list of tools, frameworks and plugins. Mostly Javascript stuff.
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - custom sharing buttons with share count
 
-### Scraper & Crawler
-- [noodlejs](http://noodlejs.com/) - Node.js server and module for querying and scraping data from web documents
-- [crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider for Node.js + server-side jQuery
-- [skrap](https://github.com/nickdima/skrap) - Easily scrap web pages by providing json recipes
-
