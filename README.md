@@ -9,18 +9,18 @@ A list of tools, frameworks and plugins. Mostly Javascript stuff.
 - [Scraper & Crawler](#scraper-&-crawler)
 
 ### UI Frameworks
-- [cardinal](http://cardinalcss.com/) 
-- [uikit](http://getuikit.com/index.html)
-- [pure](http://purecss.io/extend/)
-- [bootflat](http://bootflat.github.io/index.html)
-- [base](http://matthewhartman.github.io/base/) 
+- [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
+- [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
+- [pure](http://purecss.io/extend/) - A set of small, responsive CSS modules 
+- [bootflat](http://bootflat.github.io/index.html) - bootstrap with a flat design theme
+- [base](http://matthewhartman.github.io/base/) - responsive ss framework
 
 
 ### Charts
-- [nvd3](http://nvd3.org/) 
-- [c3](http://c3js.org/)
-- [chartjs](http://www.chartjs.org/)
-- [chartist](http://gionkunz.github.io/chartist-js/)
+- [nvd3](http://nvd3.org/) - library based on d3
+- [c3](http://c3js.org/) - library based on d3
+- [chartjs](http://www.chartjs.org/) - canvas based
+- [chartist](http://gionkunz.github.io/chartist-js/) - canvas based
 
 
 ### Text
