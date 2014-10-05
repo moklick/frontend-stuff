@@ -3,10 +3,10 @@ tools-frameworks-plugins
 
 A list of tools, frameworks and plugins. Mostly Javascript stuff.
 
-/*- [UI Frameworks](#ui-frameworks)
+- [UI Frameworks](#ui-frameworks)
 - [Text](#text)
 - [Charts](#charts)
-- [Scraper & Crawler](#scraper-&-crawler)*/
+- [Scraper & Crawler](#scraper-&-crawler)
 
 ### UI Frameworks
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
