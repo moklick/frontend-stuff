@@ -5,7 +5,7 @@ A list of frameworks and plugins I used when building things on the web. Mostly 
 
 - [UI Frameworks](#ui-frameworks)
 - [Charts](#charts)
-- [MAps](#maps)
+- [Maps](#maps)
 - [Text](#text)
 - [Video](#video)
 - [Lazy Loading](#lazy-loading)
