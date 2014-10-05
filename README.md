@@ -6,6 +6,7 @@ A list of tools, frameworks and plugins. Mostly Javascript stuff.
 <!-- - [UI Frameworks](#ui-frameworks)
 - [Text](#text)
 - [Charts](#charts)
+- [Video](#video)
 - [Scraper & Crawler](#scraper-&-crawler) -->
 
 ### UI Frameworks
@@ -27,6 +28,11 @@ A list of tools, frameworks and plugins. Mostly Javascript stuff.
 - [flowtype](http://simplefocus.com/flowtype/) - responsive typography
 - [dropcaps](https://github.com/adobe-webplatform/dropcap.js) - CSS dropcaps
 
+### Video
+- [medialementjs](http://mediaelementjs.com/) - video and audio handling
+- [Fitvid](http://fitvidsjs.com/) - responsive videos
+- [talkie](https://github.com/kiln/talkie) - combines audio and animations
+- [Videojs](http://www.videojs.com/) - open source HTML5 video player
 
 ### Scraper & Crawler
 - [noodlejs](http://noodlejs.com/) - Node.js server and module for querying and scraping data from web documents
