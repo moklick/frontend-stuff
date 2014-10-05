@@ -20,6 +20,7 @@ A list of tools, frameworks and plugins. Mostly Javascript stuff.
 ### Charts
 - [nvd3](http://nvd3.org/) - library based on d3
 - [c3](http://c3js.org/) - library based on d3
+- [dc](http://dc-js.github.io/dc.js/) - for heavy amounts of data
 - [chartjs](http://www.chartjs.org/) - canvas based
 - [chartist](http://gionkunz.github.io/chartist-js/) - canvas based
 
