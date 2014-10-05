@@ -44,6 +44,8 @@ A list of tools, frameworks and plugins. Mostly Javascript stuff.
 
 ### Scrolling
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
+- [WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
+- [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
 
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - custom sharing buttons with share count
