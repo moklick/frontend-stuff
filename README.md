@@ -26,8 +26,8 @@ A list of frameworks and plugins I used when building things on the web. Mostly 
 - [c3](http://c3js.org/) - Library based on d3
 - [dc](http://dc-js.github.io/dc.js/) - For heavy amounts of data
 - [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
-- [chartjs](http://www.chartjs.org/) - simple responsive charts
-- [chartist](http://gionkunz.github.io/chartist-js/) - canvas based
+- [chartjs](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
+- [chartist](http://gionkunz.github.io/chartist-js/) - simple responsive charts
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
