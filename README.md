@@ -31,7 +31,7 @@ A list of frameworks and plugins I used when building things on the web. Mostly 
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
-- [topojson](http://c3js.org/) - Library based on d3
+- [topojson](https://github.com/mbostock/topojson) - Library based on d3
 - [leaflet topojson support](https://gist.github.com/rclark/5779673) - TopoJSON-aware Leaflet layer
 
 ### Text
