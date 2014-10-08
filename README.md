@@ -12,7 +12,7 @@ A list of frameworks and plugins I used when building things on the web. Mostly 
 - [Scrolling](#scrolling)
 - [Animations](#animations)
 - [Social](#social)
-- [General](#general)
+- [UI Elements](#ui-elements)
 
 ### UI Frameworks
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
@@ -28,6 +28,7 @@ A list of frameworks and plugins I used when building things on the web. Mostly 
 - [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
 - [chartjs](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 - [chartist](http://gionkunz.github.io/chartist-js/) - simple responsive charts
+- [sparkline](https://github.com/gwatts/jquery.sparkline) - library to generate small sparkline charts 
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
@@ -64,9 +65,11 @@ A list of frameworks and plugins I used when building things on the web. Mostly 
 - [impulse](https://github.com/luster-io/impulse) - Dynamic Physics Interactions for the Mobile Web
 - [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation
 
+### UI Elements
+- [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown,tooltips,guide,selects)  
+- [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations 
+- [select2](https://github.com/ivaynberg/select2) - jQuery based replacement for select boxes 
+
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
 
-### General
-- [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown,tooltips,guide,selects)  
-- [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations 
