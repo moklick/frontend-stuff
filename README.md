@@ -17,7 +17,7 @@ A list of frameworks and plugins I used when building things on the web. Mostly 
 ### UI Frameworks
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
-- [pure](http://purecss.io/extend/) - A set of small, responsive CSS modules 
+- [pure](http://purecss.io/) - A set of small, responsive CSS modules 
 - [bootflat](http://bootflat.github.io/index.html) - bootstrap with a flat design theme
 - [base](http://matthewhartman.github.io/base/) - responsive ss framework
 
