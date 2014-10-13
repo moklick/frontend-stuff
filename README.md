@@ -71,7 +71,7 @@ A list of frameworks and plugins I used or want to use when building things on t
 - [select2](https://github.com/ivaynberg/select2) - JQuery based replacement for select boxes
 - [chosen](https://github.com/harvesthq/chosen) - Library for making long, unwieldy select boxes more friendly
 
-### Templates
+### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
 - [mustache](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [Hogan](http://twitter.github.io/hogan.js/) - Javascript templating
