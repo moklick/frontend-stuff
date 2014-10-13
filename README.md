@@ -68,7 +68,8 @@ A list of frameworks and plugins I used when building things on the web. Mostly 
 ### UI Elements
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown,tooltips,guide,selects)  
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations 
-- [select2](https://github.com/ivaynberg/select2) - jQuery based replacement for select boxes 
+- [select2](https://github.com/ivaynberg/select2) - JQuery based replacement for select boxes
+- [chosen](https://github.com/harvesthq/chosen) - Library for making long, unwieldy select boxes more friendly
 
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
