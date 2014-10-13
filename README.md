@@ -11,8 +11,10 @@ A list of frameworks and plugins I used or want to use when building things on t
 - [Lazy Loading](#lazy-loading)
 - [Scrolling](#scrolling)
 - [Animations](#animations)
-- [Social](#social)
 - [UI Elements](#ui-elements)
+- [Templating](#templating)
+- [Social](#social)
+
 
 ### UI Frameworks
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
