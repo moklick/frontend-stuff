@@ -1,7 +1,7 @@
 Frontend stuff
 ========================
 
-A list of frameworks and plugins I used when building things on the web. Mostly Javascript stuff.
+A list of frameworks and plugins I used or want to use when building things on the web. Mostly Javascript stuff.
 
 - [UI Frameworks](#ui-frameworks)
 - [Charts](#charts)
@@ -70,6 +70,11 @@ A list of frameworks and plugins I used when building things on the web. Mostly 
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations 
 - [select2](https://github.com/ivaynberg/select2) - JQuery based replacement for select boxes
 - [chosen](https://github.com/harvesthq/chosen) - Library for making long, unwieldy select boxes more friendly
+
+### Templates
+- [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
+- [mustache](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
+- [Hogan](http://twitter.github.io/hogan.js/) - Javascript templating
 
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
