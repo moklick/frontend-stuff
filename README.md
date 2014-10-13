@@ -1,7 +1,8 @@
 Frontend stuff
 ========================
 
-A list of frameworks and plugins I used or want to use when building things on the web. Mostly Javascript stuff.
+A continuously expanded list of frameworks and plugins I used or want to use when building things on the web. Mostly Javascript stuff.
+
 
 - [UI Frameworks](#ui-frameworks)
 - [Charts](#charts)
@@ -13,6 +14,7 @@ A list of frameworks and plugins I used or want to use when building things on t
 - [Animations](#animations)
 - [UI Elements](#ui-elements)
 - [Templating](#templating)
+- [Icons](#icons)
 - [Social](#social)
 
 
@@ -77,6 +79,11 @@ A list of frameworks and plugins I used or want to use when building things on t
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
 - [mustache](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [Hogan](http://twitter.github.io/hogan.js/) - Javascript templating
+
+### Icons
+- [weloveiconfonts](http://weloveiconfonts.com/) - a free & open source icon fonts hosting service
+- [fontawesome](http://fortawesome.github.io/Font-Awesome/) - Gives you scalable vector icons that can instantly be customized
+- [fontello](http://fontello.com/) - Icon fonts generator
 
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
