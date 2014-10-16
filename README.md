@@ -78,6 +78,7 @@ A continuously expanded list of frameworks and plugins I used or want to use whe
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
 - [mustache](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
+- [dotjs](https://github.com/olado/doT) - Fast templating engine
 - [Hogan](http://twitter.github.io/hogan.js/) - Javascript templating
 
 ### Icons
