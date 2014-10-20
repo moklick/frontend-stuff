@@ -32,7 +32,8 @@ A continuously expanded list of frameworks and plugins I used or want to use whe
 - [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
 - [chartjs](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 - [chartist](http://gionkunz.github.io/chartist-js/) - simple responsive charts
-- [sparkline](https://github.com/gwatts/jquery.sparkline) - library to generate small sparkline charts 
+- [sparkline](https://github.com/gwatts/jquery.sparkline) - library to generate small sparkline charts
+- [jsplumb](https://github.com/sporritt/jsplumb/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
