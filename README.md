@@ -15,6 +15,7 @@ A continuously expanded list of frameworks and plugins I used or want to use whe
 - [UI Elements](#ui-elements)
 - [Templating](#templating)
 - [Icons](#icons)
+- [Colors](#colors)
 - [Social](#social)
 
 
