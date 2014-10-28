@@ -87,6 +87,11 @@ A continuously expanded list of frameworks and plugins I used or want to use whe
 - [fontawesome](http://fortawesome.github.io/Font-Awesome/) - Gives you scalable vector icons that can instantly be customized
 - [fontello](http://fontello.com/) - Icon fonts generator
 
+### Colors
+- [coolors](http://coolors.co/) - super fast color scheme generator
+- [bootflat color picker](http://bootflat.github.io/color-picker.html) - color picker for flat design 
+- [color](http://color.hailpixel.com/) - intuitive color picker
+
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
 
