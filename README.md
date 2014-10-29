@@ -84,15 +84,15 @@ A continuously expanded list of frameworks and plugins I used or want to use whe
 - [Hogan](http://twitter.github.io/hogan.js/) - Javascript templating
 
 ### Icons
-- [weloveiconfonts](http://weloveiconfonts.com/) - a free & open source icon fonts hosting service
+- [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
 - [fontawesome](http://fortawesome.github.io/Font-Awesome/) - Gives you scalable vector icons that can instantly be customized
 - [fontello](http://fontello.com/) - Icon fonts generator
+- [elegant](http://www.elegantthemes.com/blog/resources/elegant-icon-font) - Elegant Icon font
 
 ### Colors
-- [coolors](http://coolors.co/) - super fast color scheme generator
-- [bootflat color picker](http://bootflat.github.io/color-picker.html) - color picker for flat design 
-- [color](http://color.hailpixel.com/) - intuitive color picker
+- [coolors](http://coolors.co/) - Super fast color scheme generator
+- [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design 
+- [color](http://color.hailpixel.com/) - Intuitive color picker
 
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
-
