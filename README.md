@@ -42,6 +42,7 @@ A continuously expanded list of frameworks and plugins I used or want to use whe
 - [leaflet topojson support](https://gist.github.com/rclark/5779673) - TopoJSON-aware Leaflet layer
 - [leaflet plugins](http://leafletjs.com/plugins.html) - Notable Leaflet Plugins
 - [leaflet generator](https://github.com/moklick/generator-leaflet) - Yeoman generator that scaffolds out a leaflet map application
+- [planetary](http://planetaryjs.com/) - Interactive globes for the web
 
 ### Text
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
