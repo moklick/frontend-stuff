@@ -87,9 +87,10 @@ A continuously expanded list of frameworks and plugins I used or want to use whe
 
 ### Icons
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
-- [fontawesome](http://fortawesome.github.io/Font-Awesome/) - Gives you scalable vector icons that can instantly be customized
+- [the nounproject](http://thenounproject.com/) - Icon search
 - [fontello](http://fontello.com/) - Icon fonts generator
 - [elegant](http://www.elegantthemes.com/blog/resources/elegant-icon-font) - Elegant Icon font
+- [fontawesome](http://fortawesome.github.io/Font-Awesome/) - Gives you scalable vector icons that can instantly be customized
 
 ### Colors
 - [coolors](http://coolors.co/) - Super fast color scheme generator
