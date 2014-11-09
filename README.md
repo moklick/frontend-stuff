@@ -30,6 +30,7 @@ A continuously expanded list of frameworks and plugins I used or want to use whe
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
 - [c3](http://c3js.org/) - D3-based reusable chart library
 - [dc](http://dc-js.github.io/dc.js/) - For heavy amounts of data
+- [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3
 - [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
 - [chartjs](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 - [chartist](http://gionkunz.github.io/chartist-js/) - simple responsive charts
