@@ -1,7 +1,7 @@
 Frontend stuff
 ========================
 
-A continuously expanded list of frameworks and plugins I used or want to use when building things on the web. Mostly Javascript stuff.
+A continuously expanded list of framework/plugins and tools I used/want to use when building things on the web. Mostly Javascript stuff.
 
 
 - [UI Frameworks](#ui-frameworks)
@@ -100,6 +100,7 @@ A continuously expanded list of frameworks and plugins I used or want to use whe
 - [coolors](http://coolors.co/) - Super fast color scheme generator
 - [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design 
 - [color](http://color.hailpixel.com/) - Intuitive color picker
+- [colourco](http://colourco.de/) - Color scheme tool
 
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
