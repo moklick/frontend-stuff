@@ -53,6 +53,7 @@ A continuously expanded list of frameworks and plugins I used or want to use whe
 - [grandjs](http://mattduvall.com/grande.js/) - Javascript library that implements features from Medium's editing experience
 - [pen](http://sofish.github.io/pen) - Editor with markdown support
 - [lettering](http://letteringjs.com/) - JQuery web typography plugin
+- [bacon](http://baconforme.com/) - Wraps text around a bezier curve or a line
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
