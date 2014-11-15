@@ -32,6 +32,7 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [dc](http://dc-js.github.io/dc.js/) - For heavy amounts of data
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3
 - [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
+- [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
 - [chartjs](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 - [chartist](http://gionkunz.github.io/chartist-js/) - simple responsive charts
 - [sparkline](https://github.com/gwatts/jquery.sparkline) - sparkline charts library
