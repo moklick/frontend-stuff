@@ -55,6 +55,8 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [pen](http://sofish.github.io/pen) - Editor with markdown support
 - [lettering](http://letteringjs.com/) - JQuery web typography plugin
 - [bacon](http://baconforme.com/) - Wraps text around a bezier curve or a line
+- [smart underline](https://eager.io/showcase/SmartUnderline/) - Descender-aware underlines for every browser
+
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
