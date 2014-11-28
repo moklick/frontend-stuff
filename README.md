@@ -9,6 +9,7 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [Maps](#maps)
 - [Text](#text)
 - [Video](#video)
+- [Audio](#audio)
 - [Lazy Loading](#lazy-loading)
 - [Scrolling](#scrolling)
 - [Animations](#animations)
@@ -63,6 +64,11 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [Fitvid](http://fitvidsjs.com/) - Responsive videos
 - [talkie](https://github.com/kiln/talkie) - Combines audio and animations
 - [Videojs](http://www.videojs.com/) - Open source HTML5 video player
+
+### Audio
+- [blip](http://jshanley.github.io/blip/) - Web Audio API wrapper
+- [howler](https://github.com/goldfire/howler.js/) - Audio library
+- [soundjs](https://github.com/CreateJS/SoundJS) - Audio library + simple interface
 
 ### Lazy-Loading
 - [Aload](http://pazguille.github.io/aload/) - Loads asynchronously images, scripts, styles and more!
