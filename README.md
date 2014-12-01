@@ -69,6 +69,7 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [blip](http://jshanley.github.io/blip/) - Web Audio API wrapper
 - [howler](https://github.com/goldfire/howler.js/) - Audio library
 - [soundjs](https://github.com/CreateJS/SoundJS) - Audio library + simple interface
+- [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
 
 ### Lazy-Loading
 - [Aload](http://pazguille.github.io/aload/) - Loads asynchronously images, scripts, styles and more!
