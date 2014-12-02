@@ -21,6 +21,7 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 
 
 ### UI Frameworks
+- [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
 - [pure](http://purecss.io/) - A set of small, responsive CSS modules 
