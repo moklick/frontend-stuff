@@ -106,6 +106,7 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [octicons](https://octicons.github.com/) - Github icons
 - [elegant](http://www.elegantthemes.com/blog/resources/elegant-icon-font) - Elegant Icon font
 - [fontawesome](http://fortawesome.github.io/Font-Awesome/) - Gives you scalable vector icons that can instantly be customized
+- [evil icons](http://evil-icons.io/) - Lightweight SVG icons
 
 ### Colors
 - [coolors](http://coolors.co/) - Super fast color scheme generator
