@@ -37,6 +37,7 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
 - [chartjs](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 - [chartist](http://gionkunz.github.io/chartist-js/) - simple responsive charts
+- [dimple](http://dimplejs.org) - An object-oriented API for business analytics powered by d3.
 - [sparkline](https://github.com/gwatts/jquery.sparkline) - sparkline charts library
 - [jsplumb](https://github.com/sporritt/jsplumb/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 
