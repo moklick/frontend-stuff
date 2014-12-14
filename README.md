@@ -88,6 +88,7 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [impulse](https://github.com/luster-io/impulse) - Dynamic Physics Interactions for the Mobile Web
 - [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation
 - [GSAP](https://greensock.com/gsap) - Fast animation library
+- [bounce.js](https://github.com/tictail/bounce.js) - CSS3 powered animations
 
 ### UI Elements
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown,tooltips,guide,selects)  
