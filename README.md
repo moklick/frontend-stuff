@@ -37,7 +37,7 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
 - [chartjs](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 - [chartist](http://gionkunz.github.io/chartist-js/) - simple responsive charts
-- [dimple](http://dimplejs.org) - An object-oriented API for business analytics powered by d3.
+- [dimple](http://dimplejs.org) - An object-oriented API for business analytics powered by d3
 - [sparkline](https://github.com/gwatts/jquery.sparkline) - sparkline charts library
 - [jsplumb](https://github.com/sporritt/jsplumb/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 
@@ -87,6 +87,7 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 ### Animations
 - [impulse](https://github.com/luster-io/impulse) - Dynamic Physics Interactions for the Mobile Web
 - [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation
+- [GSAP](https://greensock.com/gsap) - Fast animation library
 
 ### UI Elements
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown,tooltips,guide,selects)  
