@@ -19,7 +19,6 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [Colors](#colors)
 - [Social](#social)
 
-
 ### UI Frameworks
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
@@ -60,7 +59,6 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [bacon](http://baconforme.com/) - Wraps text around a bezier curve or a line
 - [smart underline](https://eager.io/showcase/SmartUnderline/) - Descender-aware underlines for every browser
 
-
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
 - [Fitvid](http://fitvidsjs.com/) - Responsive videos
@@ -83,6 +81,7 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
 - [WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
 - [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
+- [fracs](https://github.com/lrsjng/jquery-fracs) - Plugin to determine the visible fractions of HTML elements
 
 ### Animations
 - [impulse](https://github.com/luster-io/impulse) - Dynamic Physics Interactions for the Mobile Web
