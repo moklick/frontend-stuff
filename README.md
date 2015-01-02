@@ -15,6 +15,7 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [Animations](#animations)
 - [UI Elements](#ui-elements)
 - [Templating](#templating)
+- [General](#general)
 - [Icons](#icons)
 - [Colors](#colors)
 - [Social](#social)
@@ -101,6 +102,9 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [dotjs](https://github.com/olado/doT) - Fast templating engine
 - [Hogan](http://twitter.github.io/hogan.js/) - Javascript templating
 
+### General
+- [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
+
 ### Icons
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
 - [the nounproject](http://thenounproject.com/) - Icon search
@@ -119,3 +123,4 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
 - [whatsapp button](http://whatsapp-sharing.com/) - Creates a whatsapp sharing button
+
