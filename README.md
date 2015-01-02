@@ -15,7 +15,7 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [Animations](#animations)
 - [UI Elements](#ui-elements)
 - [Templating](#templating)
-- [Ajax](#ajax)
+- [HTTP requests](#http-requests)
 - [General](#general)
 - [Icons](#icons)
 - [Colors](#colors)
@@ -103,7 +103,7 @@ A continuously expanded list of framework/plugins and tools I used/want to use w
 - [dotjs](https://github.com/olado/doT) - Fast templating engine
 - [Hogan](http://twitter.github.io/hogan.js/) - Javascript templating
 
-### Ajax
+### HTTP requests
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous http requests
 - [superagent](https://github.com/visionmedia/superagent) - Client-side HTTP request library
 - [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript And JSON(P)
