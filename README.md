@@ -90,6 +90,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation
 - [GSAP](https://greensock.com/gsap) - Fast animation library
 - [bounce.js](https://github.com/tictail/bounce.js) - CSS3 powered animations
+- [snabbt](https://github.com/daniel-lundin/snabbt.js) - Animations with javascript and CSS transforms
 
 ### UI Elements
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown,tooltips,guide,selects)  
