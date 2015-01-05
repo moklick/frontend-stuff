@@ -39,7 +39,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [chartjs](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 - [chartist](http://gionkunz.github.io/chartist-js/) - simple responsive charts
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics powered by d3
-- [sparkline](https://github.com/gwatts/jquery.sparkline) - sparkline charts library
+- [sparkline](https://github.com/gwatts/jquery.sparkline) - Sparkline charts library
+- [sparky](https://github.com/shawnbot/sparky) - Sparkline charts library based on rapahel
 - [jsplumb](https://github.com/sporritt/jsplumb/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 
 ### Maps
