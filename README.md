@@ -28,7 +28,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [pure](http://purecss.io/) - A set of small, responsive CSS modules 
 - [bootflat](http://bootflat.github.io/index.html) - Bootstrap with a flat design theme
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
-- [papier](https://github.com/alexanderGugel/papier) - Material design like Minimal CSS framework
+- [papier](https://github.com/alexanderGugel/papier) - Material design like minimal CSS framework
 
 ### Charts
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
