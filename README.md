@@ -52,7 +52,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [leaflet generator](https://github.com/moklick/generator-leaflet) - Yeoman generator that scaffolds out a leaflet map application
 - [planetary](http://planetaryjs.com/) - Interactive globes for the web
 - [smallworld](http://mikefowler.me/smallworld.js/) - A small utility for generating a small world
-- [turfjs](https://github.com/Turfjs/turf) - A modular geospatial engine written
+- [turf](https://github.com/Turfjs/turf) - A modular geospatial engine written
 
 ### Text
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
