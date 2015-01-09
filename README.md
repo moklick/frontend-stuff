@@ -52,6 +52,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [leaflet generator](https://github.com/moklick/generator-leaflet) - Yeoman generator that scaffolds out a leaflet map application
 - [planetary](http://planetaryjs.com/) - Interactive globes for the web
 - [smallworld](http://mikefowler.me/smallworld.js/) - A small utility for generating a small world
+- [turfjs](https://github.com/Turfjs/turf) - A modular geospatial engine written
 
 ### Text
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
@@ -107,7 +108,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Hogan](http://twitter.github.io/hogan.js/) - Javascript templating
 
 ### HTTP requests
-- [reqwest](https://github.com/ded/reqwest) - Browser asynchronous http requests
+- [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
 - [superagent](https://github.com/visionmedia/superagent) - Client-side HTTP request library
 - [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript And JSON(P)
 
