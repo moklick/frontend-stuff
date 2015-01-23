@@ -10,6 +10,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Text](#text)
 - [Video](#video)
 - [Audio](#audio)
+- [Tables](#tables)
 - [Lazy Loading](#lazy-loading)
 - [Scrolling](#scrolling)
 - [Animations](#animations)
@@ -75,6 +76,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [howler](https://github.com/goldfire/howler.js/) - Audio library
 - [soundjs](https://github.com/CreateJS/SoundJS) - Audio library + simple interface
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
+
+### Tables
+- [sortable](https://github.com/HubSpot/sortable/) - Makes tables sortable
+- [handsome table](http://handsontable.com/) - Minimalist Excel-like data grid editor 
 
 ### Lazy-Loading
 - [Aload](http://pazguille.github.io/aload/) - Loads asynchronously images, scripts, styles and more!
