@@ -79,7 +79,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Tables
 - [sortable](https://github.com/HubSpot/sortable/) - Makes tables sortable
-- [handsome table](http://handsontable.com/) - Minimalist Excel-like data grid editor 
+- [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor 
 
 ### Lazy-Loading
 - [Aload](http://pazguille.github.io/aload/) - Loads asynchronously images, scripts, styles and more!
