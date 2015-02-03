@@ -81,6 +81,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Tables
 - [sortable](https://github.com/HubSpot/sortable/) - Makes tables sortable
 - [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor 
+- [dynatables](https://github.com/alfajango/jquery-dynatable/) - Semantic and interactive table plugin using jQuery, HTML5, and JSON
 
 ### Lazy-Loading
 - [Aload](http://pazguille.github.io/aload/) - Loads asynchronously images, scripts, styles and more!
