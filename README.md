@@ -121,6 +121,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### General
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
+- [awesomplete](https://github.com/LeaVerou/awesomplete) - Lightweight autocomplete
 
 ### Icons
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
