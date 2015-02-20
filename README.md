@@ -54,7 +54,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [leaflet generator](https://github.com/moklick/generator-leaflet) - Yeoman generator that scaffolds out a leaflet map application
 - [planetary](http://planetaryjs.com/) - Interactive globes for the web
 - [smallworld](http://mikefowler.me/smallworld.js/) - A small utility for generating a small world
-- [turf](https://github.com/Turfjs/turf) - A modular geospatial engine written
+- [turf](https://github.com/Turfjs/turf) - A modular geospatial engine
 
 ### Text
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
@@ -103,6 +103,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [snabbt](https://github.com/daniel-lundin/snabbt.js) - Animations with javascript and CSS transforms
 
 ### UI Elements
+- [awesomplete](https://github.com/LeaVerou/awesomplete) - Lightweight autocomplete
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown,tooltips,guide,selects)  
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations 
 - [select2](https://github.com/ivaynberg/select2) - JQuery based replacement for select boxes
@@ -121,7 +122,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### General
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
-- [awesomplete](https://github.com/LeaVerou/awesomplete) - Lightweight autocomplete
 
 ### Icons
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
