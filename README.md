@@ -145,4 +145,5 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
 - [whatsapp button](https://github.com/kriskbx/whatsapp-sharing) - Creates a whatsapp sharing button
+- [rrssb](https://github.com/kni-labs/rrssb) - Ridiculously Responsive Social Sharing Buttons
 
