@@ -17,6 +17,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [UI Elements](#ui-elements)
 - [Templating](#templating)
 - [HTTP requests](#http-requests)
+- [Dates](#dates)
 - [General](#general)
 - [Icons](#icons)
 - [Colors](#colors)
@@ -119,6 +120,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
 - [superagent](https://github.com/visionmedia/superagent) - Client-side HTTP request library
 - [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript And JSON(P)
+
+### Dates
+- [moment.js](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates
 
 ### General
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
