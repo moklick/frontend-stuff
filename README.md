@@ -47,6 +47,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [sparky](https://github.com/shawnbot/sparky) - Sparkline charts library based on rapahel
 - [jsplumb](https://github.com/sporritt/jsplumb/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 
+### Graphs
+- [sigmajs](http://sigmajs.org/) - Library dedicated to graph drawing
+
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
 - [topojson](https://github.com/mbostock/topojson) - An extension to GeoJSON that encodes topology
@@ -95,6 +98,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
 - [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
 - [fracs](https://github.com/lrsjng/jquery-fracs) - Plugin to determine the visible fractions of HTML elements
+- [onepage-scroll](https://github.com/peachananr/onepage-scroll) - A jQuery plugin to create an Apple-like one page scroller website
 
 ### Animations
 - [impulse](https://github.com/luster-io/impulse) - Dynamic Physics Interactions for the Mobile Web
@@ -126,6 +130,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### General
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
+- [fitjs](http://soulwire.github.io/fit.js/) - Fit things into other things
+- [squire](https://github.com/neilj/Squire) - HTML5 rich text editor
 
 ### Icons
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
@@ -135,6 +141,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [elegant](http://www.elegantthemes.com/blog/resources/elegant-icon-font) - Elegant Icon font
 - [fontawesome](http://fortawesome.github.io/Font-Awesome/) - Gives you scalable vector icons that can instantly be customized
 - [evil icons](http://evil-icons.io/) - Lightweight SVG icons
+- [marka](http://fian.my.id/marka/) - Beautiful transformable icons built for the web.
+
+### Fonts
+- [pluminjs](http://www.pluminjs.com/) - Create and manipulate fonts like there's no tomorrow
 
 ### Colors
 - [coolors](http://coolors.co/) - Super fast color scheme generator
@@ -147,3 +157,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [whatsapp button](https://github.com/kriskbx/whatsapp-sharing) - Creates a whatsapp sharing button
 - [rrssb](https://github.com/kni-labs/rrssb) - Ridiculously Responsive Social Sharing Buttons
 
+### Transitions
+- [odometer](http://github.hubspot.com/odometer/docs/welcome/) - Smoothly transitions numbers with ease
+- [timelinejs](http://timeline.knightlab.com/) - A Storytelling Timeline built in JavaScript
+
+### Favicon
+- [faviconjs](http://lab.ejci.net/favico.js/) - Make a use of your favicon with badges, images or videos
