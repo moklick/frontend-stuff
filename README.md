@@ -135,6 +135,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [elegant](http://www.elegantthemes.com/blog/resources/elegant-icon-font) - Elegant Icon font
 - [fontawesome](http://fortawesome.github.io/Font-Awesome/) - Gives you scalable vector icons that can instantly be customized
 - [evil icons](http://evil-icons.io/) - Lightweight SVG icons
+- [ionicons](http://ionicons.com/) - The icon font for Ionic Framework.
 
 ### Colors
 - [coolors](http://coolors.co/) - Super fast color scheme generator
