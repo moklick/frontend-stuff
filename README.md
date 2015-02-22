@@ -27,7 +27,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
-- [pure](http://purecss.io/) - A set of small, responsive CSS modules 
+- [pure](http://purecss.io/) - A set of small, responsive CSS modules
 - [bootflat](http://bootflat.github.io/index.html) - Bootstrap with a flat design theme
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
 - [papier](https://github.com/alexanderGugel/papier) - Material design like minimal CSS framework
@@ -72,6 +72,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Fitvid](http://fitvidsjs.com/) - Responsive videos
 - [talkie](https://github.com/kiln/talkie) - Combines audio and animations
 - [Videojs](http://www.videojs.com/) - Open source HTML5 video player
+- [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions.
 
 ### Audio
 - [blip](http://jshanley.github.io/blip/) - Web Audio API wrapper
@@ -81,7 +82,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Tables
 - [sortable](https://github.com/HubSpot/sortable/) - Makes tables sortable
-- [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor 
+- [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor
 - [dynatables](https://github.com/alfajango/jquery-dynatable/) - Semantic and interactive table plugin using jQuery, HTML5, and JSON
 
 ### Lazy-Loading
@@ -106,7 +107,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### UI Elements
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Lightweight autocomplete
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown,tooltips,guide,selects)  
-- [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations 
+- [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
 - [select2](https://github.com/ivaynberg/select2) - JQuery based replacement for select boxes
 - [chosen](https://github.com/harvesthq/chosen) - Library for making long, unwieldy select boxes more friendly
 
@@ -138,7 +139,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Colors
 - [coolors](http://coolors.co/) - Super fast color scheme generator
-- [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design 
+- [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design
 - [color](http://color.hailpixel.com/) - Intuitive color picker
 - [colourco](http://colourco.de/) - Color scheme tool
 
@@ -146,4 +147,3 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
 - [whatsapp button](https://github.com/kriskbx/whatsapp-sharing) - Creates a whatsapp sharing button
 - [rrssb](https://github.com/kni-labs/rrssb) - Ridiculously Responsive Social Sharing Buttons
-
