@@ -41,7 +41,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
 - [chartjs](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
-- [chartist](http://gionkunz.github.io/chartist-js/) - simple responsive charts
+- [chartist](http://gionkunz.github.io/chartist-js/) - Simple responsive charts
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics powered by d3
 - [sparkline](https://github.com/gwatts/jquery.sparkline) - Sparkline charts library
 - [sparky](https://github.com/shawnbot/sparky) - Sparkline charts library based on rapahel
@@ -135,9 +135,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [elegant](http://www.elegantthemes.com/blog/resources/elegant-icon-font) - Elegant Icon font
 - [fontawesome](http://fortawesome.github.io/Font-Awesome/) - Gives you scalable vector icons that can instantly be customized
 - [evil icons](http://evil-icons.io/) - Lightweight SVG icons
-- [ionicons](http://ionicons.com/) - The icon font for Ionic Framework.
+- [ionicons](http://ionicons.com/) - The icon font for Ionic Framework
 
 ### Colors
+- [chromajs](https://github.com/gka/chroma.js) - Library for all kinds of color manipulations
 - [coolors](http://coolors.co/) - Super fast color scheme generator
 - [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design 
 - [color](http://color.hailpixel.com/) - Intuitive color picker
