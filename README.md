@@ -98,6 +98,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [fracs](https://github.com/lrsjng/jquery-fracs) - Plugin to determine the visible fractions of HTML elements
 
 ### Animations
+- [semantic ui - transition](https://github.com/Semantic-Org/UI-Transition) - Simple CSS3 Animations and transitions
 - [impulse](https://github.com/luster-io/impulse) - Dynamic Physics Interactions for the Mobile Web
 - [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation
 - [GSAP](https://greensock.com/gsap) - Fast animation library
