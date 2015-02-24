@@ -58,6 +58,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [planetary](http://planetaryjs.com/) - Interactive globes for the web
 - [smallworld](http://mikefowler.me/smallworld.js/) - A small utility for generating a small world
 - [turf](https://github.com/Turfjs/turf) - A modular geospatial engine
+- [osmbuildings](https://github.com/kekscom/osmbuildings) - Library for visualizing buildings as pseudo 3D objects on interactive maps
 
 ### Text
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
@@ -142,7 +143,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [evil icons](http://evil-icons.io/) - Lightweight SVG icons
 - [ionicons](http://ionicons.com/) - The icon font for Ionic Framework
 - [foundation icon font 3](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Zurb Icon Font 3 
-
 
 ### Colors
 - [chromajs](https://github.com/gka/chroma.js) - Library for all kinds of color manipulations
