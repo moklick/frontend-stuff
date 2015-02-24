@@ -145,6 +145,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design
 - [color](http://color.hailpixel.com/) - Intuitive color picker
 - [colourco](http://colourco.de/) - Color scheme tool
+- [uiGradients](https://github.com/Ghosh/uiGradients) - A handpicked collection of beautiful colour gradients for design and code
 
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
