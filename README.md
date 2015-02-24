@@ -48,6 +48,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [sparkline](https://github.com/gwatts/jquery.sparkline) - Sparkline charts library
 - [sparky](https://github.com/shawnbot/sparky) - Sparkline charts library based on rapahel
 - [jsplumb](https://github.com/sporritt/jsplumb/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
+- [highcharts](http://www.highcharts.com/) - Yet another javascript chart library. 
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
