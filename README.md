@@ -21,7 +21,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [General](#general)
 - [Icons](#icons)
 - [Colors](#colors)
+- [Databases](#databases)
 - [Social](#social)
+
 
 ### UI Frameworks
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
@@ -146,6 +148,13 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [color](http://color.hailpixel.com/) - Intuitive color picker
 - [colourco](http://colourco.de/) - Color scheme tool
 - [uiGradients](https://github.com/Ghosh/uiGradients) - A handpicked collection of beautiful colour gradients for design and code
+
+### Databases
+- [pouchdb](https://github.com/pouchdb/pouchdb) - Created to help developers build applications that work as well offline as they do online
+- [taffydb](https://github.com/typicaljoe/taffydb) - Brings database features into your JavaScript applications
+- [LokiJS](https://github.com/techfort/LokiJS) - Embeddable / in-memory database
+- [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) - Database with mongo-like query language and data-binding support
+- [store.js](https://github.com/marcuswestin/store.js/) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage and userData behavior
 
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
