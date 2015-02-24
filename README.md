@@ -141,6 +141,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [fontawesome](http://fortawesome.github.io/Font-Awesome/) - Gives you scalable vector icons that can instantly be customized
 - [evil icons](http://evil-icons.io/) - Lightweight SVG icons
 - [ionicons](http://ionicons.com/) - The icon font for Ionic Framework
+- [foundation icon font 3](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Zurb Icon Font 3 
+
 
 ### Colors
 - [chromajs](https://github.com/gka/chroma.js) - Library for all kinds of color manipulations
