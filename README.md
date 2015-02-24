@@ -130,6 +130,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### General
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
+- [accounting.js](http://openexchangerates.github.io/accounting.js/) - number, money and currency formatting
 
 ### Icons
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
