@@ -69,6 +69,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [lettering](http://letteringjs.com/) - JQuery web typography plugin
 - [bacon](http://baconforme.com/) - Wraps text around a bezier curve or a line
 - [smart underline](https://eager.io/showcase/SmartUnderline/) - Descender-aware underlines for every browser
+- [Awesomplete](https://github.com/LeaVerou/awesomplete) - Awesomplete is an ultra lightweight, customizable, simple autocomplete widget with zero dependencies, built with modern standards for modern browsers.
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
@@ -107,6 +108,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [GSAP](https://greensock.com/gsap) - Fast animation library
 - [bounce.js](https://github.com/tictail/bounce.js) - CSS3 powered animations
 - [snabbt](https://github.com/daniel-lundin/snabbt.js) - Animations with javascript and CSS transforms
+- [NProgress](https://github.com/rstacruz/nprogress) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium.
+- [PleaseWait.js](https://github.com/Pathgather/please-wait) - A simple library to show your users a beautiful splash page while your application loads.
+- [SweetAlert](https://github.com/t4t5/sweetalert) - An awesome replacement for JavaScript's alert.
+- [MProgress.js](https://github.com/lightningtgc/MProgress.js) - Google Material Design Progress Linear bar.
 
 ### UI Elements
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Lightweight autocomplete
