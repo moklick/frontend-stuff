@@ -126,6 +126,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
 - [superagent](https://github.com/visionmedia/superagent) - Client-side HTTP request library
 - [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript And JSON(P)
+- [http.js](https://github.com/wylst/http.js) - Make HTTP requests from client-side JavaScript.
 
 ### Dates
 - [moment.js](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates
@@ -168,6 +169,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Static Site Generators
 - [Middleman](https://middlemanapp.com/) - a static site generator using all the shortcuts and tools in modern web development.
-- [Jekyll](http://octopress.org/) - Jekyll • Simple, blog-aware, static sites
-- [Octopress](https://github.com/kni-labs/rrssb) - A blogging framework for hackers.
+- [Jekyll](http://jekyllrb.com/) - Jekyll • Simple, blog-aware, static sites
+- [Octopress](http://octopress.org/) - A blogging framework for hackers.
 
