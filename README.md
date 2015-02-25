@@ -76,12 +76,15 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [talkie](https://github.com/kiln/talkie) - Combines audio and animations
 - [Videojs](http://www.videojs.com/) - Open source HTML5 video player
 - [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions.
+- [Projekktor](http://www.projekktor.com) - Open source HTML5 video player
+- [PopcornJS]() - Video player from mozilla
 
 ### Audio
 - [blip](http://jshanley.github.io/blip/) - Web Audio API wrapper
 - [howler](https://github.com/goldfire/howler.js/) - Audio library
 - [soundjs](https://github.com/CreateJS/SoundJS) - Audio library + simple interface
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
+- [Soundmanager2](www.soundmanager2.com) - Audio player
 
 ### Tables
 - [sortable](https://github.com/HubSpot/sortable/) - Makes tables sortable
@@ -93,12 +96,15 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
 - [echo](https://github.com/toddmotto/echo) - Standalone JavaScript lazy-loading image micro-library
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
+- [HeadJS]() - 
 
 ### Scrolling
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
 - [WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
 - [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
 - [fracs](https://github.com/lrsjng/jquery-fracs) - Plugin to determine the visible fractions of HTML elements
+- [Scrollr]
+- [Gridster] - Jquery Plugin
 
 ### Animations
 - [semantic ui - transition](https://github.com/Semantic-Org/UI-Transition) - Simple CSS3 Animations and transitions
