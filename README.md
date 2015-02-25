@@ -23,6 +23,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Colors](#colors)
 - [Databases](#databases)
 - [Social](#social)
+- [Static Site Generators](#static-site-generators)
 
 
 ### UI Frameworks
@@ -110,7 +111,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### UI Elements
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Lightweight autocomplete
-- [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown,tooltips,guide,selects)  
+- [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown,tooltips,guide,selects)
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
 - [select2](https://github.com/ivaynberg/select2) - JQuery based replacement for select boxes
 - [chosen](https://github.com/harvesthq/chosen) - Library for making long, unwieldy select boxes more friendly
@@ -125,6 +126,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
 - [superagent](https://github.com/visionmedia/superagent) - Client-side HTTP request library
 - [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript And JSON(P)
+- [http.js](https://github.com/wylst/http.js) - Make HTTP requests from client-side JavaScript.
 
 ### Dates
 - [moment.js](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates
@@ -142,10 +144,11 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [fontawesome](http://fortawesome.github.io/Font-Awesome/) - Gives you scalable vector icons that can instantly be customized
 - [evil icons](http://evil-icons.io/) - Lightweight SVG icons
 - [ionicons](http://ionicons.com/) - The icon font for Ionic Framework
-- [foundation icon font 3](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Zurb Icon Font 3 
+- [foundation icon font 3](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Zurb Icon Font 3
 
 ### Colors
 - [chromajs](https://github.com/gka/chroma.js) - Library for all kinds of color manipulations
+- [colorify](https://colorify.github.io) - Color Picker, fork and use as you please, build using middleman.
 - [coolors](http://coolors.co/) - Super fast color scheme generator
 - [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design
 - [color](http://color.hailpixel.com/) - Intuitive color picker
@@ -163,3 +166,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
 - [whatsapp button](https://github.com/kriskbx/whatsapp-sharing) - Creates a whatsapp sharing button
 - [rrssb](https://github.com/kni-labs/rrssb) - Ridiculously Responsive Social Sharing Buttons
+
+### Static Site Generators
+- [Middleman](https://middlemanapp.com/) - a static site generator using all the shortcuts and tools in modern web development.
+- [Jekyll](http://jekyllrb.com/) - Jekyll • Simple, blog-aware, static sites
+- [Octopress](http://octopress.org/) - A blogging framework for hackers.
+
