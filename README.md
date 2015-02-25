@@ -69,7 +69,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [lettering](http://letteringjs.com/) - JQuery web typography plugin
 - [bacon](http://baconforme.com/) - Wraps text around a bezier curve or a line
 - [smart underline](https://eager.io/showcase/SmartUnderline/) - Descender-aware underlines for every browser
-- [Awesomplete](https://github.com/LeaVerou/awesomplete) - Awesomplete is an ultra lightweight, customizable, simple autocomplete widget with zero dependencies, built with modern standards for modern browsers.
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
