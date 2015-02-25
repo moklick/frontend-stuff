@@ -23,6 +23,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Colors](#colors)
 - [Databases](#databases)
 - [Social](#social)
+- [Static Site Generators](#static-site-generators)
 
 
 ### UI Frameworks
@@ -164,3 +165,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
 - [whatsapp button](https://github.com/kriskbx/whatsapp-sharing) - Creates a whatsapp sharing button
 - [rrssb](https://github.com/kni-labs/rrssb) - Ridiculously Responsive Social Sharing Buttons
+
+### Static Site Generators
+- [Middleman](https://middlemanapp.com/) - a static site generator using all the shortcuts and tools in modern web development.
+- [Jekyll](http://octopress.org/) - Jekyll • Simple, blog-aware, static sites
+- [Octopress](https://github.com/kni-labs/rrssb) - A blogging framework for hackers.
+
