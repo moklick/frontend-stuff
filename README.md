@@ -118,6 +118,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [PleaseWait.js](https://github.com/Pathgather/please-wait) - A simple library to show your users a beautiful splash page while your application loads
 - [SweetAlert](https://github.com/t4t5/sweetalert) - An awesome replacement for JavaScript's alert
 - [MProgress.js](https://github.com/lightningtgc/MProgress.js) - Google Material Design Progress Linear bar
+- [countUp.js](https://github.com/inorganik/countUp.js) - Count up or down animation effects for numbers
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
