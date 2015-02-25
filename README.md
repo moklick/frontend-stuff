@@ -23,7 +23,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Colors](#colors)
 - [Databases](#databases)
 - [Social](#social)
-
+- [Internationalization and localization](#internationalization-and-localization)
 
 ### UI Frameworks
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
@@ -163,3 +163,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
 - [whatsapp button](https://github.com/kriskbx/whatsapp-sharing) - Creates a whatsapp sharing button
 - [rrssb](https://github.com/kni-labs/rrssb) - Ridiculously Responsive Social Sharing Buttons
+
+### Internationalization and localization
+- [intl-tel-input](https://github.com/Bluefieldscom/intl-tel-input) - A jQuery plugin for entering and validating international telephone numbers
