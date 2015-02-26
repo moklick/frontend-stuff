@@ -95,12 +95,14 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
 - [echo](https://github.com/toddmotto/echo) - Standalone JavaScript lazy-loading image micro-library
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
+- [echo](http://toddmotto.com/labs/echo/) - Lazy-loading images with data-* attributes
 
 ### Scrolling
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
 - [WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
 - [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
 - [fracs](https://github.com/lrsjng/jquery-fracs) - Plugin to determine the visible fractions of HTML elements
+- [skrollr](http://prinzhorn.github.io/skrollr/) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery
 
 ### Animations
 - [semantic ui - transition](https://github.com/Semantic-Org/UI-Transition) - Simple CSS3 Animations and transitions
@@ -133,13 +135,17 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
 - [superagent](https://github.com/visionmedia/superagent) - Client-side HTTP request library
 - [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript And JSON(P)
+- [intercooler-js](http://intercoolerjs.org/) - Making AJAX as easy as anchor tags
 
 ### Dates
 - [moment.js](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates
+- [datedropper](http://felicegattuso.com/projects/datedropper/) - datedropper is a jQuery plugin that provides a quick and easy way to manage dates for input fields.
+- [Pikaday](http://dbushell.github.io/Pikaday/) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 
 ### General
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
 - [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
+- [formstone](http://formstone.it/) - Collection of handy useful scripts
 
 ### Icons
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
