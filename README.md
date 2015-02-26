@@ -107,6 +107,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [GSAP](https://greensock.com/gsap) - Fast animation library
 - [bounce.js](https://github.com/tictail/bounce.js) - CSS3 powered animations
 - [snabbt](https://github.com/daniel-lundin/snabbt.js) - Animations with javascript and CSS transforms
+- [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations
 
 ### UI Elements
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Lightweight autocomplete
