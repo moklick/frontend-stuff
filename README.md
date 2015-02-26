@@ -59,6 +59,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [smallworld](http://mikefowler.me/smallworld.js/) - A small utility for generating a small world
 - [turf](https://github.com/Turfjs/turf) - A modular geospatial engine
 - [osmbuildings](https://github.com/kekscom/osmbuildings) - Library for visualizing buildings as pseudo 3D objects on interactive maps
+- [openlayers3](https://github.com/openlayers/ol3) - Mapping library that supports different projections
 
 ### Text
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
