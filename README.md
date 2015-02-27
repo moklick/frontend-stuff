@@ -48,6 +48,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [sparkline](https://github.com/gwatts/jquery.sparkline) - Sparkline charts library
 - [sparky](https://github.com/shawnbot/sparky) - Sparkline charts library based on rapahel
 - [jsplumb](https://github.com/sporritt/jsplumb/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
+- [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
@@ -76,7 +77,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Fitvid](http://fitvidsjs.com/) - Responsive videos
 - [talkie](https://github.com/kiln/talkie) - Combines audio and animations
 - [Videojs](http://www.videojs.com/) - Open source HTML5 video player
-- [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions.
+- [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions
 
 ### Audio
 - [blip](http://jshanley.github.io/blip/) - Web Audio API wrapper
@@ -91,7 +92,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [DataTables](https://github.com/DataTables/DataTables) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
 
 ### Lazy-Loading
-- [Aload](http://pazguille.github.io/aload/) - Loads asynchronously images, scripts, styles and more!
+- [Aload](http://pazguille.github.io/aload/) - Loads asynchronously images, scripts, styles and more
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
 - [echo](https://github.com/toddmotto/echo) - Standalone JavaScript lazy-loading image micro-library
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
@@ -150,7 +151,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [fontawesome](http://fortawesome.github.io/Font-Awesome/) - Gives you scalable vector icons that can instantly be customized
 - [evil icons](http://evil-icons.io/) - Lightweight SVG icons
 - [ionicons](http://ionicons.com/) - The icon font for Ionic Framework
-- [foundation icon font 3](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Zurb Icon Font 3 
+- [foundation icon font 3](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Zurb Icon Font 3
 
 ### Colors
 - [chromajs](https://github.com/gka/chroma.js) - Library for all kinds of color manipulations
