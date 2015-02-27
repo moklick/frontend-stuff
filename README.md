@@ -115,6 +115,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### UI Elements
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Lightweight autocomplete
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown,tooltips,guide,selects)  
+- [Material UI Components](https://github.com/zone-live/Material-UI) - A list of several UI components with material design applied
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
 - [select2](https://github.com/ivaynberg/select2) - JQuery based replacement for select boxes
 - [chosen](https://github.com/harvesthq/chosen) - Library for making long, unwieldy select boxes more friendly
