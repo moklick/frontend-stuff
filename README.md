@@ -49,6 +49,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [sparky](https://github.com/shawnbot/sparky) - Sparkline charts library based on rapahel
 - [jsplumb](https://github.com/sporritt/jsplumb/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
+- [echarts](http://echarts.baidu.com/index-en.html) - Charts implementation by Baidu
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
