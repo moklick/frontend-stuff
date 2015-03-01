@@ -66,10 +66,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
 - [dropcaps](https://github.com/adobe-webplatform/dropcap.js) - CSS dropcaps
 - [side-comments](http://aroc.github.io/side-comments-demo/) - Medium style comments
-- [grandjs](http://mattduvall.com/grande.js/) - Javascript library that implements features from Medium's editing experience
+- [grande.js](http://mattduvall.com/grande.js/) - JavaScript library that implements features from Medium's editing experience
 - [pen](http://sofish.github.io/pen) - Editor with markdown support
 - [lettering](http://letteringjs.com/) - JQuery web typography plugin
-- [bacon](http://baconforme.com/) - Wraps text around a bezier curve or a line
+- [bacon](http://baconforme.com/) - Wraps text around a Bézier curve or a line
 - [smart underline](https://eager.io/showcase/SmartUnderline/) - Descender-aware underlines for every browser
 
 ### Video
@@ -92,7 +92,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [DataTables](https://github.com/DataTables/DataTables) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
 
 ### Lazy-Loading
-- [Aload](http://pazguille.github.io/aload/) - Loads asynchronously images, scripts, styles and more
+- [Aload](http://pazguille.github.io/aload/) - Asynchronously loads images, scripts, styles and more
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
 - [echo](https://github.com/toddmotto/echo) - Standalone JavaScript lazy-loading image micro-library
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
@@ -105,16 +105,16 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Animations
 - [semantic ui - transition](https://github.com/Semantic-Org/UI-Transition) - Simple CSS3 Animations and transitions
-- [impulse](https://github.com/luster-io/impulse) - Dynamic Physics Interactions for the Mobile Web
+- [impulse](https://github.com/luster-io/impulse) - Dynamic physics interactions for the mobile web
 - [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation
 - [GSAP](https://greensock.com/gsap) - Fast animation library
 - [bounce.js](https://github.com/tictail/bounce.js) - CSS3 powered animations
-- [snabbt](https://github.com/daniel-lundin/snabbt.js) - Animations with javascript and CSS transforms
+- [snabbt](https://github.com/daniel-lundin/snabbt.js) - Animations with JavaScript and CSS transforms
 - [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations
 
 ### UI Elements
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Lightweight autocomplete
-- [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown,tooltips,guide,selects)  
+- [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)  
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
 - [select2](https://github.com/ivaynberg/select2) - JQuery based replacement for select boxes
 - [chosen](https://github.com/harvesthq/chosen) - Library for making long, unwieldy select boxes more friendly
@@ -128,7 +128,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
 - [mustache](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [dotjs](https://github.com/olado/doT) - Fast templating engine
-- [Hogan](http://twitter.github.io/hogan.js/) - Javascript templating
+- [Hogan](http://twitter.github.io/hogan.js/) - JavaScript templating
 
 ### HTTP requests
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
