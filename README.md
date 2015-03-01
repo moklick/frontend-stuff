@@ -22,6 +22,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Icons](#icons)
 - [Colors](#colors)
 - [Databases](#databases)
+- [Interaction](#interaction)
 - [Social](#social)
 
 
@@ -71,6 +72,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [lettering](http://letteringjs.com/) - JQuery web typography plugin
 - [bacon](http://baconforme.com/) - Wraps text around a bezier curve or a line
 - [smart underline](https://eager.io/showcase/SmartUnderline/) - Descender-aware underlines for every browser
+- [jQuery.fontFlex](https://github.com/ByNathan/jQuery.fontFlex) - Extension for dynamic / responsive font sizes
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
@@ -96,12 +98,14 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
 - [echo](https://github.com/toddmotto/echo) - Standalone JavaScript lazy-loading image micro-library
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
+- [jQuery.loadScroll](https://github.com/ByNathan/jQuery.loadScroll) - Extension for loading images while scrolling
 
 ### Scrolling
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
 - [WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
 - [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
 - [fracs](https://github.com/lrsjng/jquery-fracs) - Plugin to determine the visible fractions of HTML elements
+- [jQuery.scrollSpeed](https://github.com/ByNathan/jQuery.scrollSpeed) - Extension for custom scrolling speed and easing
 
 ### Animations
 - [semantic ui - transition](https://github.com/Semantic-Org/UI-Transition) - Simple CSS3 Animations and transitions
@@ -167,6 +171,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [LokiJS](https://github.com/techfort/LokiJS) - Embeddable / in-memory database
 - [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) - Database with mongo-like query language and data-binding support
 - [store.js](https://github.com/marcuswestin/store.js/) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage and userData behavior
+
+### Interaction 
+- [jQuery.dragmove](https://github.com/ByNathan/jQuery.dragmove) - Extension for draggable functionality on desktop / mobile
 
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
