@@ -134,6 +134,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [mustache](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [dotjs](https://github.com/olado/doT) - Fast templating engine
 - [Hogan](http://twitter.github.io/hogan.js/) - Javascript templating
+- [handlebarsjs](http://handlebarsjs.com/) - Minimal Templating on Steroids
 
 ### HTTP requests
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
