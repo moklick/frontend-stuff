@@ -77,6 +77,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Fitvid](http://fitvidsjs.com/) - Responsive videos
 - [talkie](https://github.com/kiln/talkie) - Combines audio and animations
 - [Videojs](http://www.videojs.com/) - Open source HTML5 video player
+- [SublimeVideo](http://www.sublimevideo.net/) - The HTML5 Video Player people trust.
 - [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions
 
 ### Audio
