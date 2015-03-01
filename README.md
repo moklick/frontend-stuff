@@ -84,6 +84,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [howler](https://github.com/goldfire/howler.js/) - Audio library
 - [soundjs](https://github.com/CreateJS/SoundJS) - Audio library + simple interface
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
+- [JPlayer](http://jplayer.org/) - JQuery HTML5 audio/video library
+- [SoundManager2](http://www.schillmania.com/projects/soundmanager2/) - cool audio library
+- [Waveform.js](http://waveformjs.org/) - waveform visualization library
+- [wavesurfer.js](http://www.wavesurfer.fm/) - Customizable waveform audio visualization built on top of Web Audio API and HTML5 Canvas. 
 
 ### Tables
 - [sortable](https://github.com/HubSpot/sortable/) - Makes tables sortable
