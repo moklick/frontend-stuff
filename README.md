@@ -77,6 +77,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Fitvid](http://fitvidsjs.com/) - Responsive videos
 - [talkie](https://github.com/kiln/talkie) - Combines audio and animations
 - [Videojs](http://www.videojs.com/) - Open source HTML5 video player
+- [SublimeVideo](http://www.sublimevideo.net/) - The HTML5 Video Player people trust.
 - [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions
 
 ### Audio
@@ -84,6 +85,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [howler](https://github.com/goldfire/howler.js/) - Audio library
 - [soundjs](https://github.com/CreateJS/SoundJS) - Audio library + simple interface
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
+- [JPlayer](http://jplayer.org/) - JQuery HTML5 audio/video library
+- [SoundManager2](http://www.schillmania.com/projects/soundmanager2/) - cool audio library
+- [Waveform.js](http://waveformjs.org/) - waveform visualization library
+- [wavesurfer.js](http://www.wavesurfer.fm/) - Customizable waveform audio visualization built on top of Web Audio API and HTML5 Canvas. 
 
 ### Tables
 - [sortable](https://github.com/HubSpot/sortable/) - Makes tables sortable
@@ -129,6 +134,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [mustache](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [dotjs](https://github.com/olado/doT) - Fast templating engine
 - [Hogan](http://twitter.github.io/hogan.js/) - Javascript templating
+- [handlebarsjs](http://handlebarsjs.com/) - Minimal Templating on Steroids
 
 ### HTTP requests
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
