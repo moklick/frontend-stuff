@@ -102,6 +102,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
 - [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
 - [fracs](https://github.com/lrsjng/jquery-fracs) - Plugin to determine the visible fractions of HTML elements
+- [scrollmagic](http://janpaepke.github.io/ScrollMagic/) - Trigger effects and animations in both scrolling directions
 
 ### Animations
 - [semantic ui - transition](https://github.com/Semantic-Org/UI-Transition) - Simple CSS3 Animations and transitions
