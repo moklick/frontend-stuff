@@ -163,6 +163,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [color](http://color.hailpixel.com/) - Intuitive color picker
 - [colourco](http://colourco.de/) - Color scheme tool
 - [uiGradients](https://github.com/Ghosh/uiGradients) - A handpicked collection of beautiful colour gradients for design and code
+- [Colors](https://github.com/mrmrs/colors) - Smarter Default colors on the web.
 
 ### Databases
 - [pouchdb](https://github.com/pouchdb/pouchdb) - Created to help developers build applications that work as well offline as they do online
