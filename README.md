@@ -113,6 +113,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [bounce.js](https://github.com/tictail/bounce.js) - CSS3 powered animations
 - [snabbt](https://github.com/daniel-lundin/snabbt.js) - Animations with JavaScript and CSS transforms
 - [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations
+- [arcanimator](https://github.com/asyl/ArcAnimator) - Helps to create arc transition animation
 
 ### UI Elements
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Lightweight autocomplete
