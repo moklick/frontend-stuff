@@ -30,6 +30,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
 - [pure](http://purecss.io/) - A set of small, responsive CSS modules
+- [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
 - [bootflat](http://bootflat.github.io/index.html) - Bootstrap with a flat design theme
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
 - [papier](https://github.com/alexanderGugel/papier) - Material design like minimal CSS framework
