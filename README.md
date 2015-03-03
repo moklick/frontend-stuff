@@ -23,7 +23,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Colors](#colors)
 - [Databases](#databases)
 - [Social](#social)
-
+- [JavaScript Compilers] (#jscompilers)
 
 ### UI Frameworks
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
@@ -34,6 +34,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
 - [papier](https://github.com/alexanderGugel/papier) - Material design like minimal CSS framework
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
+- [kube] (http://imperavi.com/kube/) - Minimal UI framework with modern designers
+- [react] (https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
 ### Charts
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
@@ -50,6 +52,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [jsplumb](https://github.com/sporritt/jsplumb/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library. 
+- [Google Charts] (https://developers.google.com/chart/) - Interactive charts for displaying live data.
+- [amcharts] (http://www.amcharts.com/) - amCharts is an advanced charting library that will suit any data visualization need.
+
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
@@ -97,6 +102,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
 - [echo](https://github.com/toddmotto/echo) - Standalone JavaScript lazy-loading image micro-library
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
+- [PreloadJS] - (http://createjs.com/PreloadJS) - A JavaScript library that lets you manage and co-ordinate the loading of assets.
 
 ### Scrolling
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
@@ -172,8 +178,15 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [LokiJS](https://github.com/techfort/LokiJS) - Embeddable / in-memory database
 - [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) - Database with mongo-like query language and data-binding support
 - [store.js](https://github.com/marcuswestin/store.js/) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage and userData behavior
+- [sql.js] (https://github.com/kripken/sql.js/) - SQLite compiled to JavaScript. SQLlite inside your browser.
+
 
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
 - [whatsapp button](https://github.com/kriskbx/whatsapp-sharing) - Creates a whatsapp sharing button
 - [rrssb](https://github.com/kni-labs/rrssb) - Ridiculously Responsive Social Sharing Buttons
+
+### JavaScript Compilers
+- [closure compiler] (https://developers.google.com/closure/) - compiles JavaScript into compact, high-performance code. The compiler removes dead code and rewrites and minimizes what's left so that it downloads and runs quickly. It also checks syntax, variable references, and types, and warns about common JavaScript pitfalls.
+- [Traceur Compiler] (https://github.com/google/traceur-compiler) - Traceur is a compiler that takes ECMAScript Edition 6 (including classes, generators, destructuring and much more) and compiles it down to regular Javascript (ECMAScript Edition 5) that runs in your browser.
+- [emscripten] (https://github.com/kripken/emscripten) - Emscripten is an LLVM-to-JavaScript compiler. It takes LLVM bitcode - and compiles to JavaScript.
