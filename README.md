@@ -106,17 +106,18 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [scrollmagic](http://janpaepke.github.io/ScrollMagic/) - Trigger effects and animations in both scrolling directions
 
 ### Animations
-- [semantic ui - transition](https://github.com/Semantic-Org/UI-Transition) - Simple CSS3 Animations and transitions
 - [impulse](https://github.com/luster-io/impulse) - Dynamic physics interactions for the mobile web
 - [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation
 - [GSAP](https://greensock.com/gsap) - Fast animation library
 - [bounce.js](https://github.com/tictail/bounce.js) - CSS3 powered animations
 - [snabbt](https://github.com/daniel-lundin/snabbt.js) - Animations with JavaScript and CSS transforms
 - [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations
+- [semantic ui - transition](https://github.com/Semantic-Org/UI-Transition) - Simple CSS3 Animations and transitions
+- [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
 
 ### UI Elements
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Lightweight autocomplete
-- [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)  
+- [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
 - [select2](https://github.com/ivaynberg/select2) - JQuery based replacement for select boxes
 - [chosen](https://github.com/harvesthq/chosen) - Library for making long, unwieldy select boxes more friendly
