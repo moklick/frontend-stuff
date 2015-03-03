@@ -50,6 +50,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [jsplumb](https://github.com/sporritt/jsplumb/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library. 
+- [xCharts](http://tenxer.github.io/xcharts/) - Beautiful and custom data-driven chart visualizations for the web using d3.js
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
