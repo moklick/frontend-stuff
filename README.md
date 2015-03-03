@@ -18,6 +18,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Templating](#templating)
 - [HTTP requests](#http-requests)
 - [Dates](#dates)
+- [Events](#events)
 - [General](#general)
 - [Icons](#icons)
 - [Colors](#colors)
@@ -141,6 +142,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Dates
 - [moment.js](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates
+
+### Events
+- [bean](https://github.com/fat/bean) - Events api
+- [gator.js](http://craig.is/riding/gators) - Simple event delegation
 
 ### General
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
