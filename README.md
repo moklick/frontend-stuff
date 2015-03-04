@@ -139,6 +139,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [mustache](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [dotjs](https://github.com/olado/doT) - Fast templating engine
 - [Hogan](http://twitter.github.io/hogan.js/) - JavaScript templating
+- [paperclip.js](http://paperclipjs.com/) - Reactive DOM template engine built for speed, and extensibility
 
 ### HTTP requests
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
