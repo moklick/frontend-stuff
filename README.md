@@ -51,7 +51,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [sparky](https://github.com/shawnbot/sparky) - Sparkline charts library based on rapahel
 - [jsplumb](https://github.com/sporritt/jsplumb/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
-- [vis.js](http://visjs.org/) - A dynamic, browser based visualization library. 
+- [vis.js](http://visjs.org/) - A dynamic, browser based visualization library.
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
@@ -74,6 +74,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [lettering](http://letteringjs.com/) - JQuery web typography plugin
 - [bacon](http://baconforme.com/) - Wraps text around a Bézier curve or a line
 - [smart underline](https://eager.io/showcase/SmartUnderline/) - Descender-aware underlines for every browser
+- [Plumin.js](http://www.pluminjs.com/) - Create and manipulate fonts using javascript
+- [Typeplate](http://typeplate.com/) - A 'typographic starter kit'
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
