@@ -172,6 +172,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [LokiJS](https://github.com/techfort/LokiJS) - Embeddable / in-memory database
 - [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) - Database with mongo-like query language and data-binding support
 - [store.js](https://github.com/marcuswestin/store.js/) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage and userData behavior
+- [localForage](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+https://mozilla.github.io/localForage
 
 ### Social
 - [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
