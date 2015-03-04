@@ -73,8 +73,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [lettering](http://letteringjs.com/) - JQuery web typography plugin
 - [bacon](http://baconforme.com/) - Wraps text around a Bézier curve or a line
 - [smart underline](https://eager.io/showcase/SmartUnderline/) - Descender-aware underlines for every browser
-- [Plumin.js](http://www.pluminjs.com/) - create and manipulate fonts using javascript
-- [Typeplate](http://typeplate.com/) - a 'typographic starter kit'
+- [Plumin.js](http://www.pluminjs.com/) - Create and manipulate fonts using javascript
+- [Typeplate](http://typeplate.com/) - A 'typographic starter kit'
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
