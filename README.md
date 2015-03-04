@@ -64,6 +64,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [turf](https://github.com/Turfjs/turf) - A modular geospatial engine
 - [osmbuildings](https://github.com/kekscom/osmbuildings) - Library for visualizing buildings as pseudo 3D objects on interactive maps
 - [openlayers3](https://github.com/openlayers/ol3) - Mapping library that supports different projections
+- [Kartograph](http://kartograph.org/) - Simple and lightweight framework for building interactive map applications without Google Maps
+- [mapsicon](https://github.com/djaiss/mapsicon) - Collection of maps for nearly every country in the world in PNG and SVG
 
 ### Text
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
@@ -173,6 +175,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [colourco](http://colourco.de/) - Color scheme tool
 - [uiGradients](https://github.com/Ghosh/uiGradients) - A handpicked collection of beautiful colour gradients for design and code
 - [Colors](https://github.com/mrmrs/colors) - Smarter Default colors on the web.
+- [colorbrewer2](http://colorbrewer2.org/) - Color advice for cartography
 
 ### Databases
 - [pouchdb](https://github.com/pouchdb/pouchdb) - Created to help developers build applications that work as well offline as they do online
