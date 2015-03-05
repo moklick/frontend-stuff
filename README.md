@@ -31,11 +31,11 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
 - [pure](http://purecss.io/) - A set of small, responsive CSS modules
-- [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
 - [bootflat](http://bootflat.github.io/index.html) - Bootstrap with a flat design theme
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
 - [papier](https://github.com/alexanderGugel/papier) - Material design like minimal CSS framework
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
+- [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
 
 ### Charts
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
@@ -52,6 +52,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [jsplumb](https://github.com/sporritt/jsplumb/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library.
+- [timesheet.js](https://github.com/sbstjn/timesheet.js) - HTML5 & CSS3 time sheets
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
