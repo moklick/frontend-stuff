@@ -104,6 +104,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
 - [echo](https://github.com/toddmotto/echo) - Standalone JavaScript lazy-loading image micro-library
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
+- [RequireJS](https://github.com/jrburke/requirejs) - A file and AMD module loader
 
 ### Scrolling
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
