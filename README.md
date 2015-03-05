@@ -168,6 +168,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [evil icons](http://evil-icons.io/) - Lightweight SVG icons
 - [ionicons](http://ionicons.com/) - The icon font for Ionic Framework
 - [foundation icon font 3](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Zurb Icon Font 3
+- [flaticon](http://flaticon.com/) - Tens of thousands of free monochromatic icons in SVG, font, PNG.
 
 ### Colors
 - [chromajs](https://github.com/gka/chroma.js) - Library for all kinds of color manipulations
