@@ -153,6 +153,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Events
 - [bean](https://github.com/fat/bean) - Events api
 - [gator.js](http://craig.is/riding/gators) - Simple event delegation
+- [EventEmitter2](https://github.com/asyncly/EventEmitter2) - Events API with wildcards
 
 ### General
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
