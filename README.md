@@ -134,6 +134,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [MProgress.js](https://github.com/lightningtgc/MProgress.js) - Google Material Design Progress Linear bar
 - [countUp.js](https://github.com/inorganik/countUp.js) - Count up or down animation effects for numbers
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
+- [Slideout.js](http://mango.github.io/slideout/) - A touch slideout navigation menu for mobile web apps.
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
