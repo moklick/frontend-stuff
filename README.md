@@ -33,7 +33,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [pure](http://purecss.io/) - A set of small, responsive CSS modules
 - [bootflat](http://bootflat.github.io/index.html) - Bootstrap with a flat design theme
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
-- [papier](https://github.com/alexanderGugel/papier) - Material design like minimal CSS framework
+- [papier](http://gugel.io/papier/) - Material design like minimal CSS framework
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
 - [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
 
@@ -47,12 +47,12 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [chartjs](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 - [chartist](http://gionkunz.github.io/chartist-js/) - Simple responsive charts
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics powered by d3
-- [sparkline](https://github.com/gwatts/jquery.sparkline) - Sparkline charts library
-- [sparky](https://github.com/shawnbot/sparky) - Sparkline charts library based on rapahel
-- [jsplumb](https://github.com/sporritt/jsplumb/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
+- [sparkline](http://omnipotent.net/jquery.sparkline/) - Sparkline charts library
+- [sparky](http://prag.ma/code/sparky/) - Sparkline charts library based on rapahel
+- [jsplumb](http://jsplumbtoolkit.com/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library.
-- [timesheet.js](https://github.com/sbstjn/timesheet.js) - HTML5 & CSS3 time sheets
+- [timesheet.js](https://sbstjn.github.io/timesheet.js/) - HTML5 & CSS3 time sheets
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
@@ -62,15 +62,15 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [leaflet generator](https://github.com/moklick/generator-leaflet) - Yeoman generator that scaffolds out a leaflet map application
 - [planetary](http://planetaryjs.com/) - Interactive globes for the web
 - [smallworld](http://mikefowler.me/smallworld.js/) - A small utility for generating a small world
-- [turf](https://github.com/Turfjs/turf) - A modular geospatial engine
-- [osmbuildings](https://github.com/kekscom/osmbuildings) - Library for visualizing buildings as pseudo 3D objects on interactive maps
-- [openlayers3](https://github.com/openlayers/ol3) - Mapping library that supports different projections
+- [turf](http://turfjs.org/) - A modular geospatial engine
+- [osmbuildings](http://osmbuildings.org/) - Library for visualizing buildings as pseudo 3D objects on interactive maps
+- [openlayers3](http://openlayers.org/) - Mapping library that supports different projections
 - [Kartograph](http://kartograph.org/) - Simple and lightweight framework for building interactive map applications without Google Maps
 - [mapsicon](https://github.com/djaiss/mapsicon) - Collection of maps for nearly every country in the world in PNG and SVG
 
 ### Text
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
-- [dropcaps](https://github.com/adobe-webplatform/dropcap.js) - CSS dropcaps
+- [dropcap.js](https://github.com/adobe-webplatform/dropcap.js) - CSS dropcaps
 - [side-comments](http://aroc.github.io/side-comments-demo/) - Medium style comments
 - [grande.js](http://mattduvall.com/grande.js/) - JavaScript library that implements features from Medium's editing experience
 - [pen](http://sofish.github.io/pen) - Editor with markdown support
@@ -89,66 +89,66 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Audio
 - [blip](http://jshanley.github.io/blip/) - Web Audio API wrapper
-- [howler](https://github.com/goldfire/howler.js/) - Audio library
-- [soundjs](https://github.com/CreateJS/SoundJS) - Audio library + simple interface
+- [howler](http://howlerjs.com/) - Audio library
+- [soundjs](http://createjs.com/Home) - Audio library + simple interface
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
 
 ### Tables
-- [sortable](https://github.com/HubSpot/sortable/) - Makes tables sortable
+- [sortable](http://github.hubspot.com/sortable/docs/welcome/) - Makes tables sortable
 - [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor
-- [dynatables](https://github.com/alfajango/jquery-dynatable/) - Semantic and interactive table plugin using jQuery, HTML5, and JSON
-- [DataTables](https://github.com/DataTables/DataTables) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
+- [dynatables](http://www.dynatable.com/) - Semantic and interactive table plugin using jQuery, HTML5, and JSON
+- [DataTables](http://www.datatables.net/) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
 
 ### Lazy-Loading
 - [Aload](http://pazguille.github.io/aload/) - Asynchronously loads images, scripts, styles and more
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
-- [echo](https://github.com/toddmotto/echo) - Standalone JavaScript lazy-loading image micro-library
+- [echo](http://toddmotto.com/labs/echo/) - Standalone JavaScript lazy-loading image micro-library
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
 
 ### Scrolling
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
-- [WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
-- [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
-- [fracs](https://github.com/lrsjng/jquery-fracs) - Plugin to determine the visible fractions of HTML elements
+- [WOW](http://mynameismatthieu.com/WOW/) - Reveal CSS animation as you scroll down a page
+- [superscrollorama](https://johnpolacek.github.io/superscrollorama/) - The jQuery plugin for supercool scroll animation
+- [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
 - [scrollmagic](http://janpaepke.github.io/ScrollMagic/) - Trigger effects and animations in both scrolling directions
 
 ### Animations
-- [impulse](https://github.com/luster-io/impulse) - Dynamic physics interactions for the mobile web
-- [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation
+- [impulse](http://impulse.luster.io/) - Dynamic physics interactions for the mobile web
+- [velocity](http://velocityjs.org/) - Accelerated JavaScript animation
 - [GSAP](https://greensock.com/gsap) - Fast animation library
-- [bounce.js](https://github.com/tictail/bounce.js) - CSS3 powered animations
-- [snabbt](https://github.com/daniel-lundin/snabbt.js) - Animations with JavaScript and CSS transforms
-- [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations
-- [semantic ui - transition](https://github.com/Semantic-Org/UI-Transition) - Simple CSS3 Animations and transitions
+- [bounce.js](http://bouncejs.com/) - CSS3 powered animations
+- [snabbt](https://daniel-lundin.github.io/snabbt.js/) - Animations with JavaScript and CSS transforms
+- [animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations
+- [semantic ui - transition](http://semantic-ui.com/modules/transition.html) - Simple CSS3 Animations and transitions
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
 
 ### UI Elements
-- [awesomplete](https://github.com/LeaVerou/awesomplete) - Lightweight autocomplete
+- [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
-- [select2](https://github.com/ivaynberg/select2) - JQuery based replacement for select boxes
-- [chosen](https://github.com/harvesthq/chosen) - Library for making long, unwieldy select boxes more friendly
-- [NProgress](https://github.com/rstacruz/nprogress) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
-- [PleaseWait.js](https://github.com/Pathgather/please-wait) - A simple library to show your users a beautiful splash page while your application loads
-- [SweetAlert](https://github.com/t4t5/sweetalert) - An awesome replacement for JavaScript's alert
-- [MProgress.js](https://github.com/lightningtgc/MProgress.js) - Google Material Design Progress Linear bar
-- [countUp.js](https://github.com/inorganik/countUp.js) - Count up or down animation effects for numbers
+- [select2](https://select2.github.io/) - JQuery based replacement for select boxes
+- [chosen](https://harvesthq.github.io/chosen/) - Library for making long, unwieldy select boxes more friendly
+- [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
+- [PleaseWait.js](https://pathgather.github.io/please-wait/) - A simple library to show your users a beautiful splash page while your application loads
+- [SweetAlert](http://tristanedwards.me/sweetalert) - An awesome replacement for JavaScript's alert
+- [MProgress.js](https://lightningtgc.github.io/MProgress.js/) - Google Material Design Progress Linear bar
+- [countUp.js](https://inorganik.github.io/countUp.js/) - Count up or down animation effects for numbers
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
 - [mustache](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
-- [dotjs](https://github.com/olado/doT) - Fast templating engine
+- [dotjs](https://olado.github.io/doT/) - Fast templating engine
 - [Hogan](http://twitter.github.io/hogan.js/) - JavaScript templating
 - [paperclip.js](http://paperclipjs.com/) - Reactive DOM template engine built for speed, and extensibility
 
 ### HTTP requests
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
-- [superagent](https://github.com/visionmedia/superagent) - Client-side HTTP request library
+- [superagent](https://visionmedia.github.io/superagent/) - Client-side HTTP request library
 - [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript And JSON(P)
 
 ### Dates
-- [moment.js](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates
+- [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
 
 ### Events
 - [bean](https://github.com/fat/bean) - Events api
@@ -170,24 +170,24 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [foundation icon font 3](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Zurb Icon Font 3
 
 ### Colors
-- [chromajs](https://github.com/gka/chroma.js) - Library for all kinds of color manipulations
+- [chromajs](http://old.driven-by-data.net/about/chromajs/) - Library for all kinds of color manipulations
 - [coolors](http://coolors.co/) - Super fast color scheme generator
 - [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design
 - [color](http://color.hailpixel.com/) - Intuitive color picker
 - [colourco](http://colourco.de/) - Color scheme tool
-- [uiGradients](https://github.com/Ghosh/uiGradients) - A handpicked collection of beautiful colour gradients for design and code
-- [Colors](https://github.com/mrmrs/colors) - Smarter Default colors on the web.
+- [uiGradients](http://uigradients.com/) - A handpicked collection of beautiful colour gradients for design and code
+- [Colors](http://clrs.cc/) - Smarter Default colors on the web.
 - [colorbrewer2](http://colorbrewer2.org/) - Color advice for cartography
 
 ### Databases
-- [pouchdb](https://github.com/pouchdb/pouchdb) - Created to help developers build applications that work as well offline as they do online
-- [taffydb](https://github.com/typicaljoe/taffydb) - Brings database features into your JavaScript applications
-- [LokiJS](https://github.com/techfort/LokiJS) - Embeddable / in-memory database
-- [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) - Database with mongo-like query language and data-binding support
+- [pouchdb](http://pouchdb.com/) - Created to help developers build applications that work as well offline as they do online
+- [taffydb](http://www.taffydb.com/) - Brings database features into your JavaScript applications
+- [LokiJS](http://lokijs.org/) - Embeddable / in-memory database
+- [ForerunnerDB](http://www.forerunnerdb.com/) - Database with mongo-like query language and data-binding support
 - [store.js](https://github.com/marcuswestin/store.js/) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage and userData behavior
 
 ### Social
-- [socialcount](https://github.com/filamentgroup/SocialCount/) - Custom sharing buttons with share count
-- [whatsapp button](https://github.com/kriskbx/whatsapp-sharing) - Creates a whatsapp sharing button
-- [rrssb](https://github.com/kni-labs/rrssb) - Ridiculously Responsive Social Sharing Buttons
-- [share-button](https://github.com/carrot/share-button) - Fast, beautiful, and painless social shares
+- [socialcount](http://www.filamentgroup.com/lab/socialcount.html) - Custom sharing buttons with share count
+- [whatsapp button](http://whatsapp-sharing.com/) - Creates a whatsapp sharing button
+- [rrssb](http://kurtnoble.com/labs/rrssb/) - Ridiculously Responsive Social Sharing Buttons
+- [share-button](http://sharebutton.co/) - Fast, beautiful, and painless social shares
