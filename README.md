@@ -111,6 +111,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
 - [fracs](https://github.com/lrsjng/jquery-fracs) - Plugin to determine the visible fractions of HTML elements
 - [scrollmagic](http://janpaepke.github.io/ScrollMagic/) - Trigger effects and animations in both scrolling directions
+- [midnight.js](https://github.com/Aerolab/midnight.js) - Make your header looks great with the content below it as you scroll.
 
 ### Animations
 - [impulse](https://github.com/luster-io/impulse) - Dynamic physics interactions for the mobile web
