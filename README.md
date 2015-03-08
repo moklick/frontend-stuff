@@ -146,6 +146,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
 - [superagent](https://github.com/visionmedia/superagent) - Client-side HTTP request library
 - [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript And JSON(P)
+- [fetch](https://github.com/github/fetch) - A `window.fetch` javascript polyfill
 
 ### Dates
 - [moment.js](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates
