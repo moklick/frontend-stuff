@@ -176,6 +176,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design
 - [color](http://color.hailpixel.com/) - Intuitive color picker
 - [colourco](http://colourco.de/) - Color scheme tool
+- [ColorHexa](http://www.colorhexa.com/) - Color encyclopedia : Information and conversion.
 - [uiGradients](http://uigradients.com/) - A handpicked collection of beautiful colour gradients for design and code
 - [Colors](http://clrs.cc/) - Smarter Default colors on the web.
 - [colorbrewer2](http://colorbrewer2.org/) - Color advice for cartography
