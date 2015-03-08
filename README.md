@@ -90,7 +90,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Audio
 - [blip](http://jshanley.github.io/blip/) - Web Audio API wrapper
 - [howler](http://howlerjs.com/) - Audio library
-- [soundjs](http://createjs.com/Home) - Audio library + simple interface
+- [soundjs](http://createjs.com/SoundJS) - Audio library + simple interface
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
 
 ### Tables
