@@ -121,6 +121,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations
 - [semantic ui - transition](http://semantic-ui.com/modules/transition.html) - Simple CSS3 Animations and transitions
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
+- [Hover.css](http://ianlunn.github.io/Hover/) - CSS3 Hover Effects
 
 ### UI Elements
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
@@ -134,6 +135,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [MProgress.js](https://lightningtgc.github.io/MProgress.js/) - Google Material Design Progress Linear bar
 - [countUp.js](https://inorganik.github.io/countUp.js/) - Count up or down animation effects for numbers
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
+- [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
