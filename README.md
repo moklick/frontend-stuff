@@ -67,6 +67,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [openlayers3](http://openlayers.org/) - Mapping library that supports different projections
 - [Kartograph](http://kartograph.org/) - Simple and lightweight framework for building interactive map applications without Google Maps
 - [mapsicon](https://github.com/djaiss/mapsicon) - Collection of maps for nearly every country in the world in PNG and SVG
+- [Cesium](http://cesiumjs.org/) - JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin.
 
 ### Text
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
