@@ -109,7 +109,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Scrolling
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
 - [WOW](http://mynameismatthieu.com/WOW/) - Reveal CSS animation as you scroll down a page
-- [superscrollorama](https://johnpolacek.github.io/superscrollorama/) - The jQuery plugin for supercool scroll animation
+- [ScrollMagic](http://janpaepke.github.io/ScrollMagic/) - Library for scroll interactions
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
 - [scrollmagic](http://janpaepke.github.io/ScrollMagic/) - Trigger effects and animations in both scrolling directions
 
