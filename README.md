@@ -122,6 +122,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations
 - [semantic ui - transition](http://semantic-ui.com/modules/transition.html) - Simple CSS3 Animations and transitions
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
+- [Quintus.js](http://www.html5quintus.com/) - JavaScript HTML5 game engine for mobile, desktop and beyond
 
 ### UI Elements
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
