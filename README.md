@@ -99,6 +99,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor
 - [dynatables](http://www.dynatable.com/) - Semantic and interactive table plugin using jQuery, HTML5, and JSON
 - [DataTables](http://www.datatables.net/) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
+- [ListJS](http://www.listjs.com/) - Tiny, invisible and simple, yet powerful and incredibly fast vanilla JavaScript that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.
 
 ### Lazy-Loading
 - [Aload](http://pazguille.github.io/aload/) - Asynchronously loads images, scripts, styles and more
@@ -142,6 +143,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [dotjs](https://olado.github.io/doT/) - Fast templating engine
 - [Hogan](http://twitter.github.io/hogan.js/) - JavaScript templating
 - [paperclip.js](http://paperclipjs.com/) - Reactive DOM template engine built for speed, and extensibility
+- [Handlebars](http://handlebarsjs.com/) - Minimal Templating on Steroids
+- [jade](http://jade-lang.com/) - Jade is a terse language for writing HTML templates.
+- [EJS](http://www.embeddedjs.com/) - EJS cleans the HTML out of your JavaScript with client side templates.
 
 ### HTTP requests
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
