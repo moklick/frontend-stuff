@@ -153,6 +153,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Dates
 - [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
+- [sugar](http://sugarjs.com/dates) - Parse, create, manipulate, compare, format and display dates
 
 ### Events
 - [bean](https://github.com/fat/bean) - Events api
