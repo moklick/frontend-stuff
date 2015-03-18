@@ -11,6 +11,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Video](#video)
 - [Audio](#audio)
 - [Tables](#tables)
+- [Module loaders](#module-loaders)
 - [Lazy Loading](#lazy-loading)
 - [Scrolling](#scrolling)
 - [Animations](#animations)
@@ -99,6 +100,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor
 - [dynatables](http://www.dynatable.com/) - Semantic and interactive table plugin using jQuery, HTML5, and JSON
 - [DataTables](http://www.datatables.net/) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
+
+### Module loaders
+- [RequireJS](https://github.com/jrburke/requirejs) - A file and AMD module loader
 
 ### Lazy-Loading
 - [Aload](http://pazguille.github.io/aload/) - Asynchronously loads images, scripts, styles and more
