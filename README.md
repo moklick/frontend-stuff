@@ -81,6 +81,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [smart underline](https://eager.io/showcase/SmartUnderline/) - Descender-aware underlines for every browser
 - [Plumin.js](http://www.pluminjs.com/) - Create and manipulate fonts using javascript
 - [Typeplate](http://typeplate.com/) - A 'typographic starter kit'
+- [slabText](https://github.com/freqdec/slabText) - jQuery plugin for producing big, bold & responsive headlines
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
