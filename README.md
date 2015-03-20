@@ -82,6 +82,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Plumin.js](http://www.pluminjs.com/) - Create and manipulate fonts using javascript
 - [Typeplate](http://typeplate.com/) - A 'typographic starter kit'
 - [slabText](https://github.com/freqdec/slabText) - jQuery plugin for producing big, bold & responsive headlines
+- [lining.js](https://github.com/zmmbreeze/lining.js) - A complete DOWN-TO-THE-LINE control for radical web typography
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
