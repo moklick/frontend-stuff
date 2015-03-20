@@ -142,6 +142,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [countUp.js](https://inorganik.github.io/countUp.js/) - Count up or down animation effects for numbers
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 - [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
+- [Raty](https://github.com/wbotelhos/raty) -  A Star Rating Plugin
+- [Parsley](http://parsleyjs.org) - The ultimate JavaScript form validation library
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
