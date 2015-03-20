@@ -133,6 +133,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
+- [Flipside](http://lab.hakim.se/flipside/) - A button that seamlessly transitions from action to confirmation with flipping animation
 - [select2](https://select2.github.io/) - JQuery based replacement for select boxes
 - [chosen](https://harvesthq.github.io/chosen/) - Library for making long, unwieldy select boxes more friendly
 - [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
