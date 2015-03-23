@@ -50,10 +50,12 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics powered by d3
 - [sparkline](http://omnipotent.net/jquery.sparkline/) - Sparkline charts library
 - [sparky](http://prag.ma/code/sparky/) - Sparkline charts library based on rapahel
+- [peity](http://benpickles.github.io/peity/) - Progressive mini <svg> pie, donut, bar and line charts
 - [jsplumb](http://jsplumbtoolkit.com/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library.
 - [timesheet.js](https://sbstjn.github.io/timesheet.js/) - HTML5 & CSS3 time sheets
+
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
