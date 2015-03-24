@@ -37,6 +37,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [papier](http://gugel.io/papier/) - Material design like minimal CSS framework
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
 - [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
+- [Metro UI](http://metroui.org.ua) - A Windows 8 style, Metro UI and responsive CSS framework 
 
 ### Charts
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
@@ -130,6 +131,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [semantic ui - transition](http://semantic-ui.com/modules/transition.html) - Simple CSS3 Animations and transitions
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
 - [Hover.css](http://ianlunn.github.io/Hover/) - CSS3 Hover Effects
+- [PACE](https://github.com/HubSpot/pace) - Automatic page load progress bar 
 
 ### UI Elements
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
