@@ -124,6 +124,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [MProgress.js](https://github.com/lightningtgc/MProgress.js) - Google Material Design Progress Linear bar
 - [countUp.js](https://github.com/inorganik/countUp.js) - Count up or down animation effects for numbers
 - [nanobar](https://github.com/jacoborus/nanobar/) - Very very lightweight progress bars without jQuery
+- [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
