@@ -55,7 +55,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library.
 - [timesheet.js](https://sbstjn.github.io/timesheet.js/) - HTML5 & CSS3 time sheets
-
+- [morrisjs](https://github.com/morrisjs/morris.js) - SVG charts based on jquery and Raphael
 
 ### Maps
 - [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
