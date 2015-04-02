@@ -117,6 +117,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [ScrollMagic](http://janpaepke.github.io/ScrollMagic/) - Library for scroll interactions
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
 - [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile and desktop
+- [space.js](https://github.com/gopatrik/space.js) - A HTML-driven JavaScript-library for narrative 3D-scrolling
 
 ### Animations
 - [impulse](http://impulse.luster.io/) - Dynamic physics interactions for the mobile web
