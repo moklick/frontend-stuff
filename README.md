@@ -11,7 +11,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Video](#video)
 - [Audio](#audio)
 - [Tables](#tables)
-- [Module loaders](#module-loaders)
+- [Module Loaders](#module-loaders)
 - [Lazy Loading](#lazy-loading)
 - [Scrolling](#scrolling)
 - [Animations](#animations)
@@ -105,13 +105,15 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [dynatables](http://www.dynatable.com/) - Semantic and interactive table plugin using jQuery, HTML5, and JSON
 - [DataTables](http://www.datatables.net/) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
 
-### Module loaders
+### Module Loaders
 - [RequireJS](https://github.com/jrburke/requirejs) - A file and AMD module loader
+- [webpack](http://webpack.github.io/) - CommonJs and AMD module loader
+- [Systemjs](https://github.com/systemjs/systemjs) -  ES6, AMD and CommonJS loader
 
-### Lazy-Loading
+### Lazy Loading
 - [Aload](http://pazguille.github.io/aload/) - Asynchronously loads images, scripts, styles and more
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
-- [echo](http://toddmotto.com/labs/echo/) - Standalone JavaScript lazy-loading image micro-library
+- [echo](http://toddmotto.com/labs/echo/) - Standalone lazy loading image micro-library
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
 - [layzr.js](http://callmecavs.github.io/layzr.js/) - Dependency-free library for lazy loading images
 
