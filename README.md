@@ -37,6 +37,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [papier](http://gugel.io/papier/) - Material design like minimal CSS framework
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
 - [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
+- [BASSCSS](http://www.basscss.com/) - Low-level CSS toolkit
 
 ### Charts
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
