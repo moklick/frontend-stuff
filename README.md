@@ -110,6 +110,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [RequireJS](https://github.com/jrburke/requirejs) - A file and AMD module loader
 - [webpack](http://webpack.github.io/) - CommonJs and AMD module loader
 - [Systemjs](https://github.com/systemjs/systemjs) -  ES6, AMD and CommonJS loader
+- [Browserify](http://browserify.org/) - Lets you require('modules') in the browser
+- [stealjs](http://stealjs.com/) - Dependency loader and builder
 
 ### Lazy Loading
 - [Aload](http://pazguille.github.io/aload/) - Asynchronously loads images, scripts, styles and more
