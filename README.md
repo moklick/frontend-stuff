@@ -145,7 +145,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 - [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
 - [Toastr](http://codeseven.github.io/toastr/) - Simple javascript toast notifications
-- [Bootstrap-growl](http://ifightcrime.github.io/bootstrap-growl/) Turns standard Bootstrap alerts into "Growl-like" notifications.
+- [Bootstrap-growl](http://ifightcrime.github.io/bootstrap-growl/) - Turns standard Bootstrap alerts into "Growl-like" notifications.
+- [Bootstrap Notify](http://bootstrap-growl.remabledesigns.com/) - Turn standard bootstrap alerts into "growl" like notifications. (Bootstrap Notify formally known as Bootstrap notify was renamed at version 3.0.0.)
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
