@@ -86,6 +86,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Typeplate](http://typeplate.com/) - A 'typographic starter kit'
 - [slabText](https://github.com/freqdec/slabText) - jQuery plugin for producing big, bold & responsive headlines
 - [lining.js](https://github.com/zmmbreeze/lining.js) - A complete DOWN-TO-THE-LINE control for radical web typography
+- [typeahead.js](http://twitter.github.com/typeahead.js) - a flexible JavaScript library that provides a strong foundation for building robust typeaheads
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
