@@ -100,6 +100,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [howler](http://howlerjs.com/) - Audio library
 - [soundjs](http://createjs.com/SoundJS) - Audio library + simple interface
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
+- [vexflow](http://www.vexflow.com/) - HTML5 Music Engraving
 
 ### Tables
 - [sortable](http://github.hubspot.com/sortable/docs/welcome/) - Makes tables sortable
