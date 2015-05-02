@@ -173,6 +173,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
 - [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
 - [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
+- [modernizr](http://modernizr.com/) - Feature Detection Library
 
 ### Icons
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
