@@ -25,6 +25,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Colors](#colors)
 - [Databases](#databases)
 - [Social](#social)
+- [lodash](https://lodash.com/) - A JavaScript utility library delivering consistency, modularity, performance, & extras.
 
 
 ### UI Frameworks
@@ -176,6 +177,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
 - [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
 - [modernizr](http://modernizr.com/) - Feature Detection Library
+- [lodash](https://lodash.com/) - A JavaScript utility library delivering consistency, modularity, performance, & extras.
 
 ### Icons
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
