@@ -77,6 +77,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
 - [dropcap.js](https://github.com/adobe-webplatform/dropcap.js) - CSS dropcaps
 - [side-comments](http://aroc.github.io/side-comments-demo/) - Medium style comments
+- [bigfoot.js](http://www.bigfootjs.com/) - Responsive popover footnotes
 - [grande.js](http://mattduvall.com/grande.js/) - JavaScript library that implements features from Medium's editing experience
 - [pen](http://sofish.github.io/pen) - Editor with markdown support
 - [lettering](http://letteringjs.com/) - JQuery web typography plugin
