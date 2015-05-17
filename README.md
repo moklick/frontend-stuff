@@ -25,7 +25,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Colors](#colors)
 - [Databases](#databases)
 - [Social](#social)
-- [lodash](https://lodash.com/) - A JavaScript utility library delivering consistency, modularity, performance, & extras.
 
 
 ### UI Frameworks
@@ -38,6 +37,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [papier](http://gugel.io/papier/) - Material design like minimal CSS framework
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
 - [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
+- [Bootswatch](https://github.com/thomaspark/bootswatch) - A collection of themes for Bootstrap.
 
 ### Charts
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
