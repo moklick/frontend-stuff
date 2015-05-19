@@ -36,7 +36,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Bootswatch](https://github.com/thomaspark/bootswatch) - A collection of themes for Bootstrap
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
 - [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
-- [famo.us] (http://famo.us/) - Framework that helps you to create UIs
+- [famo.us](http://famo.us/) - Framework that helps you to create UIs
+- [kube](http://imperavi.com/kube/) - Minimalistic Web framework
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
 - [papier](http://gugel.io/papier/) - Material design like minimal CSS framework
 - [pure](http://purecss.io/) - A set of small, responsive CSS modules
