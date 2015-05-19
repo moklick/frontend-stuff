@@ -109,7 +109,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [soundjs](http://createjs.com/SoundJS) - Audio library + simple interface
 - [vexflow](http://www.vexflow.com/) - HTML5 Music Engraving
 
-
 ### Tables
 - [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Vanilla plugin to display large data sets
 - [DataTables](http://www.datatables.net/) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
@@ -131,6 +130,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [layzr.js](http://callmecavs.github.io/layzr.js/) - Dependency-free library for lazy loading images
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
+- [echo](http://toddmotto.com/labs/echo/) - Lazy-loading images with data-* attributes
 
 ### Scrolling
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
@@ -139,6 +139,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [ScrollMagic](http://janpaepke.github.io/ScrollMagic/) - Library for scroll interactions
 - [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile and desktop
 - [space.js](https://github.com/gopatrik/space.js) - A HTML-driven JavaScript-library for narrative 3D-scrolling
+- [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
 - [WOW](http://mynameismatthieu.com/WOW/) - Reveal CSS animation as you scroll down a page
 
 ### Animations
@@ -184,12 +185,15 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### HTTP requests
 - [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript And JSON(P)
 - [fetch](https://github.com/github/fetch) - A `window.fetch` javascript polyfill
+- [intercooler-js](http://intercoolerjs.org/) - Making AJAX as easy as anchor tags
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
 - [superagent](https://visionmedia.github.io/superagent/) - Client-side HTTP request library
 
 ### Dates
 - [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
 - [sugar](http://sugarjs.com/dates) - Parse, create, manipulate, compare, format and display dates
+- [datedropper](http://felicegattuso.com/projects/datedropper/) - datedropper is a jQuery plugin that provides a quick and easy way to manage dates for input fields.
+- [Pikaday](http://dbushell.github.io/Pikaday/) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 
 ### Events
 - [bean](https://github.com/fat/bean) - Events api
@@ -199,10 +203,11 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### General
 - [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
 - [embed.js](https://github.com/ritz078/embed.js) - Automatically embeds emojis, media, maps, tweets, code and services
+- [formstone](http://formstone.it/) - Collection of handy useful scripts
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
 - [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
-- [modernizr](http://modernizr.com/) - Feature Detection Library
 - [lodash](https://lodash.com/) - Utility library delivering consistency, modularity, performance, & extras
+- [modernizr](http://modernizr.com/) - Feature Detection Library
 
 ### Icons
 - [elegant](http://www.elegantthemes.com/blog/resources/elegant-icon-font) - Elegant Icon font
