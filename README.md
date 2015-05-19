@@ -244,6 +244,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [rrssb](http://kurtnoble.com/labs/rrssb/) - Ridiculously Responsive Social Sharing Buttons
 - [share-button](http://sharebutton.co/) - Fast, beautiful, and painless social shares
 - [socialcount](http://www.filamentgroup.com/lab/socialcount.html) - Custom sharing buttons with share count
+- [Social Likes](http://sapegin.github.io/social-likes/) - Single-style sharing buttons with counters for jQuery
 - [whatsapp button](http://whatsapp-sharing.com/) - Creates a whatsapp sharing button
 
 ### Form validation
