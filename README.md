@@ -25,6 +25,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Colors](#colors)
 - [Databases](#databases)
 - [Social](#social)
+- [Form validation](#form-validation)
 
 
 ### UI Frameworks
@@ -218,3 +219,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [whatsapp button](http://whatsapp-sharing.com/) - Creates a whatsapp sharing button
 - [rrssb](http://kurtnoble.com/labs/rrssb/) - Ridiculously Responsive Social Sharing Buttons
 - [share-button](http://sharebutton.co/) - Fast, beautiful, and painless social shares
+
+### Form validation
+- [Parsley](https://github.com/guillaumepotier/Parsley.js) - Form validation without actually writing a single line of JavaScript
