@@ -218,6 +218,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [coolors](http://coolors.co/) - Super fast color scheme generator
 - [color](http://color.hailpixel.com/) - Intuitive color picker
 - [colorbrewer2](http://colorbrewer2.org/) - Color advice for cartography
+- [ColorHexa](http://www.colorhexa.com/) - Color encyclopedia : Information and conversion.
 - [colourco](http://colourco.de/) - Color scheme tool
 - [Colors](http://clrs.cc/) - Smarter Default colors on the web.
 - [uiGradients](http://uigradients.com/) - A handpicked collection of beautiful colour gradients for design and code
