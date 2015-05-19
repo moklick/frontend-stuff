@@ -134,6 +134,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Scrolling
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
+- [midnight.js](https://github.com/Aerolab/midnight.js) - Make your header looks great with the content below it as you scroll
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
 - [ScrollMagic](http://janpaepke.github.io/ScrollMagic/) - Library for scroll interactions
 - [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile and desktop
