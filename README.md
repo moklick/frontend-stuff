@@ -160,9 +160,11 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [chosen](https://harvesthq.github.io/chosen/) - Library for making long, unwieldy select boxes more friendly
 - [countUp.js](https://inorganik.github.io/countUp.js/) - Count up or down animation effects for numbers
 - [Flipside](http://lab.hakim.se/flipside/) - A button that seamlessly transitions from action to confirmation with flipping animation
+- [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 - [MProgress.js](https://lightningtgc.github.io/MProgress.js/) - Google Material Design Progress Linear bar
 - [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
+- [nanobar](https://github.com/jacoborus/nanobar/) - Very very lightweight progress bars without jQuery
 - [PleaseWait.js](https://pathgather.github.io/please-wait/) - A simple library to show your users a beautiful splash page while your application loads
 - [select2](https://select2.github.io/) - JQuery based replacement for select boxes
 - [Slideout.js](http://mango.github.io/slideout/) - A touch slideout navigation menu for mobile web apps
@@ -170,7 +172,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [SweetAlert](http://tristanedwards.me/sweetalert) - An awesome replacement for JavaScript's alert
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
 - [Toastr](http://codeseven.github.io/toastr/) - Simple toast notifications
-
 
 ### Templating
 - [dotjs](https://olado.github.io/doT/) - Fast templating engine
