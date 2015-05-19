@@ -26,6 +26,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Databases](#databases)
 - [Social](#social)
 - [Form validation](#form-validation)
+- [Internationalization](#internationalization)
 
 
 ### UI Frameworks
@@ -249,3 +250,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Form validation
 - [Parsley](https://github.com/guillaumepotier/Parsley.js) - Easy Form validation
+
+### Internationalization
+- [l10ns](http://l10ns.org/) - Internationalization workflowand formatting
+- [globalize](https://github.com/jquery/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
