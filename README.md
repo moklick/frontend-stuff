@@ -226,12 +226,13 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Colors
 - [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design
 - [chromajs](http://old.driven-by-data.net/about/chromajs/) - Library for all kinds of color manipulations
+- [chromajs color scale helper](http://gka.github.io/palettes) - Tool to help us mastering multi-hued, multi-stops color scales
 - [coolors](http://coolors.co/) - Super fast color scheme generator
 - [color](http://color.hailpixel.com/) - Intuitive color picker
 - [colorbrewer2](http://colorbrewer2.org/) - Color advice for cartography
-- [ColorHexa](http://www.colorhexa.com/) - Color encyclopedia : Information and conversion.
+- [ColorHexa](http://www.colorhexa.com/) - Color encyclopedia : Information and conversion
 - [colourco](http://colourco.de/) - Color scheme tool
-- [Colors](http://clrs.cc/) - Smarter Default colors on the web.
+- [Colors](http://clrs.cc/) - Smarter Default colors on the web
 - [uiGradients](http://uigradients.com/) - A handpicked collection of beautiful colour gradients for design and code
 
 ### Databases
