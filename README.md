@@ -130,6 +130,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [ScrollMagic](http://janpaepke.github.io/ScrollMagic/) - Library for scroll interactions
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
 - [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile and desktop
+- [space.js](https://github.com/gopatrik/space.js) - A HTML-driven JavaScript-library for narrative 3D-scrolling
 
 ### Animations
 - [impulse](http://impulse.luster.io/) - Dynamic physics interactions for the mobile web
@@ -146,6 +147,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
+- [Flipside](http://lab.hakim.se/flipside/) - A button that seamlessly transitions from action to confirmation with flipping animation
 - [select2](https://select2.github.io/) - JQuery based replacement for select boxes
 - [chosen](https://harvesthq.github.io/chosen/) - Library for making long, unwieldy select boxes more friendly
 - [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
@@ -155,6 +157,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [countUp.js](https://inorganik.github.io/countUp.js/) - Count up or down animation effects for numbers
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 - [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
+- [Toastr](http://codeseven.github.io/toastr/) - Simple javascript toast notifications
+- [Bootstrap-growl](http://ifightcrime.github.io/bootstrap-growl/) - Turns standard Bootstrap alerts into "Growl-like" notifications.
+- [Bootstrap Notify](http://bootstrap-growl.remabledesigns.com/) - Turn standard bootstrap alerts into "growl" like notifications. (Bootstrap Notify formally known as Bootstrap notify was renamed at version 3.0.0.)
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
