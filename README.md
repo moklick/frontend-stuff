@@ -28,6 +28,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 
 ### UI Frameworks
+- [famo.us] (http://famo.us/) - Open source JavaScript framework that helps you create smooth, complex UIs for any screen
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
