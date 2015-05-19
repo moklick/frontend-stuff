@@ -115,6 +115,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [DataTables](http://www.datatables.net/) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
 - [dynatables](http://www.dynatable.com/) - Semantic and interactive table plugin using jQuery, HTML5, and JSON
 - [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor
+- [ListJS](http://www.listjs.com/) - Adds search, sort, filters and flexibility to plain HTML lists, tables, or anything
 - [sortable](http://github.hubspot.com/sortable/docs/welcome/) - Makes tables sortable
 
 ### Module Loaders
@@ -170,6 +171,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Templating
 - [dotjs](https://olado.github.io/doT/) - Fast templating engine
+- [Handlebars](http://handlebarsjs.com/) - Minimal Templating on Steroids
 - [Hogan](http://twitter.github.io/hogan.js/) - JavaScript templating
 - [mustache](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
