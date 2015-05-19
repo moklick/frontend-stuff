@@ -32,6 +32,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
 - [BASSCSS](http://www.basscss.com/) - Low-level CSS toolkit
 - [bootflat](http://bootflat.github.io/index.html) - Bootstrap with a flat design theme
+- [Bootswatch](https://github.com/thomaspark/bootswatch) - A collection of themes for Bootstrap
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
 - [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
 - [famo.us] (http://famo.us/) - Framework that helps you to create UIs
@@ -41,6 +42,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
 - [skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
+
 
 ### Charts
 - [chartist](http://gionkunz.github.io/chartist-js/) - Simple responsive charts
@@ -60,6 +62,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [timesheet.js](https://sbstjn.github.io/timesheet.js/) - HTML5 & CSS3 time sheets
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library
+
 
 ### Maps
 - [Cesium](http://cesiumjs.org/) - Library for creating 3D globes and 2D maps in a web browser without a plugin
@@ -89,6 +92,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [side-comments](http://aroc.github.io/side-comments-demo/) - Medium style comments
 - [slabText](https://github.com/freqdec/slabText) - jQuery plugin for producing big, bold & responsive headlines
 - [smart underline](https://eager.io/showcase/SmartUnderline/) - Descender-aware underlines for every browser
+- [typeahead.js](http://twitter.github.com/typeahead.js) - Foundation for building robust typeaheads
 - [Typeplate](http://typeplate.com/) - A typographic starter kit
 
 ### Video
@@ -103,6 +107,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [howler](http://howlerjs.com/) - Audio library
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
 - [soundjs](http://createjs.com/SoundJS) - Audio library + simple interface
+- [vexflow](http://www.vexflow.com/) - HTML5 Music Engraving
+
 
 ### Tables
 - [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Vanilla plugin to display large data sets
@@ -189,6 +195,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [embed.js](https://github.com/ritz078/embed.js) - Automatically embeds emojis, media, maps, tweets, code and services
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
 - [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
+- [modernizr](http://modernizr.com/) - Feature Detection Library
+- [lodash](https://lodash.com/) - Utility library delivering consistency, modularity, performance, & extras
 
 ### Icons
 - [elegant](http://www.elegantthemes.com/blog/resources/elegant-icon-font) - Elegant Icon font
