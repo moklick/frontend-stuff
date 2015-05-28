@@ -234,6 +234,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [colourco](http://colourco.de/) - Color scheme tool
 - [Colors](http://clrs.cc/) - Smarter Default colors on the web
 - [uiGradients](http://uigradients.com/) - A handpicked collection of beautiful colour gradients for design and code
+- [vibrant.js](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image
 
 ### Databases
 - [ForerunnerDB](http://www.forerunnerdb.com/) - Database with mongo-like query language and data-binding support
