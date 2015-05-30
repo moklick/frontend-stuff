@@ -143,6 +143,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [space.js](https://github.com/gopatrik/space.js) - A HTML-driven JavaScript-library for narrative 3D-scrolling
 - [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
 - [WOW](http://mynameismatthieu.com/WOW/) - Reveal CSS animation as you scroll down a page
+- [headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it:
 
 ### Animations
 - [animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations
