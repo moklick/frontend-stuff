@@ -148,6 +148,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Animations
 - [animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations
 - [bounce.js](http://bouncejs.com/) - CSS3 powered animations
+- [Dynamics.js](http://dynamicsjs.com/) - Library to create physics-based CSS animations
 - [GSAP](https://greensock.com/gsap) - Fast animation library
 - [Hover.css](http://ianlunn.github.io/Hover/) - CSS3 Hover Effects
 - [impulse](http://impulse.luster.io/) - Dynamic physics interactions for the mobile web
