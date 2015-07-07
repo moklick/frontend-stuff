@@ -27,6 +27,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Social](#social)
 - [Form validation](#form-validation)
 - [Internationalization](#internationalization)
+- [Numbers & Currencies](#numbers-currencies)
 
 
 ### UI Frameworks
@@ -207,7 +208,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [EventEmitter2](https://github.com/asyncly/EventEmitter2) - Events API with wildcards
 
 ### General
-- [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
 - [embed.js](https://github.com/ritz078/embed.js) - Automatically embeds emojis, media, maps, tweets, code and services
 - [formstone](http://formstone.it/) - Collection of handy useful scripts
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
@@ -261,3 +261,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Internationalization
 - [l10ns](http://l10ns.org/) - Internationalization workflowand formatting
 - [globalize](https://github.com/jquery/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
+
+### Numbers & Currencies
+- [Numeral.js](http://numeraljs.com/) - Formatting and manipulating numbers
+- [accounting.js](http://openexchangerates.github.io/accounting.js) - Number, money and currency formatting
+- [money.js](http://openexchangerates.github.io/money.js/) - Currency conversion library
