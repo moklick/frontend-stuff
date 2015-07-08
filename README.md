@@ -27,7 +27,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Social](#social)
 - [Form validation](#form-validation)
 - [Internationalization](#internationalization)
-- [Numbers & Currencies](#numbers-currencies)
+- [Numbers & Currencies](#numbers--currencies)
 
 
 ### UI Frameworks
