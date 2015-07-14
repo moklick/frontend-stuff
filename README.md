@@ -179,6 +179,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Slideout.js](http://mango.github.io/slideout/) - A touch slideout navigation menu for mobile web apps
 - [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
 - [SweetAlert](http://tristanedwards.me/sweetalert) - An awesome replacement for JavaScript's alert
+- [swiper](http://www.idangero.us/swiper/) - Slider with touch support
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
 - [Toastr](http://codeseven.github.io/toastr/) - Simple toast notifications
 
