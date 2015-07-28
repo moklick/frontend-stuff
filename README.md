@@ -25,7 +25,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Colors](#colors)
 - [Databases](#databases)
 - [Social](#social)
-- [validation](#validation)
+- [Validation](#validation)
 - [Internationalization](#internationalization)
 - [Numbers & Currencies](#numbers--currencies)
 
