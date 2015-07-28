@@ -7,28 +7,27 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [UI Frameworks](#ui-frameworks)
 - [Charts](#charts)
 - [Maps](#maps)
-- [Text](#text)
+- [UI Elements](#ui-elements)
+- [Typography](#typography)
 - [Video](#video)
 - [Audio](#audio)
 - [Tables](#tables)
-- [Module Loaders](#module-loaders)
-- [Lazy Loading](#lazy-loading)
 - [Scrolling](#scrolling)
 - [Animations](#animations)
-- [UI Elements](#ui-elements)
 - [Templating](#templating)
 - [HTTP Requests](#http-requests)
-- [Dates](#dates)
 - [Events](#events)
-- [General](#general)
 - [Icons](#icons)
 - [Colors](#colors)
 - [Databases](#databases)
-- [Social](#social)
 - [Validation](#validation)
+- [Dates](#dates)
 - [Internationalization](#internationalization)
 - [Numbers & Currencies](#numbers--currencies)
-
+- [Module Loaders](#module-loaders)
+- [Lazy Loading](#lazy-loading)
+- [Social](#social)
+- [General](#general)
 
 ### UI Frameworks
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
@@ -84,7 +83,28 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [topojson](https://github.com/mbostock/topojson) - An extension to GeoJSON that encodes topology
 - [turf](http://turfjs.org/) - A modular geospatial engine
 
-### Text
+### UI Elements
+- [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
+- [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
+- [chosen](https://harvesthq.github.io/chosen/) - Library for making long, unwieldy select boxes more friendly
+- [countUp.js](https://inorganik.github.io/countUp.js/) - Count up or down animation effects for numbers
+- [Flipside](http://lab.hakim.se/flipside/) - A button that seamlessly transitions from action to confirmation with flipping animation
+- [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations
+- [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
+- [MProgress.js](https://lightningtgc.github.io/MProgress.js/) - Google Material Design Progress Linear bar
+- [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
+- [nanobar](https://github.com/jacoborus/nanobar/) - Lightweight progress bars without jQuery
+- [PleaseWait.js](https://pathgather.github.io/please-wait/) - A simple library to show your users a beautiful splash page while your application loads
+- [select2](https://select2.github.io/) - JQuery based replacement for select boxes
+- [Slideout.js](http://mango.github.io/slideout/) - A touch slideout navigation menu for mobile web apps
+- [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
+- [SweetAlert](http://tristanedwards.me/sweetalert) - An awesome replacement for JavaScript's alert
+- [swiper](http://www.idangero.us/swiper/) - Slider with touch support
+- [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
+- [Toastr](http://codeseven.github.io/toastr/) - Simple toast notifications
+
+
+### Typography
 - [bacon](http://baconforme.com/) - Wraps text around a Bézier curve or a line
 - [bigfoot.js](http://www.bigfootjs.com/) - Responsive popover footnotes
 - [dropcap.js](https://github.com/adobe-webplatform/dropcap.js) - CSS dropcaps
@@ -122,21 +142,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [ListJS](http://www.listjs.com/) - Adds search, sort, filters and flexibility to plain HTML lists, tables, or anything
 - [sortable](http://github.hubspot.com/sortable/docs/welcome/) - Makes tables sortable
 
-### Module Loaders
-- [Browserify](http://browserify.org/) - Lets you require('modules') in the browser
-- [RequireJS](https://github.com/jrburke/requirejs) - A file and AMD module loader
-- [stealjs](http://stealjs.com/) - Dependency loader and builder
-- [Systemjs](https://github.com/systemjs/systemjs) - ES6, AMD and CommonJS loader
-- [webpack](http://webpack.github.io/) - CommonJs and AMD module loader
-
-### Lazy Loading
-- [Aload](http://pazguille.github.io/aload/) - Asynchronously loads images, scripts, styles and more
-- [echo](http://toddmotto.com/labs/echo/) - Standalone lazy loading image micro-library
-- [layzr.js](http://callmecavs.github.io/layzr.js/) - Dependency-free library for lazy loading images
-- [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
-- [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
-- [echo](http://toddmotto.com/labs/echo/) - Lazy-loading images with data-* attributes
-
 ### Scrolling
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
 - [midnight.js](https://github.com/Aerolab/midnight.js) - Make your header looks great with the content below it as you scroll
@@ -161,28 +166,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
 - [velocity](http://velocityjs.org/) - Accelerated JavaScript animation
 
-### UI Elements
-- [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
-- [Bootstrap-growl](http://ifightcrime.github.io/bootstrap-growl/) - Turns standard Bootstrap alerts into "Growl-like" notifications
-- [Bootstrap Notify](http://bootstrap-growl.remabledesigns.com/) - Turn standard bootstrap alerts into "growl" like notifications
-- [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
-- [chosen](https://harvesthq.github.io/chosen/) - Library for making long, unwieldy select boxes more friendly
-- [countUp.js](https://inorganik.github.io/countUp.js/) - Count up or down animation effects for numbers
-- [Flipside](http://lab.hakim.se/flipside/) - A button that seamlessly transitions from action to confirmation with flipping animation
-- [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations
-- [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
-- [MProgress.js](https://lightningtgc.github.io/MProgress.js/) - Google Material Design Progress Linear bar
-- [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
-- [nanobar](https://github.com/jacoborus/nanobar/) - Lightweight progress bars without jQuery
-- [PleaseWait.js](https://pathgather.github.io/please-wait/) - A simple library to show your users a beautiful splash page while your application loads
-- [select2](https://select2.github.io/) - JQuery based replacement for select boxes
-- [Slideout.js](http://mango.github.io/slideout/) - A touch slideout navigation menu for mobile web apps
-- [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
-- [SweetAlert](http://tristanedwards.me/sweetalert) - An awesome replacement for JavaScript's alert
-- [swiper](http://www.idangero.us/swiper/) - Slider with touch support
-- [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
-- [Toastr](http://codeseven.github.io/toastr/) - Simple toast notifications
-
 ### Templating
 - [dotjs](https://olado.github.io/doT/) - Fast templating engine
 - [Handlebars](http://handlebarsjs.com/) - Minimal Templating on Steroids
@@ -197,12 +180,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [intercooler-js](http://intercoolerjs.org/) - Making AJAX as easy as anchor tags
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
 - [superagent](https://visionmedia.github.io/superagent/) - Client-side HTTP request library
-
-### Dates
-- [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
-- [sugar](http://sugarjs.com/dates) - Parse, create, manipulate, compare, format and display dates
-- [datedropper](http://felicegattuso.com/projects/datedropper/) - datedropper is a jQuery plugin that provides a quick and easy way to manage dates for input fields.
-- [Pikaday](http://dbushell.github.io/Pikaday/) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 
 ### Events
 - [bean](https://github.com/fat/bean) - Events api
@@ -242,17 +219,16 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [pouchdb](http://pouchdb.com/) - Created to help developers build applications that work as well offline as they do online
 - [taffydb](http://www.taffydb.com/) - Brings database features into your JavaScript applications
 
-### Social
-- [rrssb](http://kurtnoble.com/labs/rrssb/) - Ridiculously Responsive Social Sharing Buttons
-- [share-button](http://sharebutton.co/) - Fast, beautiful, and painless social shares
-- [socialcount](http://www.filamentgroup.com/lab/socialcount.html) - Custom sharing buttons with share count
-- [Social Likes](http://sapegin.github.io/social-likes/) - Single-style sharing buttons with counters for jQuery
-- [whatsapp button](http://whatsapp-sharing.com/) - Creates a whatsapp sharing button
-
 ### Validation
 - [is.js](http://arasatasaygin.github.io/is.js/) - Micro check library
 - [Parsley](https://github.com/guillaumepotier/Parsley.js) - Easy Form validation
 - [validate.js](https://github.com/rickharrison/validate.js) - Form validation library inspired by CodeIgniter
+
+### Dates
+- [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
+- [sugar](http://sugarjs.com/dates) - Parse, create, manipulate, compare, format and display dates
+- [datedropper](http://felicegattuso.com/projects/datedropper/) - datedropper is a jQuery plugin that provides a quick and easy way to manage dates for input fields.
+- [Pikaday](http://dbushell.github.io/Pikaday/) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 
 ### Internationalization
 - [l10ns](http://l10ns.org/) - Internationalization workflowand formatting
@@ -262,6 +238,28 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Numeral.js](http://numeraljs.com/) - Formatting and manipulating numbers
 - [accounting.js](http://openexchangerates.github.io/accounting.js) - Number, money and currency formatting
 - [money.js](http://openexchangerates.github.io/money.js/) - Currency conversion library
+
+### Module Loaders
+- [Browserify](http://browserify.org/) - Lets you require('modules') in the browser
+- [RequireJS](https://github.com/jrburke/requirejs) - A file and AMD module loader
+- [stealjs](http://stealjs.com/) - Dependency loader and builder
+- [Systemjs](https://github.com/systemjs/systemjs) - ES6, AMD and CommonJS loader
+- [webpack](http://webpack.github.io/) - CommonJs and AMD module loader
+
+### Lazy Loading
+- [Aload](http://pazguille.github.io/aload/) - Asynchronously loads images, scripts, styles and more
+- [echo](http://toddmotto.com/labs/echo/) - Standalone lazy loading image micro-library
+- [layzr.js](http://callmecavs.github.io/layzr.js/) - Dependency-free library for lazy loading images
+- [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
+- [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
+- [echo](http://toddmotto.com/labs/echo/) - Lazy-loading images with data-* attributes
+
+### Social
+- [rrssb](http://kurtnoble.com/labs/rrssb/) - Ridiculously Responsive Social Sharing Buttons
+- [share-button](http://sharebutton.co/) - Fast, beautiful, and painless social shares
+- [socialcount](http://www.filamentgroup.com/lab/socialcount.html) - Custom sharing buttons with share count
+- [Social Likes](http://sapegin.github.io/social-likes/) - Single-style sharing buttons with counters for jQuery
+- [whatsapp button](http://whatsapp-sharing.com/) - Creates a whatsapp sharing button
 
 ### General
 - [embed.js](https://github.com/ritz078/embed.js) - Automatically embeds emojis, media, maps, tweets, code and services
