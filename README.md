@@ -17,7 +17,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Animations](#animations)
 - [UI Elements](#ui-elements)
 - [Templating](#templating)
-- [HTTP requests](#http-requests)
+- [HTTP Requests](#http-requests)
 - [Dates](#dates)
 - [Events](#events)
 - [General](#general)
@@ -25,7 +25,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Colors](#colors)
 - [Databases](#databases)
 - [Social](#social)
-- [Form validation](#form-validation)
+- [validation](#validation)
 - [Internationalization](#internationalization)
 - [Numbers & Currencies](#numbers--currencies)
 
@@ -173,7 +173,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 - [MProgress.js](https://lightningtgc.github.io/MProgress.js/) - Google Material Design Progress Linear bar
 - [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
-- [nanobar](https://github.com/jacoborus/nanobar/) - Very very lightweight progress bars without jQuery
+- [nanobar](https://github.com/jacoborus/nanobar/) - Lightweight progress bars without jQuery
 - [PleaseWait.js](https://pathgather.github.io/please-wait/) - A simple library to show your users a beautiful splash page while your application loads
 - [select2](https://select2.github.io/) - JQuery based replacement for select boxes
 - [Slideout.js](http://mango.github.io/slideout/) - A touch slideout navigation menu for mobile web apps
@@ -189,10 +189,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Hogan](http://twitter.github.io/hogan.js/) - JavaScript templating
 - [mustache](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
-- [paperclip.js](http://paperclipjs.com/) - Reactive DOM template engine built for speed, and extensibility
+- [paperclip.js](http://paperclipjs.com/) - Reactive DOM template engine built for speed and extensibility
 
-### HTTP requests
-- [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript And JSON(P)
+### HTTP Requests
+- [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript and JSON(P)
 - [fetch](https://github.com/github/fetch) - A `window.fetch` javascript polyfill
 - [intercooler-js](http://intercoolerjs.org/) - Making AJAX as easy as anchor tags
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
@@ -208,14 +208,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [bean](https://github.com/fat/bean) - Events api
 - [gator.js](http://craig.is/riding/gators) - Simple event delegation
 - [EventEmitter2](https://github.com/asyncly/EventEmitter2) - Events API with wildcards
-
-### General
-- [embed.js](https://github.com/ritz078/embed.js) - Automatically embeds emojis, media, maps, tweets, code and services
-- [formstone](http://formstone.it/) - Collection of handy useful scripts
-- [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
-- [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
-- [lodash](https://lodash.com/) - Utility library delivering consistency, modularity, performance, & extras
-- [modernizr](http://modernizr.com/) - Feature Detection Library
 
 ### Icons
 - [elegant](http://www.elegantthemes.com/blog/resources/elegant-icon-font) - Elegant Icon font
@@ -257,8 +249,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Social Likes](http://sapegin.github.io/social-likes/) - Single-style sharing buttons with counters for jQuery
 - [whatsapp button](http://whatsapp-sharing.com/) - Creates a whatsapp sharing button
 
-### Form validation
+### Validation
+- [is.js](http://arasatasaygin.github.io/is.js/) - Micro check library
 - [Parsley](https://github.com/guillaumepotier/Parsley.js) - Easy Form validation
+- [validate.js](https://github.com/rickharrison/validate.js) - Form validation library inspired by CodeIgniter
 
 ### Internationalization
 - [l10ns](http://l10ns.org/) - Internationalization workflowand formatting
@@ -268,3 +262,11 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Numeral.js](http://numeraljs.com/) - Formatting and manipulating numbers
 - [accounting.js](http://openexchangerates.github.io/accounting.js) - Number, money and currency formatting
 - [money.js](http://openexchangerates.github.io/money.js/) - Currency conversion library
+
+### General
+- [embed.js](https://github.com/ritz078/embed.js) - Automatically embeds emojis, media, maps, tweets, code and services
+- [formstone](http://formstone.it/) - Collection of handy useful scripts
+- [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
+- [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
+- [lodash](https://lodash.com/) - Utility library delivering consistency, modularity, performance, & extras
+- [modernizr](http://modernizr.com/) - Feature Detection Library
