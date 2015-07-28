@@ -7,11 +7,13 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [UI Frameworks](#ui-frameworks)
 - [Charts](#charts)
 - [Maps](#maps)
+- [Selects](#selects)
+- [Tables](#tables)
+- [Loaders](#loaders)
 - [UI Elements](#ui-elements)
 - [Typography](#typography)
 - [Video](#video)
 - [Audio](#audio)
-- [Tables](#tables)
 - [Scrolling](#scrolling)
 - [Animations](#animations)
 - [Templating](#templating)
@@ -46,7 +48,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
 - [mui](https://www.muicss.com) - A Lightweight HTML/CSS/JS Framework implementing Material Design
-
 
 ### Charts
 - [chartist](http://gionkunz.github.io/chartist-js/) - Simple responsive charts
@@ -83,26 +84,36 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [topojson](https://github.com/mbostock/topojson) - An extension to GeoJSON that encodes topology
 - [turf](http://turfjs.org/) - A modular geospatial engine
 
-### UI Elements
+### Tables
+- [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Vanilla plugin to display large data sets
+- [DataTables](http://www.datatables.net/) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
+- [dynatables](http://www.dynatable.com/) - Semantic and interactive table plugin using jQuery, HTML5, and JSON
+- [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor
+- [ListJS](http://www.listjs.com/) - Adds search, sort, filters and flexibility to plain HTML lists, tables, or anything
+- [sortable](http://github.hubspot.com/sortable/docs/welcome/) - Makes tables sortable
+
+### Selects
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
-- [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
 - [chosen](https://harvesthq.github.io/chosen/) - Library for making long, unwieldy select boxes more friendly
-- [countUp.js](https://inorganik.github.io/countUp.js/) - Count up or down animation effects for numbers
-- [Flipside](http://lab.hakim.se/flipside/) - A button that seamlessly transitions from action to confirmation with flipping animation
+- [select2](https://select2.github.io/) - JQuery based replacement for select boxes
+
+### Loaders 
 - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations
-- [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 - [MProgress.js](https://lightningtgc.github.io/MProgress.js/) - Google Material Design Progress Linear bar
 - [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
 - [nanobar](https://github.com/jacoborus/nanobar/) - Lightweight progress bars without jQuery
 - [PleaseWait.js](https://pathgather.github.io/please-wait/) - A simple library to show your users a beautiful splash page while your application loads
-- [select2](https://select2.github.io/) - JQuery based replacement for select boxes
+
+### UI Elements
+- [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
+- [countUp.js](https://inorganik.github.io/countUp.js/) - Count up or down animation effects for numbers
+- [Flipside](http://lab.hakim.se/flipside/) - A button that seamlessly transitions from action to confirmation with flipping animation
+- [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 - [Slideout.js](http://mango.github.io/slideout/) - A touch slideout navigation menu for mobile web apps
 - [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
 - [SweetAlert](http://tristanedwards.me/sweetalert) - An awesome replacement for JavaScript's alert
 - [swiper](http://www.idangero.us/swiper/) - Slider with touch support
-- [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
 - [Toastr](http://codeseven.github.io/toastr/) - Simple toast notifications
-
 
 ### Typography
 - [bacon](http://baconforme.com/) - Wraps text around a Bézier curve or a line
@@ -134,14 +145,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [soundjs](http://createjs.com/SoundJS) - Audio library + simple interface
 - [vexflow](http://www.vexflow.com/) - HTML5 Music Engraving
 
-### Tables
-- [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Vanilla plugin to display large data sets
-- [DataTables](http://www.datatables.net/) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
-- [dynatables](http://www.dynatable.com/) - Semantic and interactive table plugin using jQuery, HTML5, and JSON
-- [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor
-- [ListJS](http://www.listjs.com/) - Adds search, sort, filters and flexibility to plain HTML lists, tables, or anything
-- [sortable](http://github.hubspot.com/sortable/docs/welcome/) - Makes tables sortable
-
 ### Scrolling
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
 - [midnight.js](https://github.com/Aerolab/midnight.js) - Make your header looks great with the content below it as you scroll
@@ -164,7 +167,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [semantic ui - transition](http://semantic-ui.com/modules/transition.html) - Simple CSS3 Animations and transitions
 - [snabbt](https://daniel-lundin.github.io/snabbt.js/) - Animations with JavaScript and CSS transforms
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
-- [velocity](http://velocityjs.org/) - Accelerated JavaScript animation
+- [velocity](http://velocityjs.org/) - Accelerated JavaScript animations
 
 ### Templating
 - [dotjs](https://olado.github.io/doT/) - Fast templating engine
@@ -268,3 +271,4 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
 - [lodash](https://lodash.com/) - Utility library delivering consistency, modularity, performance, & extras
 - [modernizr](http://modernizr.com/) - Feature Detection Library
+- [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
