@@ -14,6 +14,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Typography](#typography)
 - [Video](#video)
 - [Audio](#audio)
+- [Canvas and SVG](#canvas-and-svg)
 - [Scrolling](#scrolling)
 - [Animations](#animations)
 - [Templating](#templating)
@@ -144,6 +145,15 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
 - [soundjs](http://createjs.com/SoundJS) - Audio library + simple interface
 - [vexflow](http://www.vexflow.com/) - HTML5 Music Engraving
+
+### Canvas and SVG
+- [D3](http://d3js.org/) - A JavaScript visualization library for HTML and SVG
+- [Easeljs](http://www.createjs.com/easeljs) - Library for building canvas based interactive 2D content 
+- [Fabric.js](http://fabricjs.com/) - Canvas Library, SVG-to-Canvas (& Canvas-to-SVG) Parser 
+- [Paper.js](http://paperjs.org/) - Canvas based vector graphics scripting framework
+- [Paths.js](https://github.com/andreaferretti/paths-js) - Generate SVG paths for geometric shapes
+- [Raphael](http://raphaeljs.com/) - Library that simplify your work with vector graphics on the web
+- [svg.js](https://github.com/wout/svg.js) - Library for manipulating and animating SVG
 
 ### Scrolling
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
