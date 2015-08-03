@@ -252,6 +252,11 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [accounting.js](http://openexchangerates.github.io/accounting.js) - Number, money and currency formatting
 - [money.js](http://openexchangerates.github.io/money.js/) - Currency conversion library
 
+## Statistics
+- [datalib](https://github.com/vega/datalib) - Javascript data utility library
+- [jstat](https://github.com/jstat/jstat) - Javascript Statistical Library
+- [simple-statistics](https://github.com/simple-statistics/simple-statistics) - simple statistics for node & browser javascript
+
 ### Module Loaders
 - [Browserify](http://browserify.org/) - Lets you require('modules') in the browser
 - [RequireJS](https://github.com/jrburke/requirejs) - A file and AMD module loader
