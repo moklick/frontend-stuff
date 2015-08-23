@@ -214,6 +214,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Colors
 - [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design
+- [Brand Colors](http://brandcolors.net) - Official color codes for the world's biggest brands 
 - [chromajs](http://old.driven-by-data.net/about/chromajs/) - Library for all kinds of color manipulations
 - [chromajs color scale helper](http://gka.github.io/palettes) - Tool to help us mastering multi-hued, multi-stops color scales
 - [coolors](http://coolors.co/) - Super fast color scheme generator
