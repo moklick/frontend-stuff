@@ -49,6 +49,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
 - [mui](https://www.muicss.com) - A Lightweight HTML/CSS/JS Framework implementing Material Design
+- [Metro UI](https://metroui.org.ua/) - A front-end framework for developing website in Windows Metro Style
 
 ### Charts
 - [chartist](http://gionkunz.github.io/chartist-js/) - Simple responsive charts
