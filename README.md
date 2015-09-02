@@ -115,6 +115,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [SweetAlert](http://tristanedwards.me/sweetalert) - An awesome replacement for JavaScript's alert
 - [swiper](http://www.idangero.us/swiper/) - Slider with touch support
 - [Toastr](http://codeseven.github.io/toastr/) - Simple toast notifications
+- [vex](http://github.hubspot.com/vex/docs/welcome/) - A modern dialog library which is highly configurable and easy to style
 
 ### Typography
 - [bacon](http://baconforme.com/) - Wraps text around a Bézier curve or a line
