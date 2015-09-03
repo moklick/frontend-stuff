@@ -192,6 +192,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript and JSON(P)
 - [fetch](https://github.com/github/fetch) - A `window.fetch` javascript polyfill
 - [intercooler-js](http://intercoolerjs.org/) - Making AJAX as easy as anchor tags
+- [qwest](https://github.com/pyrsmk/qwest) - Ajax library with XHR2, promises and request limit
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
 - [superagent](https://visionmedia.github.io/superagent/) - Client-side HTTP request library
 
