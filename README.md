@@ -176,6 +176,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Hover.css](http://ianlunn.github.io/Hover/) - CSS3 Hover Effects
 - [impulse](http://impulse.luster.io/) - Dynamic physics interactions for the mobile web
 - [semantic ui - transition](http://semantic-ui.com/modules/transition.html) - Simple CSS3 Animations and transitions
+- [Sequence.js](https://github.com/IanLunn/Sequence/) - Responsive CSS animation framework
 - [snabbt](https://daniel-lundin.github.io/snabbt.js/) - Animations with JavaScript and CSS transforms
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
 - [velocity](http://velocityjs.org/) - Accelerated JavaScript animations
