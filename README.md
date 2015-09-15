@@ -242,6 +242,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [is.js](http://arasatasaygin.github.io/is.js/) - Micro check library
 - [Parsley](https://github.com/guillaumepotier/Parsley.js) - Easy Form validation
 - [validate.js](https://github.com/rickharrison/validate.js) - Form validation library inspired by CodeIgniter
+- [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization
 
 ### Dates
 - [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
