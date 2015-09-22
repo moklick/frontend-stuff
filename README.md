@@ -135,6 +135,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [typeahead.js](http://twitter.github.com/typeahead.js) - Foundation for building robust typeaheads
 - [Typeplate](http://typeplate.com/) - A typographic starter kit
 - [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
+- [Icomoon](https://icomoon.io/) - Website to custom build fonts, useful for icons
 
 ### Video
 - [Fitvid](http://fitvidsjs.com/) - Responsive videos
@@ -216,6 +217,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [octicons](https://octicons.github.com/) - Github icons
 - [the nounproject](http://thenounproject.com/) - Icon search
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
+- [Icomoon](https://icomoon.io/) - Website to custom build icon fonts
 
 ### Colors
 - [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design
