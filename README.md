@@ -145,7 +145,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Videojs](http://www.videojs.com/) - Open source HTML5 video player
 
 ### Audio
-- [audio.js](http://kolber.github.io/audiojs/) - Wrapper for the html5 audio tag
+- [audio5js](https://github.com/zohararad/audio5js) - The HTML5 Audio Compatibility Layer
 - [blip](http://jshanley.github.io/blip/) - Web Audio API wrapper
 - [howler](http://howlerjs.com/) - Audio library
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
