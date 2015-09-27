@@ -158,8 +158,11 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Fabric.js](http://fabricjs.com/) - Canvas Library, SVG-to-Canvas (& Canvas-to-SVG) Parser 
 - [Paper.js](http://paperjs.org/) - Canvas based vector graphics scripting framework
 - [Paths.js](https://github.com/andreaferretti/paths-js) - Generate SVG paths for geometric shapes
+- [p5js](http://p5js.org/) - Processing for Javascript
 - [Raphael](http://raphaeljs.com/) - Library that simplify your work with vector graphics on the web
-- [svg.js](https://github.com/wout/svg.js) - Library for manipulating and animating SVG
+- [rune.js](http://runemadsen.github.io/rune.js/index.html) - A Library for programming graphic design systems with SVG
+- [svg.js](https://github.com/wout/svg.js) - A Library for manipulating and animating SVG
+- [two.js](https://jonobr1.github.io/two.js/) -  A two-dimensional drawing api
 
 ### Scrolling
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
