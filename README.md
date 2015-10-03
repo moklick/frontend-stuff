@@ -189,6 +189,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [snabbt](https://daniel-lundin.github.io/snabbt.js/) - Animations with JavaScript and CSS transforms
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
 - [velocity](http://velocityjs.org/) - Accelerated JavaScript animations
+- [snapsvg](http://snapsvg.io/) - JavaScript library for animating and manipulating SVG's
+- [vivus](https://maxwellito.github.io/vivus/) - Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearence of being drawn
 
 ### Templating
 - [dotjs](https://olado.github.io/doT/) - Fast templating engine
