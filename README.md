@@ -305,4 +305,5 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [lodash](https://lodash.com/) - Utility library delivering consistency, modularity, performance, & extras
 - [modernizr](http://modernizr.com/) - Feature Detection Library
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
+- [ThreeWords](https://github.com/albyr/threewords) - Converts numeric identifiers into human-readable words (e.g. in URLs)
 - [UpUp](https://www.talater.com/upup/) - Offline First library. Let users visit your site, even without a connection.
