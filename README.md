@@ -3,7 +3,7 @@ Frontend stuff
 
 A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
 
-
+# Table of Contents
 - [UI Frameworks](#ui-frameworks)
 - [Charts](#charts)
 - [Maps](#maps)
@@ -52,6 +52,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
 - [mui](https://www.muicss.com) - A Lightweight HTML/CSS/JS Framework implementing Material Design
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Charts
 - [chartist](http://gionkunz.github.io/chartist-js/) - Simple responsive charts
 - [chartjs](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
@@ -75,6 +77,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library
 - [VivaGraph](https://github.com/anvaka/VivaGraphJS) - Extensible graph drawing library
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Maps
 - [Cesium](http://cesiumjs.org/) - Library for creating 3D globes and 2D maps in a web browser without a plugin
 - [Kartograph](http://kartograph.org/) - Simple and lightweight framework for building interactive map applications without Google Maps
@@ -90,6 +94,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [topojson](https://github.com/mbostock/topojson) - An extension to GeoJSON that encodes topology
 - [turf](http://turfjs.org/) - A modular geospatial engine
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Tables
 - [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Vanilla plugin to display large data sets
 - [DataTables](http://www.datatables.net/) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
@@ -98,10 +104,14 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [ListJS](http://www.listjs.com/) - Adds search, sort, filters and flexibility to plain HTML lists, tables, or anything
 - [sortable](http://github.hubspot.com/sortable/docs/welcome/) - Makes tables sortable
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Selects
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
 - [chosen](https://harvesthq.github.io/chosen/) - Library for making long, unwieldy select boxes more friendly
 - [select2](https://select2.github.io/) - JQuery based replacement for select boxes
+
+**[⬆ back to top](#table-of-contents)**
 
 ### Loaders 
 - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations
@@ -109,6 +119,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
 - [nanobar](https://github.com/jacoborus/nanobar/) - Lightweight progress bars without jQuery
 - [PleaseWait.js](https://pathgather.github.io/please-wait/) - A simple library to show your users a beautiful splash page while your application loads
+
+**[⬆ back to top](#table-of-contents)**
 
 ### UI Elements
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
@@ -121,6 +133,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [swiper](http://www.idangero.us/swiper/) - Slider with touch support
 - [Toastr](http://codeseven.github.io/toastr/) - Simple toast notifications
 - [vex](http://github.hubspot.com/vex/docs/welcome/) - A modern dialog library which is highly configurable and easy to style
+
+**[⬆ back to top](#table-of-contents)**
 
 ### Typography
 - [bacon](http://baconforme.com/) - Wraps text around a Bézier curve or a line
@@ -140,12 +154,16 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
 - [Icomoon](https://icomoon.io/) - Website to custom build fonts, useful for icons
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Video
 - [Fitvid](http://fitvidsjs.com/) - Responsive videos
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
 - [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions
 - [talkie](https://github.com/kiln/talkie) - Combines audio and animations
 - [Videojs](http://www.videojs.com/) - Open source HTML5 video player
+
+**[⬆ back to top](#table-of-contents)**
 
 ### Audio
 - [audio5js](https://github.com/zohararad/audio5js) - The HTML5 Audio Compatibility Layer
@@ -154,6 +172,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
 - [soundjs](http://createjs.com/SoundJS) - Audio library + simple interface
 - [vexflow](http://www.vexflow.com/) - HTML5 Music Engraving
+
+**[⬆ back to top](#table-of-contents)**
 
 ### Canvas and SVG
 - [D3](http://d3js.org/) - A JavaScript visualization library for HTML and SVG
@@ -167,6 +187,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [svg.js](https://github.com/wout/svg.js) - A Library for manipulating and animating SVG
 - [two.js](https://jonobr1.github.io/two.js/) -  A two-dimensional drawing api
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Scrolling
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
 - [midnight.js](https://github.com/Aerolab/midnight.js) - Make your header looks great with the content below it as you scroll
@@ -178,6 +200,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
 - [WOW](http://mynameismatthieu.com/WOW/) - Reveal CSS animation as you scroll down a page
 - [headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it:
+
+**[⬆ back to top](#table-of-contents)**
 
 ### Animations
 - [animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations
@@ -195,6 +219,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [snapsvg](http://snapsvg.io/) - JavaScript library for animating and manipulating SVG's
 - [vivus](https://maxwellito.github.io/vivus/) - Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearence of being drawn
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Templating
 - [dotjs](https://olado.github.io/doT/) - Fast templating engine
 - [Handlebars](http://handlebarsjs.com/) - Minimal Templating on Steroids
@@ -202,6 +228,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [mustache](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
 - [paperclip.js](http://paperclipjs.com/) - Reactive DOM template engine built for speed and extensibility
+
+**[⬆ back to top](#table-of-contents)**
 
 ### HTTP Requests
 - [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript and JSON(P)
@@ -211,10 +239,14 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [reqwest](https://github.com/ded/reqwest) - Browser asynchronous HTTP requests
 - [superagent](https://visionmedia.github.io/superagent/) - Client-side HTTP request library
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Events
 - [bean](https://github.com/fat/bean) - Events api
 - [gator.js](http://craig.is/riding/gators) - Simple event delegation
 - [EventEmitter2](https://github.com/asyncly/EventEmitter2) - Events API with wildcards
+
+**[⬆ back to top](#table-of-contents)**
 
 ### Icons
 - [elegant](http://www.elegantthemes.com/blog/resources/elegant-icon-font) - Elegant Icon font
@@ -228,6 +260,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [the nounproject](http://thenounproject.com/) - Icon search
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
 - [Icomoon](https://icomoon.io/) - Website to custom build icon fonts
+
+**[⬆ back to top](#table-of-contents)**
 
 ### Colors
 - [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design
@@ -243,6 +277,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [uiGradients](http://uigradients.com/) - A handpicked collection of beautiful colour gradients for design and code
 - [vibrant.js](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Databases
 - [ForerunnerDB](http://www.forerunnerdb.com/) - Database with mongo-like query language and data-binding support
 - [localForage](https://github.com/mozilla/localForage) - Library like a localStorage API with fallback store for browsers with no IndexedDB or WebSQL support
@@ -252,11 +288,15 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [pouchdb](http://pouchdb.com/) - Created to help developers build applications that work as well offline as they do online
 - [taffydb](http://www.taffydb.com/) - Brings database features into your JavaScript applications
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Validation
 - [is.js](http://arasatasaygin.github.io/is.js/) - Micro check library
 - [Parsley](https://github.com/guillaumepotier/Parsley.js) - Easy Form validation
 - [validate.js](https://github.com/rickharrison/validate.js) - Form validation library inspired by CodeIgniter
 - [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization
+
+**[⬆ back to top](#table-of-contents)**
 
 ### Dates
 - [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
@@ -264,14 +304,20 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [datedropper](http://felicegattuso.com/projects/datedropper/) - datedropper is a jQuery plugin that provides a quick and easy way to manage dates for input fields.
 - [Pikaday](http://dbushell.github.io/Pikaday/) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Internationalization
 - [l10ns](http://l10ns.org/) - Internationalization workflowand formatting
 - [globalize](https://github.com/jquery/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
+
+**[⬆ back to top](#table-of-contents)**
 
 ### Numbers & Currencies
 - [Numeral.js](http://numeraljs.com/) - Formatting and manipulating numbers
 - [accounting.js](http://openexchangerates.github.io/accounting.js) - Number, money and currency formatting
 - [money.js](http://openexchangerates.github.io/money.js/) - Currency conversion library
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Statistics
 - [datalib](https://github.com/vega/datalib) - Javascript data utility library
@@ -285,6 +331,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Systemjs](https://github.com/systemjs/systemjs) - ES6, AMD and CommonJS loader
 - [webpack](http://webpack.github.io/) - CommonJs and AMD module loader
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Lazy Loading
 - [Aload](http://pazguille.github.io/aload/) - Asynchronously loads images, scripts, styles and more
 - [echo](http://toddmotto.com/labs/echo/) - Standalone lazy loading image micro-library
@@ -293,12 +341,16 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
 - [echo](http://toddmotto.com/labs/echo/) - Lazy-loading images with data-* attributes
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Social
 - [rrssb](http://kurtnoble.com/labs/rrssb/) - Ridiculously Responsive Social Sharing Buttons
 - [share-button](http://sharebutton.co/) - Fast, beautiful, and painless social shares
 - [socialcount](http://www.filamentgroup.com/lab/socialcount.html) - Custom sharing buttons with share count
 - [Social Likes](http://sapegin.github.io/social-likes/) - Single-style sharing buttons with counters for jQuery
 - [whatsapp button](http://whatsapp-sharing.com/) - Creates a whatsapp sharing button
+
+**[⬆ back to top](#table-of-contents)**
 
 ### General
 - [embed.js](https://github.com/ritz078/embed.js) - Automatically embeds emojis, media, maps, tweets, code and services
@@ -309,3 +361,5 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [modernizr](http://modernizr.com/) - Feature Detection Library
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
 - [UpUp](https://www.talater.com/upup/) - Offline First library. Let users visit your site, even without a connection.
+
+**[⬆ back to top](#table-of-contents)**
