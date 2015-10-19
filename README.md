@@ -44,14 +44,14 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [kube](http://imperavi.com/kube/) - Minimalistic Web framework
 - [Material Design Lite](http://www.getmdl.io/) - Material Design Lite Components in HTML/CSS/JS
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
+- [Metro UI](https://metroui.org.ua/) - A front-end framework for developing website in Windows Metro Style
+- [mui](https://www.muicss.com) - A Lightweight HTML/CSS/JS Framework implementing Material Design
 - [papier](http://gugel.io/papier/) - Material design like minimal CSS framework
 - [pure](http://purecss.io/) - A set of small, responsive CSS modules
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
 - [skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate
 - [tacit](https://github.com/yegor256/tacit) - CSS framework without classes
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
-- [mui](https://www.muicss.com) - A Lightweight HTML/CSS/JS Framework implementing Material Design
-- [Metro UI](https://metroui.org.ua/) - A front-end framework for developing website in Windows Metro Style
 
 **[⬆ back to top](#table-of-contents)**
 
