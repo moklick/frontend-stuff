@@ -341,6 +341,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
 - [echo](http://toddmotto.com/labs/echo/) - Lazy-loading images with data-* attributes
+- [lazysizes](https://github.com/aFarkas/lazysizes) - fast and self-initializing lazyloader for images, iframes and more
 
 **[⬆ back to top](#table-of-contents)**
 
