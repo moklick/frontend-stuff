@@ -132,6 +132,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
 - [SweetAlert](http://tristanedwards.me/sweetalert) - An awesome replacement for JavaScript's alert
 - [swiper](http://www.idangero.us/swiper/) - Slider with touch support
+- [TextExt](http://textextjs.com/) - TextExt Plugin for jQuery allows you easily turn a standard HTML text input into a wide range of modern, tailored to your needs input field
 - [Toastr](http://codeseven.github.io/toastr/) - Simple toast notifications
 - [vex](http://github.hubspot.com/vex/docs/welcome/) - A modern dialog library which is highly configurable and easy to style
 
