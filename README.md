@@ -102,6 +102,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [chosen](https://harvesthq.github.io/chosen/) - Library for making long, unwieldy select boxes more friendly
 - [select2](https://select2.github.io/) - JQuery based replacement for select boxes
 
+### Search
+- [Jets.js](http://nexts.github.io/Jets.js/) - Native CSS search engine
+
 ### Loaders 
 - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations
 - [MProgress.js](https://lightningtgc.github.io/MProgress.js/) - Google Material Design Progress Linear bar
