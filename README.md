@@ -87,6 +87,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [leaflet generator](https://github.com/moklick/generator-leaflet) - Yeoman generator that scaffolds out a leaflet map application
 - [leaflet plugins](http://leafletjs.com/plugins.html) - Notable Leaflet Plugins
 - [leaflet topojson support](https://gist.github.com/rclark/5779673) - TopoJSON-aware Leaflet layer
+- [mapmap.js](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 - [mapsicon](https://github.com/djaiss/mapsicon) - Collection of maps for nearly every country in the world in PNG and SVG
 - [osmbuildings](http://osmbuildings.org/) - Library for visualizing buildings as pseudo 3D objects on interactive maps
 - [openlayers3](http://openlayers.org/) - Mapping library that supports different projections
