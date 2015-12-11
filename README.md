@@ -143,7 +143,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [bigfoot.js](http://www.bigfootjs.com/) - Responsive popover footnotes
 - [dropcap.js](https://github.com/adobe-webplatform/dropcap.js) - CSS dropcaps
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
-- [grande.js](http://mattduvall.com/grande.js/) - Library that implements features from Medium's editing experience
+- [grande.js](https://github.com/mduvall/grande.js) - Library that implements features from Medium's editing experience
 - [lining.js](https://github.com/zmmbreeze/lining.js) - A complete DOWN-TO-THE-LINE control for radical web typography
 - [lettering](http://letteringjs.com/) - JQuery web typography plugin
 - [pen](http://sofish.github.io/pen) - Editor with markdown support
