@@ -173,6 +173,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [howler](http://howlerjs.com/) - Audio library
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
 - [soundjs](http://createjs.com/SoundJS) - Audio library + simple interface
+- [timbre.js](http://mohayonao.github.io/timbre.js/) -Library for Objective Sound Programming
 - [vexflow](http://www.vexflow.com/) - HTML5 Music Engraving
 
 **[⬆ back to top](#table-of-contents)**
@@ -212,13 +213,14 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [GSAP](https://greensock.com/gsap) - Fast animation library
 - [Hover.css](http://ianlunn.github.io/Hover/) - CSS3 Hover Effects
 - [impulse](http://impulse.luster.io/) - Dynamic physics interactions for the mobile web
+- [mojs](http://mojs.io/) - Motion for the web
 - [popmotion](http://popmotion.io/) - Motion Engine. Use for animation, physics and input tracking. 
 - [semantic ui - transition](http://semantic-ui.com/modules/transition.html) - Simple CSS3 Animations and transitions
 - [Sequence.js](https://github.com/IanLunn/Sequence/) - Responsive CSS animation framework
 - [snabbt](https://daniel-lundin.github.io/snabbt.js/) - Animations with JavaScript and CSS transforms
+- [snapsvg](http://snapsvg.io/) - Library for animating and manipulating SVG's
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
 - [velocity](http://velocityjs.org/) - Accelerated JavaScript animations
-- [snapsvg](http://snapsvg.io/) - JavaScript library for animating and manipulating SVG's
 - [vivus](https://maxwellito.github.io/vivus/) - Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearence of being drawn
 
 **[⬆ back to top](#table-of-contents)**
@@ -346,6 +348,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 **[⬆ back to top](#table-of-contents)**
 
 ### Social
+- [js socials](http://js-socials.com/) - Social network sharing jQuery plugin
 - [rrssb](http://kurtnoble.com/labs/rrssb/) - Ridiculously Responsive Social Sharing Buttons
 - [share-button](http://sharebutton.co/) - Fast, beautiful, and painless social shares
 - [socialcount](http://www.filamentgroup.com/lab/socialcount.html) - Custom sharing buttons with share count
