@@ -77,6 +77,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [uvCharts](https://github.com/imaginea/uvCharts) - Simple, robust, extensible charting library built using d3
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library
 - [VivaGraph](https://github.com/anvaka/VivaGraphJS) - Extensible graph drawing library
+- [Z3d](https://github.com/NathanEpstein/Z3d) - 3d plots with three.js
 
 **[⬆ back to top](#table-of-contents)**
 
