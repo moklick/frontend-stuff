@@ -324,10 +324,13 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 **[⬆ back to top](#table-of-contents)**
 
-## Statistics
+## Statistics & data analysis
+- [datakit](https://github.com/nathanepstein/datakit) - Framework for data analysis 
 - [datalib](https://github.com/vega/datalib) - Javascript data utility library
 - [jstat](https://github.com/jstat/jstat) - Javascript Statistical Library
+- [science.js](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript
 - [simple-statistics](https://github.com/simple-statistics/simple-statistics) - simple statistics for node & browser javascript
+- [statkit](https://github.com/rigtorp/statkit) - Statistics toolkit
 
 ### Module Loaders
 - [Browserify](http://browserify.org/) - Lets you require('modules') in the browser
