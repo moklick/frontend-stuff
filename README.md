@@ -261,6 +261,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [fontello](http://fontello.com/) - Icon fonts generator
 - [foundation icon font 3](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Zurb Icon Font 3
 - [ionicons](http://ionicons.com/) - The icon font for Ionic Framework
+- [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [octicons](https://octicons.github.com/) - Github icons
 - [the nounproject](http://thenounproject.com/) - Icon search
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
