@@ -44,6 +44,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Material Design Lite](http://www.getmdl.io/) - Material Design Lite Components in HTML/CSS/JS
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
 - [Metro UI](https://metroui.org.ua/) - A front-end framework for developing website in Windows Metro Style
+- [milligram](http://milligram.github.io/) - Minimal setup of styles for a fast starting point.
 - [mui](https://www.muicss.com) - A Lightweight HTML/CSS/JS Framework implementing Material Design
 - [papier](http://gugel.io/papier/) - Material design like minimal CSS framework
 - [pure](http://purecss.io/) - A set of small, responsive CSS modules
