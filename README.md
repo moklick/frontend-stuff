@@ -63,7 +63,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics powered by d3
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3
 - [ECharts](http://echarts.baidu.com/index-en.html) - Charting library and interactive data visualization tool
-- [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
+- [epoch](http://epochjs.github.io/epoch) - A general purpose, real-time visualization library
 - [flowchart.js](http://adrai.github.io/flowchart.js) - Draws flow charts from textual representation of the diagram
 - [jsplumb](http://jsplumbtoolkit.com/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
