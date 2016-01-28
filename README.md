@@ -37,6 +37,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [BASSCSS](http://www.basscss.com/) - Low-level CSS toolkit
 - [bootflat](http://bootflat.github.io/index.html) - Bootstrap with a flat design theme
 - [Bootswatch](https://github.com/thomaspark/bootswatch) - A collection of themes for Bootstrap
+- [bulma](http://bulma.io/) - CSS framework based on Flexbox
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
 - [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
 - [corpus](https://github.com/jamiewilson/corpus) - A collection of CSS things
