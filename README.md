@@ -184,6 +184,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [D3](http://d3js.org/) - A JavaScript visualization library for HTML and SVG
 - [Easeljs](http://www.createjs.com/easeljs) - Library for building canvas based interactive 2D content 
 - [Fabric.js](http://fabricjs.com/) - Canvas Library, SVG-to-Canvas (& Canvas-to-SVG) Parser 
+- [Konva](http://konvajs.github.io/) - Framework that extends the 2d context by enabling canvas interactivity
 - [Paper.js](http://paperjs.org/) - Canvas based vector graphics scripting framework
 - [Paths.js](https://github.com/andreaferretti/paths-js) - Generate SVG paths for geometric shapes
 - [p5js](http://p5js.org/) - Processing for Javascript
