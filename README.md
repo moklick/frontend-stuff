@@ -133,7 +133,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 - [Slideout.js](http://mango.github.io/slideout/) - A touch slideout navigation menu for mobile web apps
 - [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
-- [SweetAlert](http://tristanedwards.me/sweetalert) - An awesome replacement for JavaScript's alert
+- [SweetAlert](https://t4t5.github.io/sweetalert/) - An awesome replacement for JavaScript's alert
 - [swiper](http://www.idangero.us/swiper/) - Slider with touch support
 - [Toastr](http://codeseven.github.io/toastr/) - Simple toast notifications
 - [vex](http://github.hubspot.com/vex/docs/welcome/) - A modern dialog library which is highly configurable and easy to style
