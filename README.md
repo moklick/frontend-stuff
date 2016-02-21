@@ -221,6 +221,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [popmotion](http://popmotion.io/) - Motion Engine. Use for animation, physics and input tracking. 
 - [semantic ui - transition](http://semantic-ui.com/modules/transition.html) - Simple CSS3 Animations and transitions
 - [Sequence.js](https://github.com/IanLunn/Sequence/) - Responsive CSS animation framework
+- [shifty](https://jeremyckahn.github.io/shifty/) - Tweening engine 
 - [snabbt](https://daniel-lundin.github.io/snabbt.js/) - Animations with JavaScript and CSS transforms
 - [snapsvg](http://snapsvg.io/) - Library for animating and manipulating SVG's
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
