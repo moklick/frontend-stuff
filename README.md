@@ -29,6 +29,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Numbers & Currencies](#numbers--currencies)
 - [Module Loaders](#module-loaders)
 - [Lazy Loading](#lazy-loading)
+- [Neural Networks](#neural-networks)
 - [Social](#social)
 - [General](#general)
 
@@ -356,6 +357,13 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [lazysizes](https://github.com/aFarkas/lazysizes) - fast and self-initializing lazyloader for images, iframes and more
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
+
+**[⬆ back to top](#table-of-contents)**
+
+### Neural Networks
+- [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) - Library for training Deep Learning models 
+- [Mind](http://www.mindjs.net/) - Flexible neural networks
+- [synaptic.js](http://synaptic.juancazala.com/#/) - Architecture-free neural network
 
 **[⬆ back to top](#table-of-contents)**
 
