@@ -231,6 +231,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
 - [velocity](http://velocityjs.org/) - Accelerated JavaScript animations
 - [vivus](https://maxwellito.github.io/vivus/) - Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearence of being drawn
+- [mo.js](https://github.com/legomushroom/mojs) - Motion graphics toolbelt for the web
 
 **[⬆ back to top](#table-of-contents)**
 
