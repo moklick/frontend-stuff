@@ -179,6 +179,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [soundjs](http://createjs.com/SoundJS) - Audio library + simple interface
 - [timbre.js](http://mohayonao.github.io/timbre.js/) -Library for Objective Sound Programming
 - [vexflow](http://www.vexflow.com/) - HTML5 Music Engraving
+- [tone.js](https://github.com/Tonejs/Tone.js) - Framework for interactive music
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -194,6 +195,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [rune.js](http://runemadsen.github.io/rune.js/index.html) - A Library for programming graphic design systems with SVG
 - [svg.js](https://github.com/wout/svg.js) - A Library for manipulating and animating SVG
 - [two.js](https://jonobr1.github.io/two.js/) -  A two-dimensional drawing api
+- [pixi.js](http://www.pixijs.com/) - 2D WebGL rendering engine with Canvas fallback
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -387,5 +389,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [modernizr](http://modernizr.com/) - Feature Detection Library
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
 - [UpUp](https://www.talater.com/upup/) - Offline First library. Let users visit your site, even without a connection.
+- [dat.GUI](https://github.com/dataarts/dat.gui) - Minimal interface for live control of variables in JS
 
 **[⬆ back to top](#table-of-contents)**
