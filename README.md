@@ -241,6 +241,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [mustache](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
 - [paperclip.js](http://paperclipjs.com/) - Reactive DOM template engine built for speed and extensibility
+- [vdo](https://github.com/DylanPiercey/vdo) - Minimal JSX compatible html focused templating engine
 
 **[⬆ back to top](#table-of-contents)**
 
