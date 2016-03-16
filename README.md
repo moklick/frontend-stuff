@@ -32,6 +32,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Lazy Loading](#lazy-loading)
 - [Neural Networks](#neural-networks)
 - [Social](#social)
+- [Utility Libraries](#utility-libraries)
 - [General](#general)
 
 ### CSS Frameworks
@@ -391,12 +392,17 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 **[⬆ back to top](#table-of-contents)**
 
+### Utility Libraries
+- [lazy.js](http://danieltao.com/lazy.js/) - A functional utility library
+- [lodash](https://lodash.com/) - Utility library delivering modularity, performance & extras.
+- [underscore](http://underscorejs.org/) - Library that provides functional programming helpers
+- [ramdajs](http://ramdajs.com/) - A practical functional library
+
 ### General
 - [embed.js](https://github.com/ritz078/embed.js) - Automatically embeds emojis, media, maps, tweets, code and services
 - [formstone](http://formstone.it/) - Collection of handy useful scripts
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
 - [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
-- [lodash](https://lodash.com/) - Utility library delivering consistency, modularity, performance, & extras
 - [modernizr](http://modernizr.com/) - Feature Detection Library
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
 - [UpUp](https://www.talater.com/upup/) - Offline First library. Let users visit your site, even without a connection.
