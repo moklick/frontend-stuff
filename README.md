@@ -68,6 +68,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [umbrella](https://github.com/umbrellajs/umbrella) - DOM, Event and AJAX library
 - [zeptojs](http://zeptojs.com/) - Library with a largely jQuery-compatible API
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Charts
 - [chartist](http://gionkunz.github.io/chartist-js/) - Simple responsive charts
 - [chartjs](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
@@ -397,6 +399,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [lodash](https://lodash.com/) - Utility library delivering modularity, performance & extras.
 - [underscore](http://underscorejs.org/) - Library that provides functional programming helpers
 - [ramdajs](http://ramdajs.com/) - A practical functional library
+
+**[⬆ back to top](#table-of-contents)**
 
 ### General
 - [embed.js](https://github.com/ritz078/embed.js) - Automatically embeds emojis, media, maps, tweets, code and services
