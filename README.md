@@ -4,7 +4,8 @@ Frontend stuff
 A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
 
 ## Table of Contents
-- [UI Frameworks](#ui-frameworks)
+- [CSS Frameworks](#css-frameworks)
+- [Allrounder](#css-frameworks)
 - [Charts](#charts)
 - [Maps](#maps)
 - [Tables](#tables)
@@ -33,7 +34,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Social](#social)
 - [General](#general)
 
-### UI Frameworks
+### CSS Frameworks
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
 - [BASSCSS](http://www.basscss.com/) - Low-level CSS toolkit
 - [bootflat](http://bootflat.github.io/index.html) - Bootstrap with a flat design theme
@@ -57,6 +58,14 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
 
 **[⬆ back to top](#table-of-contents)**
+
+### Allrounder (jQuery like)
+
+- [bliss](http://blissfuljs.com/) - A collection of helpers and light syntactic sugar over Vanilla JS
+- [jQuery](https://jquery.com/) - Feature-rich JavaScript library
+- [NodeList.js](https://github.com/eorroe/NodeList.js) - Use the Native DOM APIs as easily as jQuery
+- [umbrella](https://github.com/umbrellajs/umbrella) - DOM, Event and AJAX library
+- [zeptojs](http://zeptojs.com/) - Library with a largely jQuery-compatible API
 
 ### Charts
 - [chartist](http://gionkunz.github.io/chartist-js/) - Simple responsive charts
