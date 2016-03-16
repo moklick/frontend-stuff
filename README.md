@@ -5,7 +5,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ## Table of Contents
 - [CSS Frameworks](#css-frameworks)
-- [Allrounder](#css-frameworks)
+- [Allrounder](#allrounder-jquery-like)
 - [Charts](#charts)
 - [Maps](#maps)
 - [Tables](#tables)
