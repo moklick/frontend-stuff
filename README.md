@@ -251,6 +251,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [dotjs](https://olado.github.io/doT/) - Fast templating engine
 - [Handlebars](http://handlebarsjs.com/) - Minimal Templating on Steroids
 - [Hogan](http://twitter.github.io/hogan.js/) - JavaScript templating
+- [marko](http://markojs.com/) - Fast and lightweight HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering, custom tags and a concise syntax
 - [mustache](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
 - [paperclip.js](http://paperclipjs.com/) - Reactive DOM template engine built for speed and extensibility
