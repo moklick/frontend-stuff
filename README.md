@@ -403,13 +403,14 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 **[⬆ back to top](#table-of-contents)**
 
 ### General
+- [dat.GUI](https://github.com/dataarts/dat.gui) - Minimal interface for live control of variables in JS
 - [embed.js](https://github.com/ritz078/embed.js) - Automatically embeds emojis, media, maps, tweets, code and services
 - [formstone](http://formstone.it/) - Collection of handy useful scripts
+- [interact.js](http://interactjs.io/) - Drag and drop, resizing and multi-touch gestures with inertia and snapping 
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
 - [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
 - [modernizr](http://modernizr.com/) - Feature Detection Library
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
 - [UpUp](https://www.talater.com/upup/) - Offline First library. Let users visit your site, even without a connection.
-- [dat.GUI](https://github.com/dataarts/dat.gui) - Minimal interface for live control of variables in JS
 
 **[⬆ back to top](#table-of-contents)**
