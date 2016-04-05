@@ -28,6 +28,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Dates](#dates)
 - [Internationalization](#internationalization)
 - [Numbers & Currencies](#numbers--currencies)
+- [Statistics & data analysis](#statistics--data-analysis)
 - [Module Loaders](#module-loaders)
 - [Lazy Loading](#lazy-loading)
 - [Neural Networks](#neural-networks)
@@ -354,7 +355,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ## Statistics & data analysis
 - [datakit](https://github.com/nathanepstein/datakit) - Framework for data analysis 
-- [datalib](https://github.com/vega/datalib) - Javascript data utility library
+- [datalib](https://github.com/vega/datalib) - Data utility library
+- [gauss](https://github.com/wayoutmind/gauss) - Statistics, analytics, and data library
 - [jstat](https://github.com/jstat/jstat) - Javascript Statistical Library
 - [science.js](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript
 - [simple-statistics](https://github.com/simple-statistics/simple-statistics) - simple statistics for node & browser javascript
