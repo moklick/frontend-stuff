@@ -362,6 +362,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [simple-statistics](https://github.com/simple-statistics/simple-statistics) - simple statistics for node & browser javascript
 - [statkit](https://github.com/rigtorp/statkit) - Statistics toolkit
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Module Loaders
 - [Browserify](http://browserify.org/) - Lets you require('modules') in the browser
 - [RequireJS](https://github.com/jrburke/requirejs) - A file and AMD module loader
