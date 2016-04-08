@@ -5,7 +5,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ## Table of Contents
 - [CSS Frameworks](#css-frameworks)
-- [Allrounder](#allrounder-jquery-like)
+- [Allrounder](#allrounder-jquery-like) (jQuery like)
 - [Charts](#charts)
 - [Maps](#maps)
 - [Tables](#tables)
@@ -64,6 +64,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Allrounder (jQuery like)
 
 - [bliss](http://blissfuljs.com/) - A collection of helpers and light syntactic sugar over Vanilla JS
+- [cash](https://github.com/kenwheeler/cash) - iLibrary for that provides jQuery style syntax to wrap modern Vanilla JS features
 - [jQuery](https://jquery.com/) - Feature-rich JavaScript library
 - [NodeList.js](https://github.com/eorroe/NodeList.js) - Use the Native DOM APIs as easily as jQuery
 - [umbrella](https://github.com/umbrellajs/umbrella) - DOM, Event and AJAX library
