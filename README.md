@@ -240,6 +240,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [impulse](http://impulse.luster.io/) - Dynamic physics interactions for the mobile web
 - [mojs](http://mojs.io/) - Motion for the web
 - [popmotion](http://popmotion.io/) - Motion Engine. Use for animation, physics and input tracking. 
+- [repaintless](http://szynszyliszys.github.io/repaintless/)  - Animation library that consists of animations that don't cause reflows and repaints
 - [semantic ui - transition](http://semantic-ui.com/modules/transition.html) - Simple CSS3 Animations and transitions
 - [Sequence.js](https://github.com/IanLunn/Sequence/) - Responsive CSS animation framework
 - [shifty](https://jeremyckahn.github.io/shifty/) - Tweening engine 
