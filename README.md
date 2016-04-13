@@ -4,7 +4,7 @@ Frontend stuff
 A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
 
 ## Table of Contents
-- [CSS Frameworks](#css-frameworks)
+- [UI Frameworks](#ui-frameworks)
 - [Allrounder](#allrounder-jquery-like) (jQuery like)
 - [Charts](#charts)
 - [Maps](#maps)
@@ -36,7 +36,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Utility Libraries](#utility-libraries)
 - [General](#general)
 
-### CSS Frameworks
+### UI Frameworks
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
 - [BASSCSS](http://www.basscss.com/) - Low-level CSS toolkit
 - [bootflat](http://bootflat.github.io/index.html) - Bootstrap with a flat design theme
@@ -415,6 +415,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [dat.GUI](https://github.com/dataarts/dat.gui) - Minimal interface for live control of variables in JS
 - [embed.js](https://github.com/ritz078/embed.js) - Automatically embeds emojis, media, maps, tweets, code and services
 - [formstone](http://formstone.it/) - Collection of handy useful scripts
+- [golden-layout](https://golden-layout.com/) - A multi-screen layout manager for webapps
 - [interact.js](http://interactjs.io/) - Drag and drop, resizing and multi-touch gestures with inertia and snapping 
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
 - [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
