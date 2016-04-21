@@ -223,6 +223,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
 - [ScrollMagic](http://janpaepke.github.io/ScrollMagic/) - Library for scroll interactions
 - [scrollreveal](https://scrollrevealjs.org/) - Scroll animations for web and mobile browsers
+- [ScrollToFixed](https://github.com/bigspotteddog/ScrollToFixed) - Used to fix elements on the page and move with the horizontal scroll
 - [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile and desktop
 - [space.js](https://github.com/gopatrik/space.js) - A HTML-driven JavaScript-library for narrative 3D-scrolling
 - [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
