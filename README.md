@@ -309,6 +309,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [ColorHexa](http://www.colorhexa.com/) - Color encyclopedia : Information and conversion
 - [colourco](http://colourco.de/) - Color scheme tool
 - [Colors](http://clrs.cc/) - Smarter Default colors on the web
+- [hcl-picker](http://tristen.ca/hcl-picker/) - Colorpicker for data
 - [kewler](https://github.com/adriantoine/kewler) - Functional and immutable color manipulation library
 - [uiGradients](http://uigradients.com/) - A handpicked collection of beautiful colour gradients for design and code
 - [vibrant.js](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image
