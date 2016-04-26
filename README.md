@@ -222,6 +222,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [grafijs](http://grafijs.org/) - Library with basic image processing functions
 - [smartcrop](https://github.com/jwagner/smartcrop.js/) - Content aware image cropping
 
+**[⬆ back to top](#table-of-contents)**
+
 ### Scrolling
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
 - [midnight.js](https://github.com/Aerolab/midnight.js) - Make your header looks great with the content below it as you scroll
