@@ -16,6 +16,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Video](#video)
 - [Audio](#audio)
 - [Canvas and SVG](#canvas-and-svg)
+- [Image Processing](#image-processing)
 - [Scrolling](#scrolling)
 - [Animations](#animations)
 - [Templating](#templating)
@@ -215,6 +216,11 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [vizflow](https://github.com/vizflow/vizflow) - Interactive visualization engine
 
 **[⬆ back to top](#table-of-contents)**
+
+### Image Processing
+- [camanjs](http://camanjs.com/) - Combination of a simple-to-use interface with advanced and image/canvas editing techniques
+- [grafijs](http://grafijs.org/) - Library with basic image processing functions
+- [smartcrop](https://github.com/jwagner/smartcrop.js/) - Content aware image cropping
 
 ### Scrolling
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
