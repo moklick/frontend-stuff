@@ -389,6 +389,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Lazy Loading
 - [Aload](http://pazguille.github.io/aload/) - Asynchronously loads images, scripts, styles and more
 - [echo](http://toddmotto.com/labs/echo/) - Standalone lazy loading image micro-library
+- [Lazy Progressive Enhancement](http://tylerdeitz.co/lazy-progressive-enhancement/) - A lazy image loader designed to enforce progressive enhancement and valid HTML
 - [layzr.js](http://callmecavs.github.io/layzr.js/) - Dependency-free library for lazy loading images
 - [lazysizes](https://github.com/aFarkas/lazysizes) - fast and self-initializing lazyloader for images, iframes and more
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
