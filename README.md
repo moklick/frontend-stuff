@@ -139,6 +139,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [MProgress.js](https://lightningtgc.github.io/MProgress.js/) - Google Material Design Progress Linear bar
 - [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
 - [nanobar](https://github.com/jacoborus/nanobar/) - Lightweight progress bars without jQuery
+- [PACE](http://github.hubspot.com/pace/docs/welcome/) - Automatic page load progress bar. Needs zero config. Easy themeable.
 - [PleaseWait.js](https://pathgather.github.io/please-wait/) - A simple library to show your users a beautiful splash page while your application loads
 
 **[⬆ back to top](#table-of-contents)**
