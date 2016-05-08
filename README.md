@@ -59,6 +59,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate
 - [tacit](https://github.com/yegor256/tacit) - CSS framework without classes
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
+- [HTML Starterkit](http://zitrusfrisch.com/html-starterkit/) - A simple, modular HTML5 template to kick off your responsive websites
 
 **[⬆ back to top](#table-of-contents)**
 
