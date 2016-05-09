@@ -46,6 +46,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
 - [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
 - [corpus](https://github.com/jamiewilson/corpus) - A collection of CSS things
+- [HTML Starterkit](http://zitrusfrisch.com/html-starterkit/) - HTML5 template to kick off your responsive websites
 - [kube](http://imperavi.com/kube/) - Minimalistic Web framework
 - [Material Design Lite](http://www.getmdl.io/) - Material Design Lite Components in HTML/CSS/JS
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
@@ -59,7 +60,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate
 - [tacit](https://github.com/yegor256/tacit) - CSS framework without classes
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
-- [HTML Starterkit](http://zitrusfrisch.com/html-starterkit/) - A simple, modular HTML5 template to kick off your responsive websites
 
 **[⬆ back to top](#table-of-contents)**
 
