@@ -347,11 +347,12 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 **[⬆ back to top](#table-of-contents)**
 
 ### Dates
-- [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
-- [sugar](http://sugarjs.com/dates) - Parse, create, manipulate, compare, format and display dates
 - [datedropper](http://felicegattuso.com/projects/datedropper/) - datedropper is a jQuery plugin that provides a quick and easy way to manage dates for input fields.
+- [date-fns](https://github.com/date-fns/date-fns) - Toolset for manipulating dates in a browser & Node.js
 - [instadate](https://github.com/teamweek/instadate) - A minimal high performance date library
+- [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
 - [Pikaday](http://dbushell.github.io/Pikaday/) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
+- [sugar](http://sugarjs.com/dates) - Parse, create, manipulate, compare, format and display dates
 
 **[⬆ back to top](#table-of-contents)**
 
