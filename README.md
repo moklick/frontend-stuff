@@ -4,7 +4,7 @@ Frontend stuff
 A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
 
 ## Table of Contents
-- [UI Frameworks](#ui-frameworks)
+- [CSS/UI Frameworks](#css-ui-frameworks)
 - [Allrounder](#allrounder-jquery-like) (jQuery like)
 - [Charts](#charts)
 - [Maps](#maps)
@@ -37,7 +37,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Utility Libraries](#utility-libraries)
 - [General](#general)
 
-### UI Frameworks
+### CSS/UI Frameworks
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
 - [BASSCSS](http://www.basscss.com/) - Low-level CSS toolkit
 - [bootflat](http://bootflat.github.io/index.html) - Bootstrap with a flat design theme
