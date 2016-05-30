@@ -4,7 +4,7 @@ Frontend stuff
 A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
 
 ## Table of Contents
-- [CSS/UI Frameworks](#css-ui-frameworks)
+- [CSS/UI Frameworks](#cssui-frameworks)
 - [Allrounder](#allrounder-jquery-like) (jQuery like)
 - [Charts](#charts)
 - [Maps](#maps)
