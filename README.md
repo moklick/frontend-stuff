@@ -277,6 +277,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### HTTP Requests
 - [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript and JSON(P)
+- [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client
 - [d3-request](https://github.com/d3/d3-request) - A convenient alternative to XMLHttpRequest
 - [fetch](https://github.com/github/fetch) - A `window.fetch` javascript polyfill
 - [intercooler-js](http://intercoolerjs.org/) - Making AJAX as easy as anchor tags
