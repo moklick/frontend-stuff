@@ -54,6 +54,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [milligram](http://milligram.github.io/) - Minimal setup of styles for a fast starting point.
 - [mui](https://www.muicss.com) - A Lightweight HTML/CSS/JS Framework implementing Material Design
 - [papier](http://gugel.io/papier/) - Material design like minimal CSS framework
+- [pavilion](http://www.pavilion.io/) - Unopinionated CSS framework
 - [picnicss](http://picnicss.com/) - Lightweight UI library
 - [pure](http://purecss.io/) - A set of small, responsive CSS modules
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
