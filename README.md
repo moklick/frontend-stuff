@@ -59,6 +59,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [pure](http://purecss.io/) - A set of small, responsive CSS modules
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
 - [skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate
+- [tachyons](http://tachyons.io/) - Modular UI framework
 - [tacit](https://github.com/yegor256/tacit) - CSS framework without classes
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
 
