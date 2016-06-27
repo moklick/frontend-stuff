@@ -246,6 +246,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Animations
 - [animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations
+- [Anime](http://anime-js.com/) - Anime is a flexible yet lightweight animation library
 - [bounce.js](http://bouncejs.com/) - CSS3 powered animations
 - [Dynamics.js](http://dynamicsjs.com/) - Library to create physics-based CSS animations
 - [GSAP](https://greensock.com/gsap) - Fast animation library
