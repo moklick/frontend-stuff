@@ -370,6 +370,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Numbro.js](http://numbrojs.com/) - Formatting and manipulating numbers in more than 30 languages
 - [accounting.js](http://openexchangerates.github.io/accounting.js) - Number, money and currency formatting
 - [money.js](http://openexchangerates.github.io/money.js/) - Currency conversion library
+- [cleave.js](http://nosir.github.io/cleave.js/) - Format input text content when you are typing
 
 **[⬆ back to top](#table-of-contents)**
 
