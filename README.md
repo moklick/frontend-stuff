@@ -408,6 +408,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Neural Networks
 - [brain](https://github.com/harthur-org/brain) - Neural networks in JavaScript
 - [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) - Library for training Deep Learning models 
+- [dn2a-javascript](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture
 - [Mind](http://www.mindjs.net/) - Flexible neural networks
 - [synaptic.js](http://synaptic.juancazala.com/#/) - Architecture-free neural network
 
