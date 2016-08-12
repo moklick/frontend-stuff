@@ -332,6 +332,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 **[⬆ back to top](#table-of-contents)**
 
 ### Databases
+- [basil.js](https://github.com/Wisembly/basil.js) - Persistence layer
 - [ForerunnerDB](http://www.forerunnerdb.com/) - Database with mongo-like query language and data-binding support
 - [localForage](https://github.com/mozilla/localForage) - Library like a localStorage API with fallback store for browsers with no IndexedDB or WebSQL support
 - [LokiJS](http://lokijs.org/) - Embeddable / in-memory database
