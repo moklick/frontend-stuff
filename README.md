@@ -433,6 +433,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [lazy.js](http://danieltao.com/lazy.js/) - A functional utility library
 - [lodash](https://lodash.com/) - Utility library delivering modularity, performance & extras.
 - [underscore](http://underscorejs.org/) - Library that provides functional programming helpers
+- [pareto.js](https://github.com/concretesolutions/pareto.js) - Functional utility library 
 - [ramdajs](http://ramdajs.com/) - A practical functional library
 
 **[⬆ back to top](#table-of-contents)**
