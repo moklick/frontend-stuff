@@ -6,7 +6,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ## Table of Contents
 - [CSS/UI Frameworks](#cssui-frameworks)
 - [Allrounder](#allrounder-jquery-like) (jQuery like)
-- [Frontend Frameworks/Ui Component Libraries](#frontend-frameworksui-component-libraries)
+- [Frontend Frameworks/UI Component Libraries](#frontend-frameworks-ui-component-libraries)
 - [Charts](#charts)
 - [Maps](#maps)
 - [Tables](#tables)
