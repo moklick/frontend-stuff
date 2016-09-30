@@ -83,7 +83,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [deku](https://github.com/anthonyshort/deku) - Library for rendering interfaces using pure functions and virtual DOM
 - [inferno](https://github.com/trueadm/inferno) - Isomorphic library for building high-performance user interfaces
 - [jsblocks](https://github.com/astoilkov/jsblocks) - MV-ish framework for single page apps
+- [mithril](https://github.com/lhorie/mithril.js/) - Client-side MVC framework
 - [preact](https://github.com/developit/preact) - React ES6 API + Components & Virtual DOM
+- [react-lite](https://github.com/Lucifier129/react-lite) - Implementation of React that optimizes for small script size
 - [riot](http://riotjs.com/) - User interface micro-library
 - [vue](https://github.com/vuejs/vue) - Library for building web interfaces
 
