@@ -84,6 +84,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [inferno](https://github.com/trueadm/inferno) - Isomorphic library for building high-performance user interfaces
 - [jsblocks](https://github.com/astoilkov/jsblocks) - MV-ish framework for single page apps
 - [preact](https://github.com/developit/preact) - React ES6 API + Components & Virtual DOM
+- [riot](http://riotjs.com/) - User interface micro-library
+- [vue](https://github.com/vuejs/vue) - Library for building web interfaces
 
 **[⬆ back to top](#table-of-contents)**
 
