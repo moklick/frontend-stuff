@@ -6,6 +6,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ## Table of Contents
 - [CSS/UI Frameworks](#cssui-frameworks)
 - [Allrounder](#allrounder-jquery-like) (jQuery like)
+- [Frontend Frameworks/Ui Component Libraries](#frontend-frameworksui-component-libraries)
 - [Charts](#charts)
 - [Maps](#maps)
 - [Tables](#tables)
@@ -74,6 +75,15 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [NodeList.js](https://github.com/eorroe/NodeList.js) - Use the Native DOM APIs as easily as jQuery
 - [umbrella](https://github.com/umbrellajs/umbrella) - DOM, Event and AJAX library
 - [zeptojs](http://zeptojs.com/) - Library with a largely jQuery-compatible API
+
+**[⬆ back to top](#table-of-contents)**
+
+### Frontend Frameworks/ Ui Component Libraries
+- [choo](https://github.com/yoshuawuyts/choo) - Isomorphic, single state, functional frontend framework
+- [deku](https://github.com/anthonyshort/deku) - Library for rendering interfaces using pure functions and virtual DOM
+- [inferno](https://github.com/trueadm/inferno) - Isomorphic library for building high-performance user interfaces
+- [jsblocks](https://github.com/astoilkov/jsblocks) - MV-ish framework for single page apps
+- [preact](https://github.com/developit/preact) - React ES6 API + Components & Virtual DOM
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -438,6 +448,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [ramdajs](http://ramdajs.com/) - A practical functional library
 
 **[⬆ back to top](#table-of-contents)**
+
 
 ### General
 - [dat.GUI](https://github.com/dataarts/dat.gui) - Minimal interface for live control of variables in JS
