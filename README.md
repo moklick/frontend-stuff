@@ -19,6 +19,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Canvas and SVG](#canvas-and-svg)
 - [Image Processing](#image-processing)
 - [Scrolling](#scrolling)
+- [Touch Gestures](#touch-gestures)
 - [Animations](#animations)
 - [Templating](#templating)
 - [HTTP Requests](#http-requests)
@@ -105,7 +106,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
 - [morrisjs](https://github.com/morrisjs/morris.js) - SVG charts based on jquery and Raphael
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
-- [peity](http://benpickles.github.io/peity/) - Progressive mini <svg> pie, donut, bar and line charts
+- [peity](http://benpickles.github.io/peity/) - Progressive mini \<svg\> pie, donut, bar and line charts
 - [sparkline](http://omnipotent.net/jquery.sparkline/) - Sparkline charts library
 - [sparky](http://prag.ma/code/sparky/) - Sparkline charts library based on rapahel
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
@@ -260,6 +261,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it:
 
 **[⬆ back to top](#table-of-contents)**
+
+### Touch Gestures
+- [AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) - Multi-touch gestures library
+- [Hammer.js](http://hammerjs.github.io/) - Add support for touch gestures and remove 300ms delay from clicks
 
 ### Animations
 - [animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations
