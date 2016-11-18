@@ -18,7 +18,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Video](#video)
 - [Audio](#audio)
 - [Canvas and SVG](#canvas-and-svg)
-- [3D/WebGL Frameworks](#3dwegl-frameworks)
+- [3D/WebGL Frameworks](#3dwebgl-frameworks)
 - [Image Processing](#image-processing)
 - [Scrolling](#scrolling)
 - [Touch Gestures](#touch-gestures)
@@ -270,6 +270,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Scrolling
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
+- [in-view](https://camwiegert.github.io/in-view) - Get notified when a element enters/exits the viewport
 - [midnight.js](https://github.com/Aerolab/midnight.js) - Make your header looks great with the content below it as you scroll
 - [scroll-scope.js](http://eiskis.net/scroll-scope/) - Keep parent element still when scrolling an element to its boundary
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
@@ -288,6 +289,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Touch Gestures
 - [AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) - Multi-touch gestures library
 - [Hammer.js](http://hammerjs.github.io/) - Add support for touch gestures and remove 300ms delay from clicks
+
+**[⬆ back to top](#table-of-contents)**
 
 ### Animations
 - [animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations
@@ -398,18 +401,19 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 **[⬆ back to top](#table-of-contents)**
 
 ### Dates
-- [datedropper](http://felicegattuso.com/projects/datedropper/) - datedropper is a jQuery plugin that provides a quick and easy way to manage dates for input fields.
-- [date-fns](https://github.com/date-fns/date-fns) - Toolset for manipulating dates in a browser & Node.js
-- [instadate](https://github.com/teamweek/instadate) - A minimal high performance date library
+- [datedropper](http://felicegattuso.com/projects/datedropper/) - JQuery plugin that provides a way to manage dates for input fields
+- [dateformat](https://github.com/felixge/node-dateformat) - Library for formatting dates
+- [date-fns](https://github.com/date-fns/date-fns) - Toolset for manipulating dates
+- [instadate](https://github.com/teamweek/instadate) - A minimal date library
 - [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
-- [Pikaday](http://dbushell.github.io/Pikaday/) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
+- [Pikaday](http://dbushell.github.io/Pikaday/) - A lightweight Datepicker
 - [sugar](http://sugarjs.com/dates) - Parse, create, manipulate, compare, format and display dates
 
 **[⬆ back to top](#table-of-contents)**
 
 ### Internationalization
 - [l10ns](http://l10ns.org/) - Internationalization workflowand formatting
-- [globalize](https://github.com/jquery/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
+- [globalize](https://github.com/jquery/globalize) - A library for internationalization and localization that leverages the official Unicode CLDR JSON data
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -480,7 +484,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [ramdajs](http://ramdajs.com/) - A practical functional library
 
 **[⬆ back to top](#table-of-contents)**
-
 
 ### General
 - [dat.GUI](https://github.com/dataarts/dat.gui) - Minimal interface for live control of variables in JS
