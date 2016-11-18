@@ -5,14 +5,15 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ## Table of Contents
 - [CSS/UI Frameworks](#cssui-frameworks)
-- [Allrounder](#allrounder-jquery-like) (jQuery like)
 - [Frontend Frameworks/UI Component Libraries](#frontend-frameworks-ui-component-libraries)
+- [Allrounder](#allrounder-jquery-like) (jQuery like)
 - [Charts](#charts)
 - [Maps](#maps)
 - [Tables](#tables)
 - [Selects](#selects)
 - [Loaders](#loaders)
 - [UI Elements](#ui-elements)
+- [Content Slider/Carousels](#content-slider-carousels)
 - [Typography](#typography)
 - [Video](#video)
 - [Audio](#audio)
@@ -68,17 +69,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 **[⬆ back to top](#table-of-contents)**
 
-### Allrounder (jQuery like)
-
-- [bliss](http://blissfuljs.com/) - A collection of helpers and light syntactic sugar over Vanilla JS
-- [cash](https://github.com/kenwheeler/cash) - Library that provides jQuery style syntax to wrap modern Vanilla JS features
-- [jQuery](https://jquery.com/) - Feature-rich JavaScript library
-- [NodeList.js](https://github.com/eorroe/NodeList.js) - Use the Native DOM APIs as easily as jQuery
-- [umbrella](https://github.com/umbrellajs/umbrella) - DOM, Event and AJAX library
-- [zeptojs](http://zeptojs.com/) - Library with a largely jQuery-compatible API
-
-**[⬆ back to top](#table-of-contents)**
-
 ### Frontend Frameworks/ Ui Component Libraries
 - [Aurelia](http://aurelia.io/) - UI framework for the browser, mobile or desktop apps
 - [choo](https://github.com/yoshuawuyts/choo) - Isomorphic, single state, functional frontend framework
@@ -91,6 +81,17 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [riot](http://riotjs.com/) - User interface micro-library
 - [skatejs](https://github.com/skatejs/skatejs) - Web component library
 - [vue](https://github.com/vuejs/vue) - Library for building web interfaces
+
+**[⬆ back to top](#table-of-contents)**
+
+### Allrounder (jQuery like)
+
+- [bliss](http://blissfuljs.com/) - A collection of helpers and light syntactic sugar over Vanilla JS
+- [cash](https://github.com/kenwheeler/cash) - Library that provides jQuery style syntax to wrap modern Vanilla JS features
+- [jQuery](https://jquery.com/) - Feature-rich JavaScript library
+- [NodeList.js](https://github.com/eorroe/NodeList.js) - Use the Native DOM APIs as easily as jQuery
+- [umbrella](https://github.com/umbrellajs/umbrella) - DOM, Event and AJAX library
+- [zeptojs](http://zeptojs.com/) - Library with a largely jQuery-compatible API
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -155,7 +156,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 **[⬆ back to top](#table-of-contents)**
 
-### Loaders 
+### Loaders
 - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations
 - [MProgress.js](https://lightningtgc.github.io/MProgress.js/) - Google Material Design Progress Linear bar
 - [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
@@ -169,15 +170,21 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
 - [countUp.js](https://inorganik.github.io/countUp.js/) - Count up or down animation effects for numbers
 - [Flipside](http://lab.hakim.se/flipside/) - A button that seamlessly transitions from action to confirmation with flipping animation
-- [lory](http://meandmax.github.io/lory/) - Minimalistic slider written in vanilla JavaScript
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 - [Slideout.js](http://mango.github.io/slideout/) - A touch slideout navigation menu for mobile web apps
-- [slick](http://kenwheeler.github.io/slick/) - Fully responsive carousel
 - [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
 - [SweetAlert](https://t4t5.github.io/sweetalert/) - An awesome replacement for JavaScript's alert
-- [swiper](http://www.idangero.us/swiper/) - Slider with touch support
 - [Toastr](http://codeseven.github.io/toastr/) - Simple toast notifications
 - [vex](http://github.hubspot.com/vex/docs/welcome/) - A modern dialog library which is highly configurable and easy to style
+
+**[⬆ back to top](#table-of-contents)**
+
+### Content Slider/Carousels
+- [lory](http://meandmax.github.io/lory/) - Minimalistic slider written in vanilla JavaScript
+- [slick](http://kenwheeler.github.io/slick/) - Fully responsive carousel
+- [swipe](https://github.com/lyfeyaj/swipe) - Touch slider with React and Angular support
+- [swiper](http://www.idangero.us/swiper/) - Slider with touch support
+
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -224,8 +231,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Canvas and SVG
 - [D3](http://d3js.org/) - A JavaScript visualization library for HTML and SVG
-- [Easeljs](http://www.createjs.com/easeljs) - Library for building canvas based interactive 2D content 
-- [Fabric.js](http://fabricjs.com/) - Canvas Library, SVG-to-Canvas (& Canvas-to-SVG) Parser 
+- [Easeljs](http://www.createjs.com/easeljs) - Library for building canvas based interactive 2D content
+- [Fabric.js](http://fabricjs.com/) - Canvas Library, SVG-to-Canvas (& Canvas-to-SVG) Parser
 - [GraphicsJS](http://www.graphicsjs.org/) - Graphics library with an intuitive API, based on SVG/VML technology
 - [Konva](http://konvajs.github.io/) - Framework that extends the 2d context by enabling canvas interactivity
 - [panzoom](https://github.com/anvaka/panzoom) - Pan and zoom SVG elements
@@ -279,11 +286,11 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Hover.css](http://ianlunn.github.io/Hover/) - CSS3 Hover Effects
 - [impulse](http://impulse.luster.io/) - Dynamic physics interactions for the mobile web
 - [mojs](http://mojs.io/) - Motion for the web
-- [popmotion](http://popmotion.io/) - Motion Engine. Use for animation, physics and input tracking. 
+- [popmotion](http://popmotion.io/) - Motion Engine. Use for animation, physics and input tracking.
 - [repaintless](http://szynszyliszys.github.io/repaintless/)  - Animation library that consists of animations that don't cause reflows and repaints
 - [semantic ui - transition](http://semantic-ui.com/modules/transition.html) - Simple CSS3 Animations and transitions
 - [Sequence.js](https://github.com/IanLunn/Sequence/) - Responsive CSS animation framework
-- [shifty](https://jeremyckahn.github.io/shifty/) - Tweening engine 
+- [shifty](https://jeremyckahn.github.io/shifty/) - Tweening engine
 - [snabbt](https://daniel-lundin.github.io/snabbt.js/) - Animations with JavaScript and CSS transforms
 - [snapsvg](http://snapsvg.io/) - Library for animating and manipulating SVG's
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
@@ -341,7 +348,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Colors
 - [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design
-- [Brand Colors](http://brandcolors.net) - Official color codes for the world's biggest brands 
+- [Brand Colors](http://brandcolors.net) - Official color codes for the world's biggest brands
 - [chromajs](http://old.driven-by-data.net/about/chromajs/) - Library for all kinds of color manipulations
 - [chromajs color scale helper](http://gka.github.io/palettes) - Tool to help us mastering multi-hued, multi-stops color scales
 - [coolors](http://coolors.co/) - Super fast color scheme generator
@@ -402,7 +409,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 **[⬆ back to top](#table-of-contents)**
 
 ### Statistics & data analysis
-- [datakit](https://github.com/nathanepstein/datakit) - Framework for data analysis 
+- [datakit](https://github.com/nathanepstein/datakit) - Framework for data analysis
 - [datalib](https://github.com/vega/datalib) - Data utility library
 - [gauss](https://github.com/wayoutmind/gauss) - Statistics, analytics, and data library
 - [jstat](https://github.com/jstat/jstat) - Javascript Statistical Library
@@ -434,7 +441,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Neural Networks
 - [brain](https://github.com/harthur-org/brain) - Neural networks in JavaScript
-- [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) - Library for training Deep Learning models 
+- [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) - Library for training Deep Learning models
 - [dn2a-javascript](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture
 - [Mind](http://www.mindjs.net/) - Flexible neural networks
 - [synaptic.js](http://synaptic.juancazala.com/#/) - Architecture-free neural network
@@ -456,7 +463,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [lazy.js](http://danieltao.com/lazy.js/) - A functional utility library
 - [lodash](https://lodash.com/) - Utility library delivering modularity, performance & extras.
 - [underscore](http://underscorejs.org/) - Library that provides functional programming helpers
-- [pareto.js](https://github.com/concretesolutions/pareto.js) - Functional utility library 
+- [pareto.js](https://github.com/concretesolutions/pareto.js) - Functional utility library
 - [ramdajs](http://ramdajs.com/) - A practical functional library
 
 **[⬆ back to top](#table-of-contents)**
@@ -467,7 +474,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [embed.js](https://github.com/ritz078/embed.js) - Automatically embeds emojis, media, maps, tweets, code and services
 - [formstone](http://formstone.it/) - Collection of handy useful scripts
 - [golden-layout](https://golden-layout.com/) - A multi-screen layout manager for webapps
-- [interact.js](http://interactjs.io/) - Drag and drop, resizing and multi-touch gestures with inertia and snapping 
+- [interact.js](http://interactjs.io/) - Drag and drop, resizing and multi-touch gestures with inertia and snapping
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
 - [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
 - [modernizr](http://modernizr.com/) - Feature Detection Library
