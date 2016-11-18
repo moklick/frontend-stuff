@@ -253,6 +253,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### 3D/WebGL Frameworks
 - [babylonJS](http://babylonjs.com/) - Framework for building 3D games with HTML5, WebGL and Web Audio
 - [sceneJS](http://scenejs.org/) - WebGL-based 3D visualization engine
+- [three.js](https://threejs.org/)- 3D Library which makes WebGL simpler
 - [voxel.js](http://voxeljs.com/) - Voxel game building toolkit
 - [WhitestormJS](https://whsjs.io/#/) - Framework for developing 3D web apps with physics
 
