@@ -181,7 +181,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Content Slider/Carousels
 - [lory](http://meandmax.github.io/lory/) - Minimalistic slider written in vanilla JavaScript
-- [slick](http://kenwheeler.github.io/slick/) - Fully responsive carousel
+- [ItemSlide.js](http://itemslide.github.io/) - Touch carousel (needs zepto or jquery)
+- [slick](http://kenwheeler.github.io/slick/) - Fully responsive carousel (needs zepto or jquery)
 - [swipe](https://github.com/lyfeyaj/swipe) - Touch slider with React and Angular support
 - [swiper](http://www.idangero.us/swiper/) - Slider with touch support
 
