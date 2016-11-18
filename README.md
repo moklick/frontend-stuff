@@ -18,6 +18,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Video](#video)
 - [Audio](#audio)
 - [Canvas and SVG](#canvas-and-svg)
+- [3D/WebGL Frameworks](#3dwegl-frameworks)
 - [Image Processing](#image-processing)
 - [Scrolling](#scrolling)
 - [Touch Gestures](#touch-gestures)
@@ -171,6 +172,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [countUp.js](https://inorganik.github.io/countUp.js/) - Count up or down animation effects for numbers
 - [Flipside](http://lab.hakim.se/flipside/) - A button that seamlessly transitions from action to confirmation with flipping animation
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
+- [nouislider](https://refreshless.com/nouislider/) - Range slider
 - [Slideout.js](http://mango.github.io/slideout/) - A touch slideout navigation menu for mobile web apps
 - [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
 - [SweetAlert](https://t4t5.github.io/sweetalert/) - An awesome replacement for JavaScript's alert
@@ -181,11 +183,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Content Slider/Carousels
 - [lory](http://meandmax.github.io/lory/) - Minimalistic slider written in vanilla JavaScript
-- [ItemSlide.js](http://itemslide.github.io/) - Touch carousel (needs zepto or jquery)
+- [ItemSlide.js](http://itemslide.github.io/) - Touch carousel (needs jquery)
 - [slick](http://kenwheeler.github.io/slick/) - Fully responsive carousel (needs zepto or jquery)
 - [swipe](https://github.com/lyfeyaj/swipe) - Touch slider with React and Angular support
 - [swiper](http://www.idangero.us/swiper/) - Slider with touch support
-
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -246,6 +247,14 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [svg.js](https://github.com/wout/svg.js) - A Library for manipulating and animating SVG
 - [two.js](https://jonobr1.github.io/two.js/) -  A two-dimensional drawing api
 - [vizflow](https://github.com/vizflow/vizflow) - Interactive visualization engine
+
+**[⬆ back to top](#table-of-contents)**
+
+### 3D/WebGL Frameworks
+- [babylonJS](http://babylonjs.com/) - Framework for building 3D games with HTML5, WebGL and Web Audio
+- [sceneJS](http://scenejs.org/) - WebGL-based 3D visualization engine
+- [voxel.js](http://voxeljs.com/) - Voxel game building toolkit
+- [WhitestormJS](https://whsjs.io/#/) - Framework for developing 3D web apps with physics
 
 **[⬆ back to top](#table-of-contents)**
 
