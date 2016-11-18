@@ -71,6 +71,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 **[⬆ back to top](#table-of-contents)**
 
 ### Frontend Frameworks/ Ui Component Libraries
+- [Angular](https://angularjs.org/) - HTML enhanced for web apps
 - [Aurelia](http://aurelia.io/) - UI framework for the browser, mobile or desktop apps
 - [choo](https://github.com/yoshuawuyts/choo) - Isomorphic, single state, functional frontend framework
 - [deku](https://github.com/anthonyshort/deku) - Library for rendering interfaces using pure functions and virtual DOM
@@ -78,6 +79,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [jsblocks](https://github.com/astoilkov/jsblocks) - MV-ish framework for single page apps
 - [mithril](https://github.com/lhorie/mithril.js/) - Client-side MVC framework
 - [preact](https://github.com/developit/preact) - React ES6 API + Components & Virtual DOM
+- [React](https://facebook.github.io/react/) - Library for building user interfaces
 - [react-lite](https://github.com/Lucifier129/react-lite) - Implementation of React that optimizes for small script size
 - [riot](http://riotjs.com/) - User interface micro-library
 - [skatejs](https://github.com/skatejs/skatejs) - Web component library
