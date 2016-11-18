@@ -169,6 +169,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
 - [countUp.js](https://inorganik.github.io/countUp.js/) - Count up or down animation effects for numbers
 - [Flipside](http://lab.hakim.se/flipside/) - A button that seamlessly transitions from action to confirmation with flipping animation
+- [lory](http://meandmax.github.io/lory/) - Minimalistic slider written in vanilla JavaScript
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 - [Slideout.js](http://mango.github.io/slideout/) - A touch slideout navigation menu for mobile web apps
 - [slick](http://kenwheeler.github.io/slick/) - Fully responsive carousel
