@@ -300,6 +300,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [GSAP](https://greensock.com/gsap) - Fast animation library
 - [Hover.css](http://ianlunn.github.io/Hover/) - CSS3 Hover Effects
 - [impulse](http://impulse.luster.io/) - Dynamic physics interactions for the mobile web
+- [KUTE.js](http://thednp.github.io/kute.js/#) - animation engine, memory efficient & modular code
 - [mojs](http://mojs.io/) - Motion for the web
 - [popmotion](http://popmotion.io/) - Motion Engine. Use for animation, physics and input tracking.
 - [repaintless](http://szynszyliszys.github.io/repaintless/)  - Animation library that consists of animations that don't cause reflows and repaints
