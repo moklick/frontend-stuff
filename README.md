@@ -202,6 +202,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [lettering](http://letteringjs.com/) - JQuery web typography plugin
 - [pen](http://sofish.github.io/pen) - Editor with markdown support
 - [Plumin.js](http://www.pluminjs.com/) - Create and manipulate fonts using javascript
+- [shave](https://dollarshaveclub.github.io/shave/) - Plugin for truncating text within an html element
 - [side-comments](http://aroc.github.io/side-comments-demo/) - Medium style comments
 - [slabText](https://github.com/freqdec/slabText) - jQuery plugin for producing big, bold & responsive headlines
 - [smart underline](https://eager.io/showcase/SmartUnderline/) - Descender-aware underlines for every browser
