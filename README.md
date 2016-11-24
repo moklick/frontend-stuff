@@ -14,7 +14,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Loaders](#loaders)
 - [UI Elements](#ui-elements)
 - [Content Slider/Carousels](#content-slider-carousels)
-- [Typography](#typography)
+- [Typography/Text](#typography-text)
 - [Video](#video)
 - [Audio](#audio)
 - [Canvas and SVG](#canvas-and-svg)
@@ -192,7 +192,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 **[⬆ back to top](#table-of-contents)**
 
-### Typography
+### Typography/Text
 - [bacon](http://baconforme.com/) - Wraps text around a Bézier curve or a line
 - [bigfoot.js](http://www.bigfootjs.com/) - Responsive popover footnotes
 - [dropcap.js](https://github.com/adobe-webplatform/dropcap.js) - CSS dropcaps
