@@ -83,12 +83,12 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [react-lite](https://github.com/Lucifier129/react-lite) - Implementation of React that optimizes for small script size
 - [riot](http://riotjs.com/) - User interface micro-library
 - [skatejs](https://github.com/skatejs/skatejs) - Web component library
+- [svelte](https://github.com/sveltejs/svelte) - The magical disappearing UI framework
 - [vue](https://github.com/vuejs/vue) - Library for building web interfaces
 
 **[⬆ back to top](#table-of-contents)**
 
 ### Allrounder (jQuery like)
-
 - [bliss](http://blissfuljs.com/) - A collection of helpers and light syntactic sugar over Vanilla JS
 - [cash](https://github.com/kenwheeler/cash) - Library that provides jQuery style syntax to wrap modern Vanilla JS features
 - [jQuery](https://jquery.com/) - Feature-rich JavaScript library
