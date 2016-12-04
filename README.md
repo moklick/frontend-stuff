@@ -138,6 +138,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [openlayers3](http://openlayers.org/) - Mapping library that supports different projections
 - [planetary](http://planetaryjs.com/) - Interactive globes for the web
 - [smallworld](http://mikefowler.me/smallworld.js/) - A small utility for generating a small world
+- [Tangram](https://mapzen.com/products/tangram/) - WebGL based map renderer
 - [topojson](https://github.com/mbostock/topojson) - An extension to GeoJSON that encodes topology
 - [turf](http://turfjs.org/) - A modular geospatial engine
 
