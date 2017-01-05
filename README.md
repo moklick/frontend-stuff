@@ -409,6 +409,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [datedropper](http://felicegattuso.com/projects/datedropper/) - JQuery plugin that provides a way to manage dates for input fields
 - [dateformat](https://github.com/felixge/node-dateformat) - Library for formatting dates
 - [date-fns](https://github.com/date-fns/date-fns) - Toolset for manipulating dates
+- [flatpickr](https://chmln.github.io/flatpickr/) - Lightweight date time picker without dependencies 
 - [instadate](https://github.com/teamweek/instadate) - A minimal date library
 - [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
 - [Pikaday](http://dbushell.github.io/Pikaday/) - A lightweight Datepicker
