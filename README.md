@@ -13,7 +13,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Selects](#selects)
 - [Loaders](#loaders)
 - [UI Elements](#ui-elements)
-- [Content Slider/Carousels](#content-slider-carousels)
+- [Content Slider/Carousels](#content-slidercarousels)
 - [Typography/Text](#typography-text)
 - [Video](#video)
 - [Audio](#audio)
