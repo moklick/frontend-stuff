@@ -14,7 +14,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Loaders](#loaders)
 - [UI Elements](#ui-elements)
 - [Content Slider/Carousels](#content-slidercarousels)
-- [Typography/Text](#typography-text)
+- [Typography/Text](#typographytext)
 - [Video](#video)
 - [Audio](#audio)
 - [Canvas and SVG](#canvas-and-svg)
