@@ -103,6 +103,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Charts
 - [chartist](http://gionkunz.github.io/chartist-js/) - Simple responsive charts
 - [chartjs](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
+- [Cytoscape.js](http://js.cytoscape.org/) - Graph theory / network library for analysis and visualisation
 - [c3](http://c3js.org/) - D3-based reusable chart library
 - [dc](http://dc-js.github.io/dc.js/) - For heavy amounts of data
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics powered by d3
@@ -110,6 +111,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [ECharts](http://echarts.baidu.com/index-en.html) - Charting library and interactive data visualization tool
 - [epoch](http://epochjs.github.io/epoch) - A general purpose, real-time visualization library
 - [flowchart.js](http://adrai.github.io/flowchart.js) - Draws flow charts from textual representation of the diagram
+- [ggraph](https://github.com/pcbje/ggraph) - Graph visualization of big messy data
 - [jsplumb](http://jsplumbtoolkit.com/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
 - [morrisjs](https://github.com/morrisjs/morris.js) - SVG charts based on jquery and Raphael
