@@ -351,6 +351,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [bean](https://github.com/fat/bean) - Events api
 - [gator.js](http://craig.is/riding/gators) - Simple event delegation
 - [EventEmitter2](https://github.com/asyncly/EventEmitter2) - Events API with wildcards
+- [mitt](https://github.com/developit/mitt) - Tiny functional event emitter / pubsub
 
 **[⬆ back to top](#table-of-contents)**
 
