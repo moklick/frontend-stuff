@@ -381,6 +381,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [colorbrewer2](http://colorbrewer2.org/) - Color advice for cartography
 - [ColorHexa](http://www.colorhexa.com/) - Color encyclopedia : Information and conversion
 - [colourco](http://colourco.de/) - Color scheme tool
+- [colormind](http://colormind.io/) - Deep learning AI that knows color theory and creates color schemes
 - [Colors](http://clrs.cc/) - Smarter Default colors on the web
 - [hcl-picker](http://tristen.ca/hcl-picker/) - Colorpicker for data
 - [kewler](https://github.com/adriantoine/kewler) - Functional and immutable color manipulation library
