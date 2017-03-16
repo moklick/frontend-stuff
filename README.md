@@ -451,6 +451,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Module Loaders
 - [Browserify](http://browserify.org/) - Lets you require('modules') in the browser
 - [RequireJS](https://github.com/jrburke/requirejs) - A file and AMD module loader
+- [Rollup](https://github.com/rollup/rollup) - ES6 module bundler with tree shaking abilities
 - [stealjs](http://stealjs.com/) - Dependency loader and builder
 - [Systemjs](https://github.com/systemjs/systemjs) - ES6, AMD and CommonJS loader
 - [webpack](http://webpack.github.io/) - CommonJs and AMD module loader
