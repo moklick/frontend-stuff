@@ -276,8 +276,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Scrolling
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
+- [headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it
 - [in-view](https://camwiegert.github.io/in-view) - Get notified when a element enters/exits the viewport
 - [midnight.js](https://github.com/Aerolab/midnight.js) - Make your header looks great with the content below it as you scroll
+- [moveTo](https://github.com/hsnaydd/moveTo) - Scroll animation library
 - [scroll-scope.js](http://eiskis.net/scroll-scope/) - Keep parent element still when scrolling an element to its boundary
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
 - [ScrollMagic](http://janpaepke.github.io/ScrollMagic/) - Library for scroll interactions
@@ -288,7 +290,6 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [space.js](https://github.com/gopatrik/space.js) - A HTML-driven JavaScript-library for narrative 3D-scrolling
 - [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
 - [WOW](http://mynameismatthieu.com/WOW/) - Reveal CSS animation as you scroll down a page
-- [headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it:
 
 **[⬆ back to top](#table-of-contents)**
 
