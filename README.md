@@ -82,6 +82,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [mithril](https://github.com/lhorie/mithril.js/) - Client-side MVC framework
 - [preact](https://github.com/developit/preact) - React ES6 API + Components & Virtual DOM
 - [React](https://facebook.github.io/react/) - Library for building user interfaces
+- [RE:DOM](https://github.com/pakastin/redom) - Library for creating user interfaces
 - [react-lite](https://github.com/Lucifier129/react-lite) - Implementation of React that optimizes for small script size
 - [riot](http://riotjs.com/) - User interface micro-library
 - [skatejs](https://github.com/skatejs/skatejs) - Web component library
