@@ -370,6 +370,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [the nounproject](http://thenounproject.com/) - Icon search
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
 - [Icomoon](https://icomoon.io/) - Website to custom build icon fonts
+- [useiconic](https://useiconic.com/) - Meet Iconic. The definitive icon set designed for the modern web
+
 
 **[ back to top](#table-of-contents)**
 
