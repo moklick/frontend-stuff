@@ -513,6 +513,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
 - [modernizr](http://modernizr.com/) - Feature Detection Library
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
+- [ThreeWords](https://github.com/albyr/threewords) - Converts numeric identifiers into human-readable words (e.g. in URLs)
 - [UpUp](https://www.talater.com/upup/) - Offline First library. Let users visit your site, even without a connection.
 
 **[ back to top](#table-of-contents)**
