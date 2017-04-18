@@ -97,6 +97,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [cash](https://github.com/kenwheeler/cash) - Library that provides jQuery style syntax to wrap modern Vanilla JS features
 - [jQuery](https://jquery.com/) - Feature-rich JavaScript library
 - [NodeList.js](https://github.com/eorroe/NodeList.js) - Use the Native DOM APIs as easily as jQuery
+- [Selector](https://github.com/Websilk/Selector) - Lightweight library used as a replacement for jQuery
 - [umbrella](https://github.com/umbrellajs/umbrella) - DOM, Event and AJAX library
 - [zeptojs](http://zeptojs.com/) - Library with a largely jQuery-compatible API
 
