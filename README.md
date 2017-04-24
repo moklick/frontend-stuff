@@ -425,6 +425,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
 - [Pikaday](http://dbushell.github.io/Pikaday/) - A lightweight Datepicker
 - [sugar](http://sugarjs.com/dates) - Parse, create, manipulate, compare, format and display dates
+- [tinytime](https://github.com/aweary/tinytime) - Light date and time formatter
 
 **[ back to top](#table-of-contents)**
 
