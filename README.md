@@ -362,6 +362,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Icons
 - [elegant](http://www.elegantthemes.com/blog/resources/elegant-icon-font) - Elegant Icon font
 - [evil icons](http://evil-icons.io/) - Lightweight SVG icons
+- [Feather](https://feathericons.com/) - Simply beautiful open source icons
 - [flaticon](http://flaticon.com/) - Tens of thousands of free monochromatic icons in SVG, font, PNG.
 - [fontawesome](http://fortawesome.github.io/Font-Awesome/) - Gives you scalable vector icons that can instantly be customized
 - [fontello](http://fontello.com/) - Icon fonts generator
