@@ -404,6 +404,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [LokiJS](http://lokijs.org/) - Embeddable / in-memory database
 - [lovefield](https://github.com/google/lovefield) - SQL-like, relational query engine for the browser
 - [pouchdb](http://pouchdb.com/) - Created to help developers build applications that work as well offline as they do online
+- [rxdb](https://github.com/pubkey/rxdb) - Reactive, serverless, client-side, offline-first database
 - [store.js](https://github.com/marcuswestin/store.js/) - LocalStorage wrapper for all browsers without using cookies or 
 flash. Uses localStorage, globalStorage and userData behavior
 - [taffydb](http://www.taffydb.com/) - Brings database features into your JavaScript applications
