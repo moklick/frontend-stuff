@@ -403,9 +403,11 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [localForage](https://github.com/mozilla/localForage) - Library like a localStorage API with fallback store for browsers with no IndexedDB or WebSQL support
 - [LokiJS](http://lokijs.org/) - Embeddable / in-memory database
 - [lovefield](https://github.com/google/lovefield) - SQL-like, relational query engine for the browser
-- [store.js](https://github.com/marcuswestin/store.js/) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage and userData behavior
 - [pouchdb](http://pouchdb.com/) - Created to help developers build applications that work as well offline as they do online
+- [store.js](https://github.com/marcuswestin/store.js/) - LocalStorage wrapper for all browsers without using cookies or 
+flash. Uses localStorage, globalStorage and userData behavior
 - [taffydb](http://www.taffydb.com/) - Brings database features into your JavaScript applications
+- [ZangoDB](https://github.com/erikolson186/zangodb) - MongoDB-like interface for HTML5 IndexedDB
 
 **[ back to top](#table-of-contents)**
 
