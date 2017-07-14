@@ -76,6 +76,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Aurelia](http://aurelia.io/) - UI framework for the browser, mobile or desktop apps
 - [choo](https://github.com/yoshuawuyts/choo) - Isomorphic, single state, functional frontend framework
 - [deku](https://github.com/anthonyshort/deku) - Library for rendering interfaces using pure functions and virtual DOM
+- [DisplayJS](https://github.com/arguiot/DisplayJS) - A simple JavaScript framework for building ambitious UIs.
 - [inferno](https://github.com/trueadm/inferno) - Isomorphic library for building high-performance user interfaces
 - [jsblocks](https://github.com/astoilkov/jsblocks) - MV-ish framework for single page apps
 - [mercury](https://github.com/Raynos/mercury) - Modular frontend framework
