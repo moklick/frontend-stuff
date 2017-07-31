@@ -206,6 +206,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [bacon](http://baconforme.com/) - Wraps text around a Bézier curve or a line
 - [bigfoot.js](http://www.bigfootjs.com/) - Responsive popover footnotes
 - [dropcap.js](https://github.com/adobe-webplatform/dropcap.js) - CSS dropcaps
+- [fitty](https://github.com/rikschennink/fitty) - Scales text so it fits to its parent container
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
 - [grande.js](https://github.com/mduvall/grande.js) - Library that implements features from Medium's editing experience
 - [lining.js](https://github.com/zmmbreeze/lining.js) - A complete DOWN-TO-THE-LINE control for radical web typography
