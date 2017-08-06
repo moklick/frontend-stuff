@@ -484,6 +484,7 @@ flash. Uses localStorage, globalStorage and userData behavior
 ### Neural Networks
 - [brain](https://github.com/harthur-org/brain) - Neural networks in JavaScript
 - [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) - Library for training Deep Learning models
+- [deeplearn.js](https://github.com/PAIR-code/deeplearnjs) - Hardware-accelerated machine intelligence library
 - [dn2a-javascript](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture
 - [Mind](http://www.mindjs.net/) - Flexible neural networks
 - [neurojs](https://github.com/janhuenermann/neurojs) - Deep learning and reinforcement learning library
