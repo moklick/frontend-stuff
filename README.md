@@ -489,6 +489,7 @@ flash. Uses localStorage, globalStorage and userData behavior
 - [Mind](http://www.mindjs.net/) - Flexible neural networks
 - [neurojs](https://github.com/janhuenermann/neurojs) - Deep learning and reinforcement learning library
 - [synaptic.js](http://synaptic.juancazala.com/#/) - Architecture-free neural network
+- [Tensor Fire](https://tenso.rs/) - Neural networks in the browser using WebGL
 
 **[ back to top](#table-of-contents)**
 
