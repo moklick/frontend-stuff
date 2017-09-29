@@ -392,6 +392,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Colors](http://clrs.cc/) - Smarter Default colors on the web
 - [hcl-picker](http://tristen.ca/hcl-picker/) - Colorpicker for data
 - [kewler](https://github.com/adriantoine/kewler) - Functional and immutable color manipulation library
+- [khroma](http://khroma.co/) - AI color tool for designers
 - [polychrome](https://github.com/cdonohue/polychrome) - Color manipulation helper
 - [uiGradients](http://uigradients.com/) - A handpicked collection of beautiful colour gradients for design and code
 - [vibrant.js](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image
