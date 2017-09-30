@@ -67,6 +67,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [tachyons](http://tachyons.io/) - Modular UI framework
 - [tacit](https://github.com/yegor256/tacit) - CSS framework without classes
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
+- [w3.css](https://www.w3schools.com/w3css/default.asp) - A modern CSS framework with built-in responsiveness
 - [wing](https://github.com/KingPixil/wing/) - Minimal CSS framework
 
 **[ back to top](#table-of-contents)**
