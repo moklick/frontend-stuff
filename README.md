@@ -106,6 +106,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Charts
 - [chartist](http://gionkunz.github.io/chartist-js/) - Simple responsive charts
+- [charts](https://github.com/frappe/charts) - SVG Charts with zero dependencies
 - [chartjs](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 - [Cytoscape.js](http://js.cytoscape.org/) - Graph theory / network library for analysis and visualisation
 - [c3](http://c3js.org/) - D3-based reusable chart library
