@@ -430,6 +430,7 @@ flash. Uses localStorage, globalStorage and userData behavior
 - [date-fns](https://github.com/date-fns/date-fns) - Toolset for manipulating dates
 - [flatpickr](https://chmln.github.io/flatpickr/) - Lightweight date time picker without dependencies 
 - [instadate](https://github.com/teamweek/instadate) - A minimal date library
+- [luxon](https://github.com/moment/luxon) - A library for working with dates and times
 - [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
 - [Pikaday](http://dbushell.github.io/Pikaday/) - A lightweight Datepicker
 - [sugar](http://sugarjs.com/dates) - Parse, create, manipulate, compare, format and display dates
