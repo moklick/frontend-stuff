@@ -185,6 +185,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Flipside](http://lab.hakim.se/flipside/) - A button that seamlessly transitions from action to confirmation with flipping animation
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 - [nouislider](https://refreshless.com/nouislider/) - Range slider
+- [nudge](https://github.com/OwenMelbz/jquery-nudge) - Simple ui component for nudge style messages
 - [Slideout.js](http://mango.github.io/slideout/) - A touch slideout navigation menu for mobile web apps
 - [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
 - [SweetAlert](https://t4t5.github.io/sweetalert/) - An awesome replacement for JavaScript's alert
