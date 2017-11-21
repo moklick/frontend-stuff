@@ -58,6 +58,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [milligram](http://milligram.github.io/) - Minimal setup of styles for a fast starting point.
 - [mini.css](https://chalarangelo.github.io/mini.css/) - A minimal, responsive, style-agnostic CSS framework/toolkit
 - [mui](https://www.muicss.com) - A Lightweight HTML/CSS/JS Framework implementing Material Design
+- [paperCSS](https://www.getpapercss.com/) - The Less Formal CSS Framework
 - [papier](http://gugel.io/papier/) - Material design like minimal CSS framework
 - [pavilion](http://www.pavilion.io/) - Unopinionated CSS framework
 - [picnicss](http://picnicss.com/) - Lightweight UI library
