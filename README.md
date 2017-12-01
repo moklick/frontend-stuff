@@ -308,6 +308,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 ### Animations
 - [animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations
+- [Animate Plus](https://github.com/bendc/animateplus) - Tiny (2 KB minified and gzipped) animation library
 - [Anime](http://anime-js.com/) - Anime is a flexible yet lightweight animation library
 - [bounce.js](http://bouncejs.com/) - CSS3 powered animations
 - [choreographer](https://github.com/christinecha/choreographer-js) - Library to take care of complicated css animations
