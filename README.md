@@ -48,7 +48,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Bootswatch](https://github.com/thomaspark/bootswatch) - A collection of themes for Bootstrap
 - [bulma](http://bulma.io/) - CSS framework based on Flexbox
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
-- [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
+- [caramel](http://caramel.kurisubrooks.com/) - A simple, beautiful, responsive, modern CSS framework
 - [corpus](https://github.com/jamiewilson/corpus) - A collection of CSS things
 - [HTML Starterkit](http://zitrusfrisch.com/html-starterkit/) - HTML5 template to kick off your responsive websites
 - [kube](http://imperavi.com/kube/) - Minimalistic Web framework
