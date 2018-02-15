@@ -207,6 +207,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Typography/Text
 - [bacon](http://baconforme.com/) - Wraps text around a Bézier curve or a line
 - [bigfoot.js](http://www.bigfootjs.com/) - Responsive popover footnotes
+- [Blotter](https://blotter.js.org/) - Unconventional text effects for the web
 - [dropcap.js](https://github.com/adobe-webplatform/dropcap.js) - CSS dropcaps
 - [fitty](https://github.com/rikschennink/fitty) - Scales text so it fits to its parent container
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
