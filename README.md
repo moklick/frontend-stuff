@@ -283,6 +283,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 **[ back to top](#table-of-contents)**
 
 ### Scrolling
+- [basicScroll](https://basicscroll.electerious.com/) - Standalone parallax scrolling for mobile and desktop with CSS variables
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
 - [headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it
 - [in-view](https://camwiegert.github.io/in-view) - Get notified when a element enters/exits the viewport
