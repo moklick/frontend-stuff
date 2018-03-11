@@ -238,6 +238,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 ### Audio
 - [abcjs](https://github.com/paulrosen/abcjs) - javascript for rendering abc music notation
 - [audio5js](https://github.com/zohararad/audio5js) - The HTML5 Audio Compatibility Layer
+- [bap](https://github.com/adamrenklint/bap) - Toolkit for making beats and composing sequences
 - [blip](http://jshanley.github.io/blip/) - Web Audio API wrapper
 - [howler](http://howlerjs.com/) - Audio library
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
