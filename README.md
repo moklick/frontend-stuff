@@ -236,14 +236,17 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 **[ back to top](#table-of-contents)**
 
 ### Audio
+- [abcjs](https://github.com/paulrosen/abcjs) - javascript for rendering abc music notation
 - [audio5js](https://github.com/zohararad/audio5js) - The HTML5 Audio Compatibility Layer
 - [blip](http://jshanley.github.io/blip/) - Web Audio API wrapper
 - [howler](http://howlerjs.com/) - Audio library
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
 - [soundjs](http://createjs.com/SoundJS) - Audio library + simple interface
-- [timbre.js](http://mohayonao.github.io/timbre.js/) -Library for Objective Sound Programming
-- [vexflow](http://www.vexflow.com/) - HTML5 Music Engraving
+- [timbre.js](http://mohayonao.github.io/timbre.js/) - Library for Objective Sound Programming
 - [tone.js](https://github.com/Tonejs/Tone.js) - Framework for interactive music
+- [tonal](https://github.com/danigb/tonal) - A functional music theory library
+- [vexflow](http://www.vexflow.com/) - Library for rendering music notation
+- [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform
 
 **[ back to top](#table-of-contents)**
 
