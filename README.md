@@ -102,7 +102,6 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [Selector](https://github.com/Websilk/Selector) - Lightweight library used as a replacement for jQuery
 - [umbrella](https://github.com/umbrellajs/umbrella) - DOM, Event and AJAX library
 - [zeptojs](http://zeptojs.com/) - Library with a largely jQuery-compatible API
-
 **[ back to top](#table-of-contents)**
 
 ### Charts
@@ -263,6 +262,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [pixi.js](http://www.pixijs.com/) - 2D WebGL rendering engine with Canvas fallback
 - [p5js](http://p5js.org/) - Processing for Javascript
 - [Raphael](http://raphaeljs.com/) - Library that simplify your work with vector graphics on the web
+- [Rough.js](https://roughjs.com/) - Create graphics with a hand-drawn, sketchy, appearance
 - [rune.js](http://runemadsen.github.io/rune.js/index.html) - A Library for programming graphic design systems with SVG
 - [svg.js](https://github.com/wout/svg.js) - A Library for manipulating and animating SVG
 - [two.js](https://jonobr1.github.io/two.js/) -  A two-dimensional drawing api
