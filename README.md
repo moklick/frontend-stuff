@@ -195,6 +195,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 **[ back to top](#table-of-contents)**
 
 ### Content Slider/Carousels
+- [Glide](https://glidejs.com/) - A dependency-free slider and carousel
 - [lory](http://meandmax.github.io/lory/) - Minimalistic slider written in vanilla JavaScript
 - [ItemSlide.js](http://itemslide.github.io/) - Touch carousel (needs jquery)
 - [Siema](https://pawelgrzybek.com/siema/) - Carousel with no dependencies
