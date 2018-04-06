@@ -470,6 +470,7 @@ flash. Uses localStorage, globalStorage and userData behavior
 - [science.js](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript
 - [simple-statistics](https://github.com/simple-statistics/simple-statistics) - simple statistics for node & browser javascript
 - [statkit](https://github.com/rigtorp/statkit) - Statistics toolkit
+- [stdlib](https://stdlib.io/) - Library with an emphasis on numerical and scientific computing applications
 
 **[ back to top](#table-of-contents)**
 
