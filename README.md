@@ -82,7 +82,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [jsblocks](https://github.com/astoilkov/jsblocks) - MV-ish framework for single page apps
 - [mercury](https://github.com/Raynos/mercury) - Modular frontend framework
 - [mithril](https://github.com/lhorie/mithril.js/) - Client-side MVC framework
-- [Moon](http://moonjs.ga/) - Minimal UI library 
+- [Moon](https://kbrsh.github.io/moon/) - Minimal UI library 
 - [preact](https://github.com/developit/preact) - React ES6 API + Components & Virtual DOM
 - [React](https://facebook.github.io/react/) - Library for building user interfaces
 - [RE:DOM](https://github.com/pakastin/redom) - Library for creating user interfaces
