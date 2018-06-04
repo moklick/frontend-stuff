@@ -99,6 +99,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [bliss](http://blissfuljs.com/) - A collection of helpers and light syntactic sugar over Vanilla JS
 - [cash](https://github.com/kenwheeler/cash) - Library that provides jQuery style syntax to wrap modern Vanilla JS features
 - [jQuery](https://jquery.com/) - Feature-rich JavaScript library
+- [nanoJS](https://github.com/vladocar/nanoJS/) - Minimal standalone JS library for DOM manipulation
 - [NodeList.js](https://github.com/eorroe/NodeList.js) - Use the Native DOM APIs as easily as jQuery
 - [Selector](https://github.com/Websilk/Selector) - Lightweight library used as a replacement for jQuery
 - [umbrella](https://github.com/umbrellajs/umbrella) - DOM, Event and AJAX library
