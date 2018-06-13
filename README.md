@@ -527,6 +527,7 @@ flash. Uses localStorage, globalStorage and userData behavior
 - [moutjs](http://moutjs.com/) - Collection of modular JavaScript utilities 
 - [pareto.js](https://github.com/concretesolutions/pareto.js) - Functional utility library
 - [ramdajs](http://ramdajs.com/) - A practical functional library
+- [Sugar](https://sugarjs.com/) - Utility library for working with native objects
 - [underscore](http://underscorejs.org/) - Library that provides functional programming helpers
 
 **[ back to top](#table-of-contents)**
