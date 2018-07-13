@@ -133,6 +133,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library
 - [VivaGraph](https://github.com/anvaka/VivaGraphJS) - Extensible graph drawing library
 - [Z3d](https://github.com/NathanEpstein/Z3d) - 3d plots with three.js
+- [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based React chart for Bootstrap and Material Design.
 
 **[ back to top](#table-of-contents)**
 
@@ -162,6 +163,8 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor
 - [ListJS](http://www.listjs.com/) - Adds search, sort, filters and flexibility to plain HTML lists, tables, or anything
 - [sortable](http://github.hubspot.com/sortable/docs/welcome/) - Makes tables sortable
+- [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based React data grid for Bootstrap and Material Design.
+- [DevExtreme Vue Grid](https://devexpress.github.io/devextreme-reactive/vue/grid/) - High-performance plugin-based Vue data grid for Bootstrap and Material Design.
 
 **[ back to top](#table-of-contents)**
 
