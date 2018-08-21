@@ -465,7 +465,7 @@ flash. Uses localStorage, globalStorage and userData behavior
 
 **[ back to top](#table-of-contents)**
 
-### Statistics & data analysis
+### Statistics & Data Analysis
 - [datakit](https://github.com/nathanepstein/datakit) - Framework for data analysis
 - [datalib](https://github.com/vega/datalib) - Data utility library
 - [gauss](https://github.com/wayoutmind/gauss) - Statistics, analytics, and data library
@@ -474,6 +474,7 @@ flash. Uses localStorage, globalStorage and userData behavior
 - [simple-statistics](https://github.com/simple-statistics/simple-statistics) - simple statistics for node & browser javascript
 - [statkit](https://github.com/rigtorp/statkit) - Statistics toolkit
 - [stdlib](https://stdlib.io/) - Library with an emphasis on numerical and scientific computing applications
+- [TheoremJS](https://github.com/arguiot/TheoremJS) - A Math library for computation
 
 **[ back to top](#table-of-contents)**
 
