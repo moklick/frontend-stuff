@@ -117,6 +117,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3
 - [ECharts](http://echarts.baidu.com/index-en.html) - Charting library and interactive data visualization tool
 - [epoch](http://epochjs.github.io/epoch) - A general purpose, real-time visualization library
+- [f2](https://github.com/antvis/f2) - Interactive and flexible charting library for mobile
 - [flowchart.js](http://adrai.github.io/flowchart.js) - Draws flow charts from textual representation of the diagram
 - [ggraph](https://github.com/pcbje/ggraph) - Graph visualization of big messy data
 - [jsplumb](http://jsplumbtoolkit.com/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
