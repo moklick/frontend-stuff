@@ -295,20 +295,13 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 ### Scrolling
 - [basicScroll](https://basicscroll.electerious.com/) - Standalone parallax scrolling for mobile and desktop with CSS variables
 - [emergence.js](https://github.com/xtianmiller/emergence.js) - Detect element visibility in the browser
-- [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
 - [headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it
 - [in-view](https://camwiegert.github.io/in-view) - Get notified when a element enters/exits the viewport
-- [midnight.js](https://github.com/Aerolab/midnight.js) - Make your header looks great with the content below it as you scroll
 - [moveTo](https://github.com/hsnaydd/moveTo) - Scroll animation library
 - [scroll-scope.js](http://eiskis.net/scroll-scope/) - Keep parent element still when scrolling an element to its boundary
-- [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
 - [ScrollMagic](http://janpaepke.github.io/ScrollMagic/) - Library for scroll interactions
 - [scrollMonitor](https://github.com/stutrek/scrollMonitor) - API to monitor elements as you scroll
 - [scrollreveal](https://scrollrevealjs.org/) - Scroll animations for web and mobile browsers
-- [ScrollToFixed](https://github.com/bigspotteddog/ScrollToFixed) - Used to fix elements on the page and move with the horizontal scroll
-- [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile and desktop
-- [space.js](https://github.com/gopatrik/space.js) - A HTML-driven JavaScript-library for narrative 3D-scrolling
-- [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
 - [verge](https://github.com/ryanve/verge) - Get viewport dimensions, detect elements in the viewport
 
 **[ back to top](#table-of-contents)**
