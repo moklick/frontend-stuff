@@ -309,6 +309,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile and desktop
 - [space.js](https://github.com/gopatrik/space.js) - A HTML-driven JavaScript-library for narrative 3D-scrolling
 - [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
+- [verge](https://github.com/ryanve/verge) - Get viewport dimensions, detect elements in the viewport
 
 **[ back to top](#table-of-contents)**
 
