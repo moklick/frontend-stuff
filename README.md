@@ -294,6 +294,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 
 ### Scrolling
 - [basicScroll](https://basicscroll.electerious.com/) - Standalone parallax scrolling for mobile and desktop with CSS variables
+- [emergence.js](https://github.com/xtianmiller/emergence.js) - Detect element visibility in the browser
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
 - [headroom](http://wicky.nillia.ms/headroom.js/) - Hide your header until you need it
 - [in-view](https://camwiegert.github.io/in-view) - Get notified when a element enters/exits the viewport
@@ -308,7 +309,6 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile and desktop
 - [space.js](https://github.com/gopatrik/space.js) - A HTML-driven JavaScript-library for narrative 3D-scrolling
 - [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The jQuery plugin for supercool scroll animation
-- [WOW](http://mynameismatthieu.com/WOW/) - Reveal CSS animation as you scroll down a page
 
 **[ back to top](#table-of-contents)**
 
