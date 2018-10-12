@@ -123,6 +123,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [jsplumb](http://jsplumbtoolkit.com/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
 - [morrisjs](https://github.com/morrisjs/morris.js) - SVG charts based on jquery and Raphael
+- [muze](https://github.com/chartshq/muze) - Composable data visualisation lib with a data-first approach 
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
 - [peity](http://benpickles.github.io/peity/) - Progressive mini \<svg\> pie, donut, bar and line charts
 - [sparkline](http://omnipotent.net/jquery.sparkline/) - Sparkline charts library
