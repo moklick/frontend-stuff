@@ -165,6 +165,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor
 - [ListJS](http://www.listjs.com/) - Adds search, sort, filters and flexibility to plain HTML lists, tables, or anything
 - [sortable](http://github.hubspot.com/sortable/docs/welcome/) - Makes tables sortable
+- [tui-grid](https://ui.toast.com/tui-grid/) - Widget to visualize and edit data via its table representation
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based spreadsheet 
 
 **[ back to top](#table-of-contents)**
