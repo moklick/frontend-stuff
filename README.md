@@ -260,6 +260,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 **[ back to top](#table-of-contents)**
 
 ### Canvas and SVG
+- [canvas-sketch](https://github.com/mattdesl/canvas-sketch) - Framework for making generative artwork
 - [D3](http://d3js.org/) - A JavaScript visualization library for HTML and SVG
 - [Easeljs](http://www.createjs.com/easeljs) - Library for building canvas based interactive 2D content
 - [Fabric.js](http://fabricjs.com/) - Canvas Library, SVG-to-Canvas (& Canvas-to-SVG) Parser
