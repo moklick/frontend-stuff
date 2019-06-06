@@ -275,6 +275,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [Rough.js](https://roughjs.com/) - Create graphics with a hand-drawn, sketchy, appearance
 - [rune.js](http://runemadsen.github.io/rune.js/index.html) - A Library for programming graphic design systems with SVG
 - [svg.js](https://github.com/wout/svg.js) - A Library for manipulating and animating SVG
+- [svg-3d-builder](https://github.com/captainwz/svg-3d-builder) - Tool to create 3d model with svg 
 - [two.js](https://jonobr1.github.io/two.js/) -  A two-dimensional drawing api
 - [vizflow](https://github.com/vizflow/vizflow) - Interactive visualization engine
 - [Zdog](https://github.com/metafizzy/zdog) - Pseudo-3D engine for canvas & SVG
