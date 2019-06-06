@@ -330,6 +330,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [popmotion](http://popmotion.io/) - Motion Engine. Use for animation, physics and input tracking.
 - [rebound](http://facebook.github.io/rebound-js/examples/) - Library that models Spring dynamics for driving physical animations
 - [repaintless](http://szynszyliszys.github.io/repaintless/)  - Animation library that consists of animations that don't cause reflows and repaints
+- [Scene.js](http://daybrush.com/scenejs/) - Timeline-based animation library
 - [semantic ui - transition](http://semantic-ui.com/modules/transition.html) - Simple CSS3 Animations and transitions
 - [Sequence.js](https://github.com/IanLunn/Sequence/) - Responsive CSS animation framework
 - [shifty](https://jeremyckahn.github.io/shifty/) - Tweening engine
