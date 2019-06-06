@@ -377,6 +377,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 
 ### Icons
 - [elegant](http://www.elegantthemes.com/blog/resources/elegant-icon-font) - Elegant Icon font
+- [eva-icons](https://github.com/akveo/eva-icons) - Icon pack with SVG, Sketch, Web Font and animation support
 - [evil icons](http://evil-icons.io/) - Lightweight SVG icons
 - [Feather](https://feathericons.com/) - Simply beautiful open source icons
 - [flaticon](http://flaticon.com/) - Tens of thousands of free monochromatic icons in SVG, font, PNG.
