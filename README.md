@@ -276,6 +276,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [svg.js](https://github.com/wout/svg.js) - A Library for manipulating and animating SVG
 - [two.js](https://jonobr1.github.io/two.js/) -  A two-dimensional drawing api
 - [vizflow](https://github.com/vizflow/vizflow) - Interactive visualization engine
+- [Zdog](https://github.com/metafizzy/zdog) - Pseudo-3D engine for canvas & SVG
 
 **[ back to top](#table-of-contents)**
 
