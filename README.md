@@ -383,12 +383,13 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [fontawesome](http://fortawesome.github.io/Font-Awesome/) - Gives you scalable vector icons that can instantly be customized
 - [fontello](http://fontello.com/) - Icon fonts generator
 - [foundation icon font 3](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Zurb Icon Font 3
+- [Icomoon](https://icomoon.io/) - Website to custom build icon fonts
+- [ikonate](https://ikonate.com/) - Fully customisable & accessible vector icons
 - [ionicons](http://ionicons.com/) - The icon font for Ionic Framework
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [octicons](https://octicons.github.com/) - Github icons
 - [the nounproject](http://thenounproject.com/) - Icon search
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
-- [Icomoon](https://icomoon.io/) - Website to custom build icon fonts
 
 **[ back to top](#table-of-contents)**
 
