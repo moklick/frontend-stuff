@@ -9,7 +9,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [Allrounder](#allrounder-jquery-like) (jQuery like)
 - [Charts](#charts)
 - [Maps](#maps)
-- [Tables](#tables)
+- [Tables & Spreadsheets](#tables--spreadsheets)
 - [Selects](#selects)
 - [Loaders](#loaders)
 - [UI Elements](#ui-elements)
@@ -158,13 +158,14 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 
 **[ back to top](#table-of-contents)**
 
-### Tables
+### Tables & Spreadsheets
 - [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Vanilla plugin to display large data sets
 - [DataTables](http://www.datatables.net/) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
 - [dynatables](http://www.dynatable.com/) - Semantic and interactive table plugin using jQuery, HTML5, and JSON
 - [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor
 - [ListJS](http://www.listjs.com/) - Adds search, sort, filters and flexibility to plain HTML lists, tables, or anything
 - [sortable](http://github.hubspot.com/sortable/docs/welcome/) - Makes tables sortable
+- [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based spreadsheet 
 
 **[ back to top](#table-of-contents)**
 
