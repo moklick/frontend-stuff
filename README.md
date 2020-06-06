@@ -122,6 +122,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [epoch](http://epochjs.github.io/epoch) - A general purpose, real-time visualization library
 - [f2](https://github.com/antvis/f2) - Interactive and flexible charting library for mobile
 - [flowchart.js](http://adrai.github.io/flowchart.js) - Draws flow charts from textual representation of the diagram
+- [Frappe](https://frappe.io/charts) - SVG charts for the web with zero dependencies
 - [ggraph](https://github.com/pcbje/ggraph) - Graph visualization of big messy data
 - [jsplumb](http://jsplumbtoolkit.com/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
