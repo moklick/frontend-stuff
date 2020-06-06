@@ -91,6 +91,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [react-lite](https://github.com/Lucifier129/react-lite) - Implementation of React that optimizes for small script size
 - [riot](http://riotjs.com/) - User interface micro-library
 - [skatejs](https://github.com/skatejs/skatejs) - Web component library
+- [Solid](https://github.com/ryansolid/solid) -  declarative and flexible library for building user interfaces
 - [svelte](https://github.com/sveltejs/svelte) - The magical disappearing UI framework
 - [vue](https://github.com/vuejs/vue) - Library for building web interfaces
 
