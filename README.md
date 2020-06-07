@@ -462,7 +462,7 @@ flash. Uses localStorage, globalStorage and userData behavior
 **[ back to top](#table-of-contents)**
 
 ### Internationalization
-- [l10ns](http://l10ns.org/) - Internationalization workflowand formatting
+- [l10ns](http://l10ns.org/) - Internationalization workflow and formatting
 - [globalize](https://github.com/jquery/globalize) - A library for internationalization and localization that leverages the official Unicode CLDR JSON data
 
 **[ back to top](#table-of-contents)**
