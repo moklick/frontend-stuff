@@ -135,6 +135,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [timesheet.js](https://sbstjn.github.io/timesheet.js/) - HTML5 & CSS3 time sheets
 - [tui.chart](https://github.com/nhnent/tui.chart) - Data visualization library with IE8 support
+- [uPlot](https://github.com/leeoniya/uPlot) - Canvas based chart for time series, lines, areas, ohlc & bars
 - [uvCharts](https://github.com/imaginea/uvCharts) - Simple, robust, extensible charting library built using d3
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library
 - [VivaGraph](https://github.com/anvaka/VivaGraphJS) - Extensible graph drawing library
