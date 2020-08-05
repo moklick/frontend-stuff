@@ -226,6 +226,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [dropcap.js](https://github.com/adobe-webplatform/dropcap.js) - CSS dropcaps
 - [fitty](https://github.com/rikschennink/fitty) - Scales text so it fits to its parent container
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
+- [Fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages
 - [grande.js](https://github.com/mduvall/grande.js) - Library that implements features from Medium's editing experience
 - [lining.js](https://github.com/zmmbreeze/lining.js) - A complete DOWN-TO-THE-LINE control for radical web typography
 - [lettering](http://letteringjs.com/) - JQuery web typography plugin
