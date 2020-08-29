@@ -409,6 +409,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [chromajs](http://old.driven-by-data.net/about/chromajs/) - Library for all kinds of color manipulations
 - [chromajs color scale helper](http://gka.github.io/palettes) - Tool to help us mastering multi-hued, multi-stops color scales
 - [coolors](http://coolors.co/) - Super fast color scheme generator
+- [ColorsWall](https://colorswall.com/) - place to store your color palettes and easy generate
 - [color](http://color.hailpixel.com/) - Intuitive color picker
 - [colorbrewer2](http://colorbrewer2.org/) - Color advice for cartography
 - [ColorHexa](http://www.colorhexa.com/) - Color encyclopedia : Information and conversion
