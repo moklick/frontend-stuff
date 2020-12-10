@@ -426,17 +426,15 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 
 ### Databases/Storage
 - [basil.js](https://github.com/Wisembly/basil.js) - Persistence layer
-- [Dexie.js](http://dexie.org/) - Wrapper for IndexedDB
-- [ForerunnerDB](http://www.forerunnerdb.com/) - Database with mongo-like query language and data-binding support
+- [Dexie.js](https://dexie.org/) - Wrapper for IndexedDB
+- [ForerunnerDB](https://www.forerunnerdb.com/) - Database with mongo-like query language and data-binding support
+- [idb](https://github.com/jakearchibald/idb) - IndexedDB with Promises
 - [localForage](https://github.com/mozilla/localForage) - Library like a localStorage API with fallback store for browsers with no IndexedDB or WebSQL support
-- [LokiJS](http://lokijs.org/) - Embeddable / in-memory database
+- [LokiJS](https://github.com/techfort/LokiJS) - Embeddable / in-memory database
 - [lovefield](https://github.com/google/lovefield) - SQL-like, relational query engine for the browser
 - [pouchdb](http://pouchdb.com/) - Created to help developers build applications that work as well offline as they do online
 - [rxdb](https://github.com/pubkey/rxdb) - Reactive, serverless, client-side, offline-first database
-- [store.js](https://github.com/marcuswestin/store.js/) - LocalStorage wrapper for all browsers without using cookies or 
-flash. Uses localStorage, globalStorage and userData behavior
-- [taffydb](http://www.taffydb.com/) - Brings database features into your JavaScript applications
-- [ZangoDB](https://github.com/erikolson186/zangodb) - MongoDB-like interface for HTML5 IndexedDB
+- [store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage using localStorage, globalStorage or userData
 
 **[ back to top](#table-of-contents)**
 
@@ -449,7 +447,6 @@ flash. Uses localStorage, globalStorage and userData behavior
 **[ back to top](#table-of-contents)**
 
 ### Dates
-- [datedropper](http://felicegattuso.com/projects/datedropper/) - JQuery plugin that provides a way to manage dates for input fields
 - [dateformat](https://github.com/felixge/node-dateformat) - Library for formatting dates
 - [date-fns](https://github.com/date-fns/date-fns) - Toolset for manipulating dates
 - [flatpickr](https://chmln.github.io/flatpickr/) - Lightweight date time picker without dependencies 
