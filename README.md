@@ -159,6 +159,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [Tangram](https://mapzen.com/products/tangram/) - WebGL based map renderer
 - [topojson](https://github.com/mbostock/topojson) - An extension to GeoJSON that encodes topology
 - [turf](http://turfjs.org/) - A modular geospatial engine
+- [harp.gl](https://github.com/heremaps/harp.gl) - Web map rendering engine
 
 **[ back to top](#table-of-contents)**
 
