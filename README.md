@@ -554,5 +554,6 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
 - [UpUp](https://www.talater.com/upup/) - Offline First library. Let users visit your site, even without a connection.
 - [bro-fs](https://github.com/vitalets/bro-fs) - Promise-based wrapper over [HTML5 Filesystem API](https://dev.w3.org/2009/dap/file-system/file-dir-sys.html) allowing to work with sandboxed filesystem in Chrome
+- [Windframe](https://www.devwares.com/windframe/) - A design and prototyping tool for building webpages using tailwind css
 
 **[ back to top](#table-of-contents)**
