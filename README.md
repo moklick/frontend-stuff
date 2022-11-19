@@ -43,6 +43,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 
 ### CSS/UI Frameworks
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
 - [BASSCSS](http://www.basscss.com/) - Low-level CSS toolkit
 - [bootflat](http://bootflat.github.io/index.html) - Bootstrap with a flat design theme
 - [Bootswatch](https://github.com/thomaspark/bootswatch) - A collection of themes for Bootstrap
