@@ -445,6 +445,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [Parsley](https://github.com/guillaumepotier/Parsley.js) - Easy Form validation
 - [validate.js](https://github.com/rickharrison/validate.js) - Form validation library inspired by CodeIgniter
 - [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization
+- [yup](https://github.com/jquense/yup) - Yup is a schema builder for runtime value parsing and validation. 
 
 **[ back to top](#table-of-contents)**
 
