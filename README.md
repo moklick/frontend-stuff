@@ -42,9 +42,6 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [General](#general)
 
 ### CSS/UI Frameworks
-- [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
-- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
-- [BASSCSS](http://www.basscss.com/) - Low-level CSS toolkit
 - [bootflat](http://bootflat.github.io/index.html) - Bootstrap with a flat design theme
 - [Bootswatch](https://github.com/thomaspark/bootswatch) - A collection of themes for Bootstrap
 - [bulma](http://bulma.io/) - CSS framework based on Flexbox
@@ -66,7 +63,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [picnicss](http://picnicss.com/) - Lightweight UI library
 - [pure](http://purecss.io/) - A set of small, responsive CSS modules
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
-- [skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
 - [tachyons](http://tachyons.io/) - Modular UI framework
 - [tacit](https://github.com/yegor256/tacit) - CSS framework without classes
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
@@ -99,7 +96,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 **[ back to top](#table-of-contents)**
 
 ### Allrounder (jQuery like)
-- [bliss](http://blissfuljs.com/) - A collection of helpers and light syntactic sugar over Vanilla JS
+- [bliss](https://blissfuljs.com/) - A collection of helpers and light syntactic sugar over Vanilla JS
 - [cash](https://github.com/kenwheeler/cash) - Library that provides jQuery style syntax to wrap modern Vanilla JS features
 - [jQuery](https://jquery.com/) - Feature-rich JavaScript library
 - [nanoJS](https://github.com/vladocar/nanoJS/) - Minimal standalone JS library for DOM manipulation
@@ -107,6 +104,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [Selector](https://github.com/Websilk/Selector) - Lightweight library used as a replacement for jQuery
 - [umbrella](https://github.com/umbrellajs/umbrella) - DOM, Event and AJAX library
 - [zeptojs](http://zeptojs.com/) - Library with a largely jQuery-compatible API
+- 
 **[ back to top](#table-of-contents)**
 
 ### Charts
@@ -131,9 +129,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [muze](https://github.com/chartshq/muze) - Composable data visualisation lib with a data-first approach 
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
 - [peity](http://benpickles.github.io/peity/) - Progressive mini \<svg\> pie, donut, bar and line charts
-- [sparkline](http://omnipotent.net/jquery.sparkline/) - Sparkline charts library
-- [sparky](http://prag.ma/code/sparky/) - Sparkline charts library based on rapahel
-- [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
+- [taucharts](https://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [timesheet.js](https://sbstjn.github.io/timesheet.js/) - HTML5 & CSS3 time sheets
 - [tui.chart](https://github.com/nhnent/tui.chart) - Data visualization library with IE8 support
 - [uPlot](https://github.com/leeoniya/uPlot) - Canvas based chart for time series, lines, areas, ohlc & bars
@@ -145,12 +141,10 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 **[ back to top](#table-of-contents)**
 
 ### Maps
-- [Cesium](http://cesiumjs.org/) - Library for creating 3D globes and 2D maps in a web browser without a plugin
+- [Cesium](https://cesiumjs.org/) - Library for creating 3D globes and 2D maps in a web browser without a plugin
 - [harp.gl](https://github.com/heremaps/harp.gl) - Web map rendering engine
-- [Kartograph](http://kartograph.org/) - Simple and lightweight framework for building interactive map applications without Google Maps
-- [leaflet](http://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
+- [leaflet](https://leafletjs.com/) - Library for Mobile-Friendly Interactive Maps
 - [leaflet plugins](http://leafletjs.com/plugins.html) - Notable Leaflet Plugins
-- [leaflet topojson support](https://gist.github.com/rclark/5779673) - TopoJSON-aware Leaflet layer
 - [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/) - Interactive WebGL maps from vector tiles
 - [mapmap.js](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 - [mapsicon](https://github.com/djaiss/mapsicon) - Collection of maps for nearly every country in the world in PNG and SVG
@@ -169,7 +163,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [DataTables](http://www.datatables.net/) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
 - [dynatables](http://www.dynatable.com/) - Semantic and interactive table plugin using jQuery, HTML5, and JSON
 - [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor
-- [ListJS](http://www.listjs.com/) - Adds search, sort, filters and flexibility to plain HTML lists, tables, or anything
+- [ListJS](https://listjs.com/) - Adds search, sort, filters and flexibility to plain HTML lists, tables, or anything
 - [sortable](http://github.hubspot.com/sortable/docs/welcome/) - Makes tables sortable
 - [tablesaw](https://github.com/filamentgroup/tablesaw) - A group of plugins for responsive tables
 - [tui-grid](https://ui.toast.com/tui-grid/) - Widget to visualize and edit data via its table representation
@@ -187,9 +181,9 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 ### Loaders
 - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations
 - [MProgress.js](https://lightningtgc.github.io/MProgress.js/) - Google Material Design Progress Linear bar
-- [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
+- [NProgress](https://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
 - [nanobar](https://github.com/jacoborus/nanobar/) - Lightweight progress bars without jQuery
-- [PACE](http://github.hubspot.com/pace/docs/welcome/) - Automatic page load progress bar. Needs zero config. Easy themeable.
+- [PACE](https://github.hubspot.com/pace/docs/welcome/) - Automatic page load progress bar. Needs zero config. Easy themeable.
 - [PleaseWait.js](https://pathgather.github.io/please-wait/) - A simple library to show your users a beautiful splash page while your application loads
 
 **[ back to top](#table-of-contents)**
