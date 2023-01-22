@@ -216,33 +216,20 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 **[ back to top](#table-of-contents)**
 
 ### Typography/Text
-- [bacon](http://baconforme.com/) - Wraps text around a Bézier curve or a line
-- [bigfoot.js](http://www.bigfootjs.com/) - Responsive popover footnotes
 - [Blotter](https://blotter.js.org/) - Unconventional text effects for the web
-- [dropcap.js](https://github.com/adobe-webplatform/dropcap.js) - CSS dropcaps
 - [fitty](https://github.com/rikschennink/fitty) - Scales text so it fits to its parent container
-- [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
-- [grande.js](https://github.com/mduvall/grande.js) - Library that implements features from Medium's editing experience
-- [lining.js](https://github.com/zmmbreeze/lining.js) - A complete DOWN-TO-THE-LINE control for radical web typography
-- [lettering](http://letteringjs.com/) - JQuery web typography plugin
-- [pen](http://sofish.github.io/pen) - Editor with markdown support
-- [Plumin.js](http://www.pluminjs.com/) - Create and manipulate fonts using javascript
+- [flowtype](https://simplefocus.com/flowtype/) - Responsive typography
+- [RoughNotation](https://github.com/rough-stuff/rough-notation) - Library to create and animate annotations
 - [shave](https://dollarshaveclub.github.io/shave/) - Plugin for truncating text within an html element
-- [side-comments](http://aroc.github.io/side-comments-demo/) - Medium style comments
-- [slabText](https://github.com/freqdec/slabText) - jQuery plugin for producing big, bold & responsive headlines
-- [smart underline](https://eager.io/showcase/SmartUnderline/) - Descender-aware underlines for every browser
-- [typeahead.js](http://twitter.github.com/typeahead.js) - Foundation for building robust typeaheads
-- [Typeplate](http://typeplate.com/) - A typographic starter kit
 - [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
 
 **[ back to top](#table-of-contents)**
 
 ### Video
-- [Fitvid](http://fitvidsjs.com/) - Responsive videos
-- [medialementjs](http://mediaelementjs.com/) - Video and audio handling
-- [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions
+- [medialementjs](https://mediaelementjs.com/) - Video and audio handling
+- [Plyr](https://plyr.io/) - A simple HTML5 media player with custom controls
 - [talkie](https://github.com/kiln/talkie) - Combines audio and animations
-- [Videojs](http://www.videojs.com/) - Open source HTML5 video player
+- [Videojs](https://www.videojs.com/) - Open source HTML5 video player
 
 **[ back to top](#table-of-contents)**
 
@@ -250,10 +237,8 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [abcjs](https://github.com/paulrosen/abcjs) - javascript for rendering abc music notation
 - [audio5js](https://github.com/zohararad/audio5js) - The HTML5 Audio Compatibility Layer
 - [bap](https://github.com/adamrenklint/bap) - Toolkit for making beats and composing sequences
-- [blip](http://jshanley.github.io/blip/) - Web Audio API wrapper
 - [howler](http://howlerjs.com/) - Audio library
-- [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
-- [soundjs](http://createjs.com/SoundJS) - Audio library + simple interface
+- [soundjs](https://createjs.com/SoundJS) - Audio library + simple interface
 - [timbre.js](http://mohayonao.github.io/timbre.js/) - Library for Objective Sound Programming
 - [tone.js](https://github.com/Tonejs/Tone.js) - Framework for interactive music
 - [tonal](https://github.com/danigb/tonal) - A functional music theory library
