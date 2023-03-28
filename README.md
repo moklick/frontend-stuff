@@ -72,6 +72,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 **[ back to top](#table-of-contents)**
 
 ### Frontend Frameworks/ Ui Component Libraries
+- [Stencil](https://stenciljs.com/) - A compiler for generating Web Components
 - [Angular](https://angularjs.org/) - HTML enhanced for web apps
 - [Aurelia](http://aurelia.io/) - UI framework for the browser, mobile or desktop apps
 - [choo](https://github.com/yoshuawuyts/choo) - Isomorphic, single state, functional frontend framework
