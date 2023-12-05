@@ -92,6 +92,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [Solid](https://github.com/ryansolid/solid) -  declarative and flexible library for building user interfaces
 - [svelte](https://github.com/sveltejs/svelte) - The magical disappearing UI framework
 - [vue](https://github.com/vuejs/vue) - Library for building web interfaces
+- [stencil](https://github.com/ionic-team/stencil) - A library for building reusable, scalable component libraries
 
 **[ back to top](#table-of-contents)**
 
